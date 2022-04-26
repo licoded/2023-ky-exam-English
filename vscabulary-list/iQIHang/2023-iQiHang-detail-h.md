@@ -1,726 +1,680 @@
-## gamble
+## habitat
 
-> 真题出现频率：21
+> 真题出现频率：7
 
-> 谐音“敢不”→“你敢赌一回吗？”→ v.&n. 赌博；冒险
+> habit+at（在）→“居住在这里”，这里就是→ n. 栖息地，住所
 
 ### 意思
 
-v.&n.赌博；冒险
+n.栖息地，住所
 
 ### 派生词
 
-gambling n. 赌博，投机 gambler n. 赌博者，赌徒
+habitation n. 住宅，家
 
 ### 例句
 
-The gamble paid off. #赌博赢了。
+The panda's natural habitat is the bamboo forest. #大熊猫的天然栖息地是竹林。
 
 ### 真题例句
 
-He had never gambled before the casino sent him a coupon for ＄20 worth of gambling.【2006 年新题型】#他之前从没赌过，直到赌场送给他一张价值 20 美元赌资的体验券。
+[B] volunteer to set up an equally big habitat【英语二 2016 年阅读 Text 2 28题 B 选项】#[B] 自愿建立一个同等大小的栖息地
 
-## gender
+## hacker
 
-> 真题出现频率：17
+> 真题出现频率：4
 
-> gen+d（谐音“弟”）+er（表示人或物）→“基因”决定“人”长不长“小弟弟”→ n. 性别
+> 拟声词“黑客”
 
 ### 意思
 
-n.性别
+n. 黑客
+
+### 派生词
+
+hack v. [hæk] 非法侵入（他人计算机系统）
 
 ### 例句
 
-Gender roles are often conditioned by cultural factors. #文化因素常常对性别的角色有着重要的影响。
+who would be responsible if some hacker got hold of that code and broke into its other devices? #如果某个黑客获取了这些代码、用来入侵其他设备，那谁来负责呢?
 
 ### 真题例句
 
-And one of the easiest ways to segment a market is to magnify gender differences—or invent them where they did not previously exist. 【英语二 2012 年阅读 Text 2】#对市场进行细分最简单的方法就是夸大性别差异或者创造出之前不存在的差异。
+We often hear media reports that an unauthorized hacker has been able to access a computer database and to alter information stored there. 【英语二 2013 年完形】#我们经常听到媒体报道，未经授权的黑客已经能够访问计算机数据库并更改存储的信息。
+
+## handle
+
+> 真题出现频率：11
+
+> hand（手）+le（v.）→“用手”→ v. 处理；操纵
+
+### 意思
+
+v.处理；操纵
+
+### 例句
+
+Skycaps handle hundreds of bags each day. #机场行李搬运工每天处理成百上千件行李。
+
+### 真题例句
+
+[A] need extra doses of chemicals to handle stress 【2008 年阅读 Text 1 22 题 A选项】#[A] 需要额外剂量的化学物质来处理压力
+
+## harmony
+
+> 真题出现频率：7
+
+> har（简写自 harm；伤害，损害）+mon+y（n.）→“伤害任何一个人”，都会
+影响→ n. 和谐，融洽
+
+### 意思
+
+n.和谐，融洽
+
+### 派生词
+
+harmonious a. 和谐的，融洽的，协调的 harmonization n. 和谐，协调
+
+### 例句
+
+Was it on the train "Harmony" that John met with his girlfriend? #约翰是在“和谐号”列车上遇到他的女朋友的吗？
+
+### 真题例句
+
+Aimlessness has hardly been typical of the postwar Japan whose productivity and social harmony are the envy of the United States and Europe. 【2000 年阅读 Passage 4】#目标清晰是战后日本的特点，同时，其生产力与社会的和谐程度让美国和欧洲嫉妒不已。
 
 ### 真题固定搭配
 
-gender inequality 性别不平等 gender balance 性别平衡
+social harmony 社会和谐
 
-## gene
+## harness
 
-> 真题出现频率：27
+> 真题出现频率：2
+
+> har（改写自 hor=horse；马）+ness（n.&v.）→“用在马身上的东西”→
+n. 马具 v. 给（马等）套挽具→“马具就是用于控制马的”→ v. 控制，利用
+
+### 意思
+
+n.马具 v.给（马等）套挽具；控制，利用
+
+### 例句
+
+The vet had improvised a harness. #兽医临时凑成了一套马具。
+
+## harsh
+
+> 真题出现频率：2
+
+> 改写自 hard（艰难的，困难的）→因为此人“harsh”所以相处“hard”→a. 粗糙的；苛刻的，严酷的
+
+### 意思
+
+a.粗糙的；苛刻的，严酷的
+
+### 例句
+
+The minister received some harsh criticism. #部长受到了严厉的批评。
+
+## hasten
+
+> 真题出现频率：3
+
+> hast（改写自 fast；快速的）+en（使动）→“使之快速”→ v. 加速，催促
+
+### 意思
+
+v. 加速，催促
+
+### 例句
+
+She more than anyone had hastened to sign the contract.#她比谁都急着去签了合同。
+
+### 真题例句
+
+The climate change we are hastening could one day leave us with forests that emit more carbon than they absorb.【英语二 2019 年阅读 Text 2】#人类正在加速的气候变化也许有一天会让我们的森林排放出的碳比吸收的更多。
+
+## heal
+
+> 真题出现频率：2
+
+> 简写自 health（健康）→有了“health”不要 th（谐音“死”）→ v. 治疗，治愈
+
+### 意思
+
+v.治疗，治愈
+
+### 例句
+
+As they heal, the bones will fuse together. #骨头愈合时将会连接在一起。
+
+## heighten
+
+> 真题出现频率：3
+
+> height（n. 高，高度）+en（使动）→ v.（使）变高，加强
+
+### 意思
+
+v.（使）变高，加强
+
+### 例句
+
+The campaign is intended to heighten public awareness of the disease.#这场运动的目的是使公众更加了解这种疾病。
+
+### 真题例句
+
+[B] heightening the value of【英语一 2016 年阅读 Text 1 22 题 B 选项】#[B] 提高价值
+
+## heir
+
+> 真题出现频率：2
+
+> he（他）+i（我）+（he）r（她）→爸爸（he）和妈妈（her）的中间夹着我（i），我在爸爸（he）和妈妈（her）的中间，所以我就是父母的→ n. 继承人
+
+### 意思
+
+n.继承人
+
+### 例句
+
+Her duty was to produce an heir to the throne. #她的任务就是生育王位继承人。
+
+## hemisphere
+
+> 真题出现频率：2
+
+> hemi（改写自semi=half；半，一半）+sphere → n. 半球
+
+### 意思
+
+n.（地球的）半球；（大脑的）半球；（球体的）半球
+
+### 例句
+
+They say God spoke to them and told them to go on a mission to the poorest country in the Western Hemisphere.#他们说上帝向他们开口讲话，告诉他们到西半球最贫穷的国家继续进行传教活动。
+
+## heritage
+
+> 真题出现频率：3
+
+> herit+age（n.）→“继承的东西”→ n. 遗产
+
+### 意思
+
+n.遗产
+
+### 例句
+
+The building is part of our national heritage. #这个建筑是我们民族遗产的一部分。
+
+### 真题例句
+
+to embrace their cultural heritage and to study the stars 【英语一 2017 年阅读Text 2】#去拥抱他们的文化遗产并研究星象
+
+## hesitate
+
+> 真题出现频率：3
+
+> hes+it（无义）+ate（v.）→“做事很粘”；做还是不做呢，做吧，算了还是不做了→ v. 犹豫
+
+### 意思
+
+v.犹豫
+
+### 派生词
+
+hesitancy n. 犹豫，迟疑 hesitant a. 犹豫的，迟疑的
+
+### 例句
+
+He's the kind of filmmaker who doesn't hesitate to over-sentimentalize. #他是那种煽起情来从不迟疑的电影制作人。
+
+### 真题例句
+
+[D] slight hesitancy【英语一 2017 年阅读 Text 2 30 题 D 选项】#[D] 稍许犹豫
+
+### 真题固定搭配
+
+hesitate to do sth. 做某事很犹豫
+
+## highlight
+
+> 真题出现频率：9
+
+> high（高的）+light →“高处的灯光”；舞台剧里，为了凸显某个场景，会突然全场黑灯，然后从高处打出一束追光灯，照在主持人或嘉宾身上，所以
+“高处的灯光”表示→ v. 突出，强调
+
+### 意思
+
+v.突出，强调
+
+### 派生词
+
+highlighting n. 增强亮度；突出性，醒目性 v. 突出，强调（highlight 的现在
+分词）
+
+### 例句
+
+The surveyor's report didn't highlight anything untoward. #测量员的报告没有强调有出乎意料的困难。
+
+### 真题例句
+
+[A] highlights his firm stand against lobby pressure 【英语一 2016 年阅读 Text 2 29 题 A 选项】#[A] 强调他不屈从于游说压力的坚定立场
+
+## hijack
+
+> 真题出现频率：8
+
+> 美国在颁行禁酒令初期，歹徒常常打劫运酒车。歹徒要打劫运酒车时，会先假装成搭便车的路人要求搭乘便车，拦到车后对司机说的第一句话是“Hi, Jack!”。于是，hijack 便成了“抢劫”的代名词。
+
+### 意思
+
+v.&n.抢劫，劫持，绑架
+
+### 例句
+
+Every minute during the hijack seemed like a week. #劫持过程中，每一分钟都像一个星期似的。
+
+### 真题例句
+
+Such hijacked media are the opposite of earned media.【英语一 2011 年阅读Text 3】#这种劫持媒介与赢得媒介正好相反。
+
+### 真题固定搭配
+
+hijacked media 劫持媒介
+
+## hinder
+
+> 真题出现频率：2
+
+> hind+er（表示人或物）→“把人往后拉的动作”；你给我到后面待着去→ v. 阻碍 a. 后面的
+
+### 意思
+
+v.阻碍 a.后面的
+
+### 派生词
+
+hindrance n. 阻碍，妨碍；障碍物
+
+### 例句
+
+It will only slow you down and hinder your career goals. #这只会拖慢你的速度，阻碍你的职业目标。
+
+### 真题例句
+
+But despite common misconceptions, a gap year does not hinder the success of academic pursuits—in fact, it probably enhances it. 【英语二 2017 年阅读 Text 3】#尽管存在着常见的误解，“间隔年”并没有阻碍学生对学业的追求——事实上，它很可能有利于学生的学业。
+
+### 真题固定搭配
+
+hinder sb. from doing sth. 阻碍某人做某事
+
+## hint
+
+> 真题出现频率：3
+
+> 改写自 hind →“hint 往往在 hind（后面）”，都是悄悄的，不可让人知道→v.&n. 暗示
+
+### 意思
+
+v.&n.暗示
+
+### 例句
+
+I'd dropped a hint about having an exhibition of his work up here. #我暗示要在这里举办一次他的作品展。
+
+### 真题例句
+
+While this doesn’t prove that happiness causes firms to invest more or to take a longer-term view, the authors believe it at least hints at that possibility. 【英语二 2016年完形】#尽管这不能证明幸福感会使公司扩大投资或从一个更长远的角度看待问题，但作者相信它至少暗示了这样的可能性。
+
+### 真题固定搭配
+
+hint that+ 宾语从句 暗示……
+
+## history
+
+> 真题出现频率：81
+
+### 意思
+
+n.历史
+
+### 派生词
+
+historian n. 历史学家 historic a. 历史的，历史上的 historical a. 历史的，历史上的 historically ad. 历史上 prehistoric a. 史前的
+
+### 例句
+
+I'm very interested in history. #我很喜欢历史。
+
+### 真题例句
+
+[B] it reminds them of a humiliating history【英语一 2017 年阅读 Text 2 28 题 B 选项】#[B] 它使他们想起了一段屈辱的历史
+
+## homicide
+
+> 真题出现频率：2
+
+> hom（简写自 home；家）+i（无义）+cid+e（无义）→“家里被人切开了”→n. 凶杀，杀人
+
+### 意思
+
+n.凶杀，杀人
+
+### 例句
+
+The police arrived at the scene of the homicide. #警察赶到了杀人现场。
+
+## honest
+
+> 真题出现频率：10
+
+### 意思
+
+a.诚实的，老实的
+
+### 派生词
+
+honesty n. 诚实 honestly ad. 诚实地，老实地 dishonest a. 不诚实的，不老实的 dishonesty n. 不诚实
+
+### 例句
+
+I'm disappointed, to be honest. #我很失望，说实在的。
+
+## honor
+
+> 真题出现频率：9
+
+> 华为“荣耀”手机的正面或背面是不是写着 honor 这个单词
+
+### 意思
+
+n.荣耀，光荣；尊敬，敬意 v.使光荣，荣耀；尊敬
+
+### 派生词
+
+honorable a. 光荣的，可敬的 honorably ad. 光荣地，可敬地 dishonor 
+v.&n. 侮辱，丢脸
+
+### 例句
+
+He won the Medal of Honor for his actions in 1943. #他因在1943年的勇敢行为获得荣誉勋章。
+
+### 真题例句
+
+The drama was a form of literature which gave glory to Greece and Rome and might yet bring honor to England. 【英语一 2018 年翻译】#戏剧是一种曾给希腊和罗马带来无上荣耀，或者也可能给英国带来荣誉的文学形式。
+
+### 真题固定搭配
+
+bring honor to... 给……带来荣誉 / 光荣 It is sb.’s honor to do sth. 做某事是
+某人的荣誉
+
+## horizon
+
+> 真题出现频率：5
+
+> h（无义）+ori+zon（改写自sun；太阳）→“太阳升起的地方”→ n. 地平线→沿着地平线极目远眺，开阔→ n. 眼界，视野
+
+### 意思
+
+n.地平线；眼界，视野
+
+### 例句
+
+Smoke appeared on the horizon. #地平线上升起了烟雾
+
+### 真题例句
+
+This year, it was proposed that system be changed: Horizon 2020, a new program to be enacted in 2014, would not have such a category.【 英语一 2013 年新题型】#今年，有人建议改变这种体制——地平线2020，一个计划在2014 年开始实施的新项目，将不再设立这样一个类别。
+
+### 真题固定搭配
+
+on the horizon 将要发生
+
+## hormone
+
+> 真题出现频率：6
 
 > 音译词
 
 ### 意思
 
-n.基因
-
-### 派生词
-
-genome n. 基因组
+n.荷尔蒙，激素
 
 ### 例句
 
-The gene is only part of the causation of illness. #基因只是疾病的部分诱因。
+Oestrogen is a female sex hormone. #雌激素是一种雌性荷尔蒙。
 
 ### 真题例句
 
-One of the remarkable findings of the study was that the similar genes seem to be evolving faster than other genes.【英语一 2015 年完形】#这项研究的重大发现之一是相似基因似乎比其他基因进化得更快。
-
-## general
-
-> 真题出现频率：48
-
-> gene+r（人）+al（简写自 all；所有的）→“所有人的基因”；所有人共同的基因→ a. 一般的；普遍的；总的
-
-### 意思
-
-a.一般的；普遍的；总的
-
-### 派生词
-
-generally ad. 一般，通常，广泛地
-
-### 例句
-
-People in general will support us. #总体而言，人们会支持我们的。
-
-### 真题例句
-
-The number of adults doing weekly sport did rise, by nearly 2 million in the run_x0002_up to 2012—but the general population was growing faster. 【英 语 二 2017 年阅读Text 1】#每周做运动的成年人数量确实上升了，到 2012 年有近 200 万人参与跑步，但是国家总人口增长得更快。
+a hormone that produces pleasurable feelings 【英语一 2018 年完形】#一种能让人产生快乐的激素
 
 ### 真题固定搭配
 
-in general 一般来说 generally speaking 一般来说
+stress hormone 压力激素 sex hormone 性激素
 
-## generalize
+## hospitable
 
 > 真题出现频率：2
 
-> general+ize（使动）→“使之成为一般的、普遍的”规律→ v. 概括，归纳
+> hos+pi（谐音“陪”）+t（谐音“他”）+able（a.）→“主人天天陪着他”→a. 好客的，热情友好的
 
 ### 意思
 
-v.概括，归纳
+a.好客的，热情友好的
 
 ### 派生词
 
-generalization n. 一般化，普通化；归纳
+hospitality n. 殷勤好客，招待，款待
 
 ### 例句
 
-It's far too risky to generalize from one set of results.#仅根据一组结果进行概括是十分不可靠的。
+The locals are hospitable and welcoming. #当地人热情好客。
 
-## generate
+## host
 
-> 真题出现频率：18
-
-> gene+rat（老鼠）+e（无义）→“老鼠的基因”；特点就是繁殖能力极强→v. 繁殖，生殖→ v. 使形成，产生
+> 真题出现频率：8
 
 ### 意思
 
-v.繁殖，生殖；使形成，产生
+n. 主人，主持人，东道主 v. 主持，主办（熟词僻义，重点关注）
 
 ### 例句
 
-The research methods of social science generate two kinds of data. #社会科学的研究方法生成两类数据。
+Tonight she hosts a ball for 300 guests.#今晚她做东举办一场有300名客人参加的舞会。
 
 ### 真题例句
 
-All around the world, lawyers generate more hostility than the members of any other profession. 【英语一 2014 年阅读 Text 2】#纵观全世界，律师会比其他任何行业的从业者招来更多的敌意。
-
-## generation
-
-> 真题出现频率：44
-
-> 上词generate的名词；generat（简写自generate；繁殖，生殖）+ion（n.）→
-“生出来”的一批人→ n. 代，一代人
-
-### 意思
-
-n.代，一代人
-
-### 派生词
-
-generational a. 世代的
-
-### 例句
-
-He is arguably the best actor of his generation. #按理他是他那一代中最优秀的演员。
-
-### 真题例句
-
-For years, studies have found that first-generation college students—those who do not have a parent with a college degree—lag other students on a range of education achievement factors. 【英语二 2015 年阅读 Text 2】#多年来，研究发现：第一代大学生——那些父母没有获得大学学位的学生——在一系列与学业成就相关的方面落后于其他学生。
+Newton’s laws of motion and Darwinian evolution each bind a host of different phenomena into a single explicatory frame work.【英语一 2012 年翻译】#牛顿的运动定律和达尔文的进化论都将众多不同的现象归入一个单一的解释框架中。
 
 ### 真题固定搭配
 
-generation gap 代沟
+a host of 许多，大量
 
-## generous
-
-> 真题出现频率：7
-
-> 谐音“窄了要死”→做人心眼别那么“窄”→ a. 慷慨的，大方的
-
-### 意思
-
-a.慷慨的，大方的
-
-### 例句
-
-He was a generous self-sacrificing man. #他是一个慷慨大方、勇于自我牺牲的人。
-
-### 真题例句
-
-Losing a job is hurting: you don’t skip down to the jobcentre with a song in your heart, delighted at the prospect of doubling your income from the generous state. 【英语一 2014 年阅读 Text 1】#失去工作让人伤心：你不可能心里哼着歌，一蹦一跳地去就业中心，兴高采烈地期待慷慨的国家能让你的收入翻倍的前景。
-
-## genetic
-
-> 真题出现频率：27
-
-> gene+t（无义）+ic（a.）→ a. 基因的；遗传的
-
-### 意思
-
-a.基因的；遗传的
-
-### 派生词
-
-genetically ad. 从基因上说，从遗传来说 genetics n. 遗传学
-
-### 例句
-
-It is probable that the disease has a genetic element. #这种疾病很可能有遗传因素。
-
-### 真题例句
-
-Critics also argue that commercial genetic testing is only as good as the reference collections to which a sample is compared. 【2009 年阅读 Text 2】#评论家还认为商业基因测试的准确性取决于用来与样本做比较的参考数据。
-
-## genius
-
-> 真题出现频率：4
-
-> gen（谐音“真”）+（n）iu（谐音“牛”） + s（无义）→此人“真牛”→n. 天才；天赋
-
-### 意思
-
-n.天才；天赋
-
-### 例句
-
-She was extolled as a genius. #她被誉为天才。
-
-### 真题例句
-
-It can’t when so many more employers have so much more access to so much more above average cheap foreign labor, cheap robotics, cheap software, cheap automation and cheap genius. 【英语二 2013 年阅读 Text 1】#由于越来越多的雇主有越来越多的途径来获取越来越多的优质的国外廉价劳动力、便宜的机器人技术、低价位的软件、低成本的自动化，以及性价比高的人才，所以它（保持平庸）就难以实现。
-
-## genocide
-
-> 真题出现频率：2
-
-> geno（改写自 gene；基因）+cid+e（无义）→“切基因”，用中国话讲就是
-把根断了→ n. 灭绝，绝种；大屠杀
-
-### 意思
-
-n.灭绝，绝种；大屠杀
-
-### 例句
-
-The mosquito genocide is beginning. #蚊虫大灭绝就要开始了。
-
-### 真题例句
-
-It usually leads to no good—drinking, drugs and casual sex. 【英语一 2012 年阅读 Text 1】#它通常会导致不好的结果，比如酗酒、吸毒和滥交。
-
-## genuine
-
-> 真题出现频率：2
-
-> gen+u（you；你）+in（里）+e（无义）→“你的基因里面的”；俗话就是打根上来的→ a. 真正的；真诚的，诚恳的
-
-### 意思
-
-a.真正的；真诚的，诚恳的
-
-### 派生词
-
-genuinely ad. 真诚地
-
-### 例句
-
-Only genuine refugees can apply for asylum. #只有真正的难民才能申请政治避难。
-
-## geography
-
-> 真题出现频率：4
-
-> geo+graph（描写，描绘）+y（n.）→“描绘土地、大地”的学科；这里是北京，这里是上海，这里是天津→ n. 地理（学），地形
-
-### 意思
-
-n.地理（学），地形
-
-### 派生词
-
-geographic a. 地理的，地理学的 geographical a. 地理的，地理学的
-
-### 例句
-
-I'm revising Geography today. #我今天复习地理。
-
-### 真题例句
-
-Social science disciplines include geography, economics, political science, psychology, and sociology. 【2003 年翻译】#社会科学学科包括地理学、经济学、政治学、心理学和社会学。
-
-## geology
+## hostile
 
 > 真题出现频率：9
 
-> geo+logy（学科后缀）→直接和“土地、大地相关的学科”→ n. 地质学
+> 谐音“薅死 Ta”→“想想新闻里报道的原配薅小三”→ a. 敌对的，敌意的
 
 ### 意思
 
-n.地质学
+a.敌对的，敌意的
 
 ### 派生词
 
-geologist n. 地质学家 geological a. 地质的，地质学的
+hostility n. 敌意，敌对
 
 ### 例句
 
-We went on a geology field trip. #我们去进行地质野外考察。
+He was disheartened by their hostile reaction. #他被他们敌意的反应弄得灰心了。
 
 ### 真题例句
 
-The trend can be illustrated in terms of the development of geology in the United Kingdom.【2001 年阅读 Passage 1】#英国地质学的发展过程可以证实这一趋势。
+There are two distinctly separate and increasingly hostile branches. 【2006 年阅读 Text 2】#有两个截然对立并且越来越敌对的分支。
 
-## geometry
+### 真题固定搭配
 
-> 真题出现频率：2
+be hostile to... 对……有敌意，敌对……
 
-> geo+metry（改写自 meter；米）→测量“土地米数”之学→ n. 几何，几何学
-
-### 意思
-
-n.几何，几何学
-
-### 例句
-
-The doctor doesn't know how to teach me geometry. #这个教授不知道如何教我几何学。
-
-## giant
-
-> 真题出现频率：22
-
-> gigantic a. 巨大的，庞大的
-
-### 意思
-
-n.巨人；巨头，大公司（熟词僻义，重点关注）a.巨大的
-
-### 派生词
-
-gigantic a. 巨大的，庞大的
-
-### 例句
-
-He looks scary but he's really a gentle giant. #他看上去可怕，实际却是个性格温和的巨人。
-
-### 真题例句
-
-[A] It caused conflicts among tech giants.【英语一 2018 年阅读 Text 3 31 题 A选项】#[A] 它引发了科技巨头间的冲突。
-
-## gift
+## huge
 
 > 真题出现频率：12
 
-> 我们肯定知道“礼物”的含义 →“上帝送给一个人最大的礼物”，就是→ n. 天才；天赋
+> hu（谐音“虎”）+ge（谐音“哥”）→“老虎大哥的身体”→ a. 巨大的，庞大的
 
 ### 意思
 
-n.礼物；天才；天赋
+a.巨大的，庞大的
 
 ### 派生词
 
-gifted a. 有天赋的
+hugely ad. 非常，极其
 
 ### 例句
 
-She has a great gift for music. #她极有音乐天赋。
+The huge, iron gate was locked. #那扇巨大的铁门被锁上了。
 
 ### 真题例句
 
-So few authors have brains enough or literary gift enough to keep their own end up in journalism. 【英语一 2010 年阅读 Text 1】#拥有足够的智力或文学天赋来坚持新闻写作的作家是如此之少。
+Some relatively poor European countries have seen huge improvements across measures including civil society, income equality and the environment.【英语一 2017年阅读 Text 3】#一些相对贫穷的欧洲国家在社会文明、收入公平和环境方面有了显著的改善。
 
-### 真题固定搭配
+## human
 
-have a gift for... 对……有天赋
-
-## glamor
-
-> 真题出现频率：2
-
-> 谐音“格莱美”→“格莱美大奖最能体现出音乐的 glamor”→ n. 魅力，魔法
+> 真题出现频率：118
 
 ### 意思
 
-(glamour)n.魅力，魔法
+n.人，人类
 
 ### 派生词
 
-glamorous a. 富有魅力的，迷人的
+humanist n. 人道主义者；人类学家 humane a. 人道的，仁慈的
 
 ### 例句
 
-Yet Hollywood has not lost all its glamor. #然而好莱坞并没有完全丧失它的魅力。
+Human life must always be sacred. #人的生命在任何时候都必须得到尊重。
 
-## glance
+## humanity
 
-> 真题出现频率：2
+> 真题出现频率：26
 
-> gl+an（一个，一次）+ce（v.&n.）→“眼睛发出一次光线”→ v. 扫视，瞥一眼 n. 一瞥，一眼
+> human+ity（n.）→ n. 人类；人性；人道
 
 ### 意思
 
-v.扫视，瞥一眼n.一瞥，一眼
+n.人类；人性；人道
 
 ### 例句
 
-She gave him a quick sidelong glance. #她迅速侧眼瞥了他一眼。
-
-## glare
-
-> 真题出现频率：2
-
-> gl+a（无义）+ re（谐音“热”）→“眼睛发出炙热的光线”，好像要吞噬一切→ v. 怒目而视 n. 强光，怒视
-
-### 意思
-
-v.怒目而视n.强光，怒视
-
-### 例句
-
-He gave me an icy glare. #他冷冰冰地怒视着我。
-
-## global
-
-> 真题出现频率：48
-
-### 意思
-
-a. 全球的，全世界的
-
-### 派生词
-
-globally ad. [ˈɡləʊbəli] 全球地，全局地　globalize v. [ˈɡləʊbəlaɪz]（使）全球
-化　globalized a. [ˈɡləʊbəlaɪzd] 全球化的 v.（ 使）全球化，全世界化（globalize 
-的过去式和过去分词）globalization n. [ˌɡləʊbəlaɪˈzeɪʃn] 全球化
-
-### 例句
-
-We need to take a more global approach to the problem.#我们需要更全面地看这个问题。
+The massacre was a crime against humanity. #这场大屠杀是一桩反人类的罪行
 
 ### 真题例句
 
-[C] to advance economic globalization【英语二 2013 年阅读 Text 1 24 题 C 选项】#[C] 推进经济全球化
+Together with another two scientists, he is publishing a paper which not only suggests that one group of humanity is more intelligent than the others, but explains the process that has brought this about. 【2008 年完形】#他和其他两位科学家即将共同发表一篇论文，这篇文章不但表明了某个群体中的人比其他人更聪明这一观点，而且解释了产生这一现象的过程。
 
-## gloomy
+## humble
 
 > 真题出现频率：3
 
-> gl+oo（联想成 00）+my（我的）→“我的光线为 0，没有光线”→“阴”→a. 阴暗的，阴郁的，沮丧的
+> hum+ble（a.）→“像泥土一般的”；指人像泥土一样，被踩在脚下，不受重视→ a. 谦卑的；卑贱的
 
 ### 意思
 
-a.阴暗的，阴郁的，沮丧的
+a.谦卑的；卑贱的
 
 ### 派生词
 
-gloom n. 昏暗，阴暗，阴郁 gloominess n. 阴暗，沮丧
+humbly ad. 谦虚地，恭顺地；卑贱地
 
 ### 例句
 
-They found him in a gloomy, downbeat mood. #他们发现他心情沮丧而消沉。
+He always makes much of his humble origins. #他总是非常在意他卑微的出身。
 
 ### 真题例句
 
-But such gloominess is misplaced. 【 英语一 2013 年阅读 Text 3】#但这种悲观的想法是不合时宜的。
+[D] “humble” is to “noble”【2005 年阅读 Text 4 40 题 D 选项】#[D] “卑贱的”对于“高贵的”
 
-## glory
+## humiliate
 
-> 真题出现频率：7
-
-> gl+or（表示人的后缀）+y（n.）→“一个人浑身发光，带着光环”→ n. 光荣，荣誉
+> 真题出现频率：4
 
 ### 意思
 
-n.光荣，荣誉
+v.使羞辱，使丢脸
 
 ### 派生词
 
-glorious a. 光荣的，辉煌的
+humiliation n. 羞辱，丢脸 humiliating a. 羞辱的，丢脸的
 
 ### 例句
 
-She wanted to enjoy her moment of glory. #她希望尽情享受自己的光荣时刻。
+They want to humiliate us. #他们是要羞辱我们。
 
 ### 真题例句
 
-[A] helps restore the glory of former times【英语一 2016 年阅读 Text 4 38 题 A 选项】#[A] 有助于恢复往日的荣耀
+[C] They are feeling humiliated.【2004 年阅读 Text 2 49 题 C 选项】#[C] 他们觉得很丢脸。
 
-## glow
+## humor
 
-> 真题出现频率：3
+> 真题出现频率：14
 
-> gl+ow（无义）→“满脸泛光”→ v. 发光，炽热，喜形于色
-
-### 意思
-
-v.发光，炽热，喜形于色
-
-### 例句
-
-They reached the cottage, which seemed to glow in the evening light. #他们来到了小屋，它似乎在晚霞下闪闪发光。
-
-### 真题例句
-
-At night, scan the horizon for artificial light sources, such as fires and streetlights, then walk toward the glow of light pollution.【英语一 2019 年完形】#在夜间，扫视地平线来寻找人造光源，比如火光或路灯，然后朝着强烈灯光走去。
-
-## grade
-
-> 真题出现频率：6
+> 音译词
 
 ### 意思
 
-n.年级；等级；成绩，分数（熟词僻义，重点关注）
-
-### 例句
-
-70% of pupils got Grade C or above. #70%的小学生成绩都在C级或C级以上。
-
-### 真题例句
-
-But with homework counting for no more than 10% of their grades, students can easily skip half their homework and see very little difference on their report cards. 【英语二 2012 年阅读 Text 1】#但由于家庭作业在学业成绩中所占的比重不超过 10%，学生很轻易就能少做一半的家庭作业，而这在成绩报告卡片上几乎看不出差别。
-
-## gradual
-
-> 真题出现频率：11
-
-> grad+u（无 义）+al（a.） → 聚 会 分 别 时， 总喜欢说“慢走啊， 慢点啊”→ a. 逐渐的，慢慢的
-
-### 意思
-
-a.逐渐的，慢慢的
+n.幽默；性格；心情
 
 ### 派生词
 
-gradually ad. 逐渐地，渐渐地
+humorous a. 幽默的
 
 ### 例句
 
-The greatest hope for reform is the gradual spread of information. #改革的最大希望就是信息的逐渐传播。
+It's filled with a really fun sense of humor. #它充满了真正有趣的幽默感。
 
 ### 真题例句
 
-[D] take gradual measures in reform 【英语一 2010 年阅读 Text 4 38 题 D选项】#[D] 在改革方面采取逐步措施
+Your humor must be relevant to the audience. 【2002 年阅读 Text 1】#你的幽默必须与听众相关。
 
-## graduate
-
-> 真题出现频率：20
-
-> grad+ate（v.&n.）→“毕业”不就是要“走了”；“毕业生”不就是要“走”的人→ v. 毕业，授予学位或毕业证书 n. 毕业生
-
-### 意思
-
-v.毕业，授予学位或毕业证书 n.毕业生
-
-### 例句
-
-After all his hard work, he now needs only two credit hours to graduate. #通过努力学习，他现在只需再修两个学分就可以毕业了。
-
-### 真题例句
-
-We see students achieve more success because they retake a course and do better in subsequent courses or master the content that allows them to graduate on time. 【英语一 2019 年阅读 Text 2】#我们看到学生因重修课程而取得更大的成功，且在后续的课程中表现得更好，或者掌握了能让他们按时毕业的内容。
-
-### 真题固定搭配
-
-graduate from... 从……毕业
-
-## grammar
-
-> 真题出现频率：12
-
-### 意思
-
-n.语法；语法书
-
-### 例句
-
-He elucidated a point of grammar. #他解释了一个语法要点。
-
-## grant
-
-> 真题出现频率：20
-
-> 谐音“哥让他”→哥让着他，这个让给他吧，不争了→ v. 承认；授予；同意 n. 拨款，资金
-
-### 意思
-
-v.承认；授予；同意n.拨款，资金
-
-### 例句
-
-France has agreed to grant him political asylum. #法国已经同意给予他政治庇护。
-
-### 真题例句
-
-In those far-off days, it was taken for granted that the critics of major papers would write in detail and at length about the events they covered. 【英语一 2010 年阅读 Text 1】#在那段遥远的日子里，人们认为主流报纸的评论家对他们所报道的事件予以详尽全面的描述是理所当然的事情。
-
-### 真题固定搭配
-
-take sth. for granted 把某事视为理所当然的
-
-## grateful
-
-> 真题出现频率：6
-
-> grat+e（无义）+ful（a.）→“在高兴、开心之时”，向别人表示→ a. 感激的，感谢的
-
-### 意思
-
-a.感激的，感谢的
-
-### 派生词
-
-ungrateful a. 不感激的，不感谢的 gratitude n. 感激，感谢
-
-### 例句
-
-Kate gave him a grateful smile. #凯特感激地对他笑了笑
-
-### 真题例句
-
-[G] There are many things to be grateful for 【英语二 2014 年 新题型】#[G] 有很多事情值得去感谢
-
-## gratify
-
-> 真题出现频率：3
-
-> grat+ify（使动）→“使之高兴、开心”→ v. 使高兴，使满意
-
-### 意思
-
-v.使高兴，使满意
-
-### 派生词
-
-gratification n. 高兴，满意
-
-### 例句
-
-Your good marks gratify me very much. #你的好评使我非常高兴。
-
-### 真题例句
-
-The very things that in the moment dampen our moods can later be sources of intense gratification and delight.【 英语一 2011 年阅读 Text 4】#正是此时此刻这些令我们心情沮丧的事情，日后可能会成为幸福和喜悦的源泉。
-
-## grave
+## hypocrisy
 
 > 真题出现频率：2
 
-> 谐音“鬼屋”→ n. 坟墓→走进坟墓，心情变得→ a. 严肃的，沉重的
+> hypo+cris（改写自 crit；批评，评论；Unit 3 里学过的词根）+y（无义）→
+“当面不敢说，在下面、背后批评别人”→ n. 伪善，虚伪
 
 ### 意思
 
-n.坟墓a.严肃的，沉重的
+n.伪善，虚伪
 
 ### 派生词
 
-graveyard n. 坟墓，墓地
+hypocritical a. 伪善的，虚伪的
 
 ### 例句
 
-The country was passing through a grave crisis. #那个国家正经历着一场严重的危机。
+Her denials reeked of hypocrisy. #她那样否认显然很虚伪。
 
-## gravity
+## hypothesis
 
-> 真题出现频率：2
+> 真题出现频率：4
 
-> grav+ity（n.）→ n. 重力，万有引力.  物理学的重力加速度符号 g 是本词的缩写
-
-### 意思
-
-n.重力，万有引力
-
-### 例句
-
-Increasing gravity is known to speed up the multiplication of cells. #为人所知的是，不断增加的重力会加速细胞数量的递增。
-
-## grieve
-
-> 真题出现频率：3
-
-> griev（改写自 grav）+e（无义）→“使心情沉重”→ v. 使伤心，使悲痛
+> hypo+thesis（n. 论点，论文）→“论点之下”；还没有真正成为论点→n. 假设
 
 ### 意思
 
-v.使伤心，使悲痛
+n.假设
 
 ### 派生词
 
-grievance n. 不满，委屈
+hypotheses n. 假设（复数形式）
 
 ### 例句
 
-I didn't have any time to grieve. #我没有时间去悲伤。
+Work will now begin to test the hypothesis in rats. #在老鼠身上验证这一假设的工作现在要开始了。
 
 ### 真题例句
 
-He is really grieving over the loss of something beautiful more than useful. 【2005 年阅读 Text 4】#相比失去实用的东西，失去美丽的东西让他更为悲伤。
-
-## guarantee
-
-> 真题出现频率：12
-
-> guar（简写自 guard；保卫，守护）+ant（表示人的后缀）+ee（表示人的
-后缀）→中国军人说“国家有我保卫”，放心！→ v. 保证，担保→ n. 保证，保证书
-
-### 意思
-
-v.保证，担保 n.保证，保证书
-
-### 派生词
-
-guaranteed a. 有保证的，有担保的
-
-### 例句
-
-Some builders guarantee their work. #一些建筑商为他们的工作担保。
-
-### 真题例句
-
-For much of the past year, President Bush campaigned to move Social Security to a savings-account model, with retirees trading much or all of their guaranteedpayments for payments depending on investment returns. 【2007 年阅读 Text 3】#去年很长一段时间，布什总统试图将社保转换成储蓄账户模式，这使得退休人员将自己大部分或全部有保障的收入变成了依靠投资回报的收入。
-
-## guilty
-
-> 真题出现频率：36
-
-> gui（谐音“跪”）+l（无义）+t（谐音“他”）+y（a.）→“跪在他面前”；因为内疚→ a. 有罪的；内疚的
-
-### 意思
-
-a.有罪的；内疚的
-
-### 派生词
-
-guilt n. 有罪，犯罪行为；内疚
-
-### 例句
-
-He was adjudged to be guilty. #他被判为有罪。
-
-### 真题例句
-
-You may feel guilt over your past.【英语二 2015 年新题型】#你可能会对自己的过去感到内疚。
-
-### 真题固定搭配
-
-be guilty of... 犯……罪；对……感到内疚 feel guilty 感到内疚；负罪
+The idea that some groups of people may be more intelligent than others is one of those hypotheses that dare not speak its name. 【2008 年完形】#有些人可能比其他人更加聪明，这一想法是人们不敢明说的假设之一。

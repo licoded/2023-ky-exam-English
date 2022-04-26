@@ -1,4444 +1,2770 @@
-## calculate
+## daily
 
-> 真题出现频率：3
+> 真题出现频率：26
 
-> 词根 calc（计算）+ul（中缀）+ ate（v.）→ v. 计算
-
-### 意思
-
-v.计算
-
-### 例句
-
-This formula is used to calculate the area of a circle. #这个公式用于计算圆的面积。
-
-### 真题例句
-
-The researchers calculated that the stress-reducing effects of hugging explained about 32 percent of that beneficial effect. 【英语一 2017 年完形】#研究人员测算，拥抱带来的减压作用在这种有益影响之中发挥了 32% 的功效。
-
-## calorie
-
-> 真题出现频率：4
-
-> 音译词
+> dai（改写自 day；天）+ly（a.&n.）→ a. 每日的，日常的→“每天发行的报纸”→ n. 日报
 
 ### 意思
 
-n. 卡路里（食物热量的单位）
-
-### 派生词
-
-caloric a. [kəˈlɒrɪk] 热量的
+a.每日的，日常的 n.日报
 
 ### 例句
 
-A glass of wine does have quite a lot of calories.#一杯葡萄酒的热量确实不低。
+They held daily press briefings. #他们召开了每日例行的新闻发布会。
 
 ### 真题例句
 
-[C] are seeking effective ways to cut calorie intake.【英语二 2021 年阅读 Text 2 29 题 C 选项】#[C] 正在寻找有效的方法来减少卡路里的摄入。
+[B] show the urgent need of daily necessities 【英语二 2010 年阅读 Text 3 32 题 B 选项】#[B] 表明对日常必需品的迫切需求
 
-## camp
+## deadline
 
 > 真题出现频率：2
 
-### 意思
-
-v.&n.宿营，露营，营地
-
-### 例句
-
-Let's return to camp. #咱们回营地吧。
-
-## campaign
-
-> 真题出现频率：15
-
-> cam（简写自 camp）+paign（结合“pain；疼痛，痛苦”加深记忆）→“疼
-痛、痛苦的营地”→ n. 战役→“无硝烟的战役”，正所谓商场如战场→ v.&n. （政治或商业）运动
+> dead（死）+line（线）→“死线”；过了今天再不交就死定了→ n. 最后期限，截止日期
 
 ### 意思
 
-v.&n.战役；（政治或商业）运动
+n.最后期限，截止日期
 
 ### 例句
 
-He was a key figure in the campaign. #他是这场运动的关键人物。
+I prefer to work to a deadline. #我喜欢按规定的期限完成工作。
 
-### 真题例句
-
-Officials must not be allowed to play favorites in providing information or in arranging meetings simply because an individual or group provides a campaigndonation or a personal gift. 【英语一 2017 年阅读 Text 4】#官员绝不能仅仅因为某个人或某个组织提供了竞选捐赠或私人礼物就在提供信息或安排见面时厚此薄彼。
-
-## campus
-
-> 真题出现频率：5
-
-> camp+us（我们）→“我们大学生的营地”→ n.（大学）校园
-
-### 意思
-
-n.（大学）校园
-
-### 例句
-
-There are three dining halls on campus. #校园里有三个餐厅。
-
-### 真题例句
-
-[D] it seems worthless to take off-campus courses 【英语二 2017 年阅读 Text 3 31 题 D 选项】#[D] 参加校外课程似乎毫无价值
-
-### 真题固定搭配
-
-on campus 在校内 off-campus 校外
-
-## cancer
-
-> 真题出现频率：8
-
-> 改写自 cancle（v. 取消，作废）→人得了 cancer，生命会被 cancle → n. 癌症
-
-### 意思
-
-n.癌症
-
-### 例句
-
-He battled cancer for four years. #他同癌症斗争了四年。
-
-### 真题例句
-
-Myriad Genetics could indeed hold patents to two genes that help forecast a woman’s risk of breast cancer.【英语二 2012 年阅读 Text 3】#米利亚德基因公司可拥有两项帮助预测女性患乳腺癌的风险的基因专利。
-
-## candidate
-
-> 真题出现频率：6
-
-> can（能）+did（do 的过去式；做）+ate（n.） →“能做这份工作的人”，就是→
-n. 候选者，候选人
-
-### 意思
-
-n.候选者，候选人
-
-### 例句
-
-She's the perfect candidate for the job.#她是这项工作的最佳人选。
-
-### 真题例句
-
-All tests require a potential candidate with whom to compare DNA.【2009年 阅读Text2】#所有的检测都需要一个与之进行DNA 对比的潜在人选。
-
-## canteen
-
-> 真题出现频率：2
-
-> can（谐音“餐”）+teen（谐音“厅”）→ n. 餐厅，参观，食堂
-
-### 意思
-
-n.餐厅，餐馆，食堂
-
-### 例句
-
-Rennie had eaten his supper in the canteen. #伦尼已在食堂吃过晚饭。
-
-## capable
-
-> 真题出现频率：19
-
-> =able → a. 有能力的,能够的
-
-### 意思
-
-a.有能力的，能够的
-
-### 派生词
-
-incapable a. 无能的，没有能力的 capability n. 能力
-
-### 例句
-
-She's a very capable speaker. #她是一个非常有能力的演说者。
-
-### 真题固定搭配
-
-be capable of... 能够……
-
-## capacity
-
-> 真题出现频率：22
-
-> cap+ac（无义）+ity（n.）→“能力”的意思与 capability 是同义词→“抓”进多少东西的“能力”→ n. 容量
-
-### 意思
-
-n.能力；容量（熟词僻义，重点关注）
-
-### 派生词
-
-capacious a. 宽敞的
-
-### 例句
-
-This power station's capacity to store energy is large. #这座发电站储存电能的容量很大。
-
-### 真题例句
-
-At the end of adolescence, however, the brain shuts down half of that capacity, preserving only those modes of thought that have seemed most valuable during the first decade or so of life. 【2009 年阅读 Text 1】#然而，在青春期末期，我们的大脑就关闭了其中一半的能力，只保留那些在生命的第一个十年左右的时间里看起来最有价值的思维模式。
-
-### 真题固定搭配
-
-have the capacity to do... 有做……的能力 beyond one’s capacity 超越某人的能力
-
-## capital
-
-> 真题出现频率：13
-
-> cap+it（它）+al（n.）→“它是头”→国家的“头等”城市；现代社会什么“头等”重要；“句首”字母→ n. 首都；资本，资金；大写字母，其中“资
-本，资金”含义最为重要
-
-### 意思
-
-n.首都；资本，资金；大写字母
-
-### 派生词
-
-capitalism n. 资本主义
-
-### 例句
-
-Most of the capital is tied up in property. #大部分资金都投在了房地产上无法动用。
-
-### 真题例句
-
-A few wealthy people will own all the capital, and the masses will struggle in an impoverished wasteland. 【英语二 2017 年完形】#少数富人将会拥有所有资本，而大多数人将在贫瘠的废墟中挣扎。
-
-### 真题固定搭配
-
-foreign capital 国外资本 capital market 资本市场
-
-## captain
-
-> 真题出现频率：2
-
-> cap+t（无义）+ain（表示人的后缀）→“头人”→ n.首领，队长，船长，机长
-
-### 意思
-
-n.首领，队长，船长，机长
-
-### 例句
-
-He is a captain who leads by example. #他是个以身作则的队长。
-
-## captivate
-
-> 真题出现频率：4
-
-> capt+i（我）+v（辅音字母表示“心”）+ate（v.）→“抓住了我的心”→ v.迷惑，迷住
-
-### 意思
-
-v.迷惑，迷住
-
-### 例句
-
-Here again, they captivate the audience consistently. #同样，他们也牢牢地吸引住了听众。
-
-## captive
-
-> 真题出现频率：2
-
-> capt+ive（a.）→ a. 被捕获的；被迷住的
-
-### 意思
-
-a.被捕获的；被迷住的
-
-### 例句
-
-They were taken captive by masked gunmen. #他们被蒙面的持枪歹徒劫持了。
-
-## capture
-
-> 真题出现频率：6
-
-> capt+ure（v.）→“抓”小偷，“抓”坏人，“抓”强盗→ v. 捕获，抓捕→打仗时，“抓住”的人，“抓住”的东西→ n. 俘虏，战利品
-
-### 意思
-
-v.捕获，抓捕 n.俘虏，战利品
-
-### 例句
-
-Her paintings capture the subtle hues of the countryside in autumn. #她的油画捕捉住了秋天乡村的微妙色调。
-
-### 真题例句
-
-Dickens crafted complex plots and striking characters that capture the panorama of English society. 【英语一 2017 年新题型】#狄更斯描绘了复杂的故事情节，塑造出引人注目的人物特点，这些情节和人物捕捉了英国社会的全貌。
-
-## care
-
-> 真题出现频率：58
-
-> careful a. 小心的，仔细的 carefully ad. 小心地，仔细地 careless a. 粗心的；漫不经心的 carefree a. 无忧无虑的
-
-### 意思
-
-v.&n.关心，担心，照顾
-
-### 派生词
-
-careful a. 小心的，仔细的 carefully ad. 小心第，仔细地 careless a. 粗心的；漫不经心的 carefree a. 无忧无虑的
-
-### 例句
-
-See that you take care of him. #你一定要好好照顾他。
-
-### 真题固定搭配
-
-take care of 照顾，照料；处理，应付 care about 关心，在乎
-
-## caress
-
-> 真题出现频率：2
-
-> care+ss（后缀表示女性）→“关心女性”→ v.&n. 抚摸，爱抚
-
-### 意思
-
-v.&n.抚摸，爱抚
-
-### 例句
-
-Margaret took me to one side, holding my arm in a gentle caress. #玛格丽特把我拉到一旁，轻轻地抚弄着我的手臂。
-
-## cascade
-
-> 真题出现频率：3
-
-> cas+cad（改写自 cas）+e（无义）→“落下来”，形成→ n. 倾泻，小瀑布
-
-### 意思
-
-n.倾泻，小瀑布
-
-### 例句
-
-The firework went off in a cascade of colour. #烟火散开像一片五彩缤纷的瀑布。
-
-### 真题例句
-
-If people in the network just two degrees removed from the initial influential prove resistant, for example, the cascade of change won’t propagate very far or affect many people.【英语一 2010 年阅读 Text 3】#举个例子来说，在人际网络中，如果与第一个影响者相隔两个层级的人表现出抵制，那么他的连锁影响范围就不会继续扩大，或者说影响的人不会很多。
-
-## casual
-
-> 真题出现频率：6
-
-> cas+u（you；你）+al（a.）→“刚才切你不是故意的”，是→ a. 偶然的，临时的；随便的
-
-### 意思
-
-a.偶然的，临时的；随便的
-
-### 派生词
-
-casually ad. 偶然地，临时地；随便地
-
-### 例句
-
-The disease is not spread by casual contact. #此病不会通过偶然接触传染。
-
-## casualty
-
-> 真题出现频率：2
-
-> cas+u（无义）+al（n.）+ty（n.）→“被切死的人”→ n. 伤亡人员，伤亡人数，事故
-
-### 意思
-
-n.伤亡人员，伤亡人数，事故
-
-### 例句
-
-There are fears that the casualty toll may be higher. #人们担心伤亡人数可能会更多。
-
-## catalog
-
-> 真题出现频率：2
-
-> cata（下）+log →“下面说什么”；看了 catalo（catalogue）就知道此书接下来要说什么→ n. 目录 v. 编目录
-
-### 意思
-
-（catalogue）n.目录 v.编目录
-
-### 例句
-
-Let me look it up in the catalog. #让我查一下目录。
-
-## catastrophe
-
-> 真题出现频率：2
-
-> cat（向下）+astr（星星，星辰）+o（无义）+phe（谐音“飞”）→“星星
-不但向下飞，还到处乱飞”；恐龙的灭绝就是与6 500 万年前一颗大陨星坠落地球有关→ n. 大灾难
-
-### 意思
-
-n.大灾难
-
-### 例句
-
-Early warnings of rising water levels prevented another major catastrophe. #提前发出的洪水水位上涨警报防止了又一次的重大灾害。
-
-## category
-
-> 真题出现频率：15
-
-> 谐音“快点归类”→ n. 种类，分类
-
-### 意思
-
-n.种类，分类
-
-### 例句
-
-Out of over 400 staff there are just 7 that fall into this category. #400多个职员中只有7人属于这一类
-
-### 真题例句
-
-While still catching up to men in some spheres of modern life, women appear to be way ahead in at least one undesirable category.【2008 年阅读 Text 1】#在现代生活的一些方面，女性还在尽力追赶男性，但是似乎她们至少已经在一个不怎么令人向往的领域中遥遥领先了。
-
-## cater
-
-> 真题出现频率：5
-
-> cat（猫）+er（表示人的后缀）→“猫对人”；猫很温柔，会围着主人温柔地喵喵喵地叫→ v. 满足；迎合→“不能白叫，主人得管饭呢”→ v. 提供饮食
-
-### 意思
-
-v.满足；迎合；提供饮食
-
-### 例句
-
-They only publish novels which cater to the mass-market. #他们只出版迎合大众市场的小说。
-
-### 真题例句
-
-[C] His style caters largely to modern specialists.【英语一 2010 年阅读 Text 1 24 题 C 选项】#[C] 他的评论风格主要迎合现代专业人士。
-
-### 真题固定搭配
-
-cater to 迎合；提供饮食
-
-## caution
-
-> 真题出现频率：13
-
-> caut+ion（n.）→“火烧起来了”，当然要→ n. 小心，谨慎
-
-### 意思
-
-n.小心，谨慎
-
-### 派生词
-
-cautious a. 小心的，谨慎的 cautiously ad. 小心地，谨慎地 cautiousness 
-n. 小心，谨慎
-
-### 例句
-
-I would caution against getting too involved. #我要提出警告，别介入得太深。
-
-### 真题例句
-
-[D] it requires caution to handle economic issues【英语一 2017 年阅读 Text 3 34 题 D 选项】#[D] 应对经济问题需要谨慎
-
-## cease
-
-> 真题出现频率：3
-
-> 谐音“息死”→无论是人还是物，都表示到头了，停止了→ v.&n. 停止，中止
-
-### 意思
-
-v.&n.停止，中止
-
-### 例句
-
-I will never cease to chase after my dream. #我永远不会停止追逐梦想。
-
-### 真题例句
-
-There will eventually come a day when The New York Times ceases to publish stories on newsprint.【英语一 2016 年阅读 Text 4】#最终会有那么一天，《纽约时报》将停止在新闻纸上发表报道。
-
-## celebrate
-
-> 真题出现频率：7
-
-> 可根据上词 ceremony 记忆；cele+br（无义）+ate（v.）→为什么要搞“典礼，仪式”；是为了→ v. 庆祝，祝贺
-
-### 意思
-
-v.庆祝，祝贺
-
-### 例句
-
-I was in a mood to celebrate. #我很想庆祝一番。
-
-### 真题例句
-
-in a society that so persistently celebrates procreation【英语一 2011 年阅读 Text 4】#在一个一直歌颂生育的社会里
-
-## celebrity
-
-> 真题出现频率：13
-
-> 上词 celebrate 的同源词→成“celebrity”值得“celebrate”→ n. 名人，名流
-
-### 意思
-
-n.名人，名流
-
-### 例句
-
-She achieved celebrity status overnight. #她一夜之间成为名流。
-
-### 真题例句
-
-Practically every week features at least one celebrity mom, or mom-to-be, smiling on the newsstands.【英语一 2011 年阅读 Text 4】#实际上，每周杂志上都至少有一位明星妈妈或者准妈妈面带笑容的特写。
-
-## center
-
-> 真题出现频率：24
-
-### 意思
-
-(centre)n.中心，中央，中间v.集中，以……为中心（熟词僻义，重点关注）
-
-### 派生词
-
-self-centered a. 以自我为中心的，利己主义的
-
-### 例句
-
-You can find a shopping center. #你可以找到一个购物中心
-
-### 真题固定搭配
-
-center on... 以……为中心 / 焦点
-
-## central
-
-> 真题出现频率：8
-
-> centr+al（a.）→ a. 中心的，中央的
-
-### 意思
-
-a.中心的，中央的
-
-### 派生词
-
-centralize v. 使集中，实行中央集权 centralized a. 集中的 centralization 
-n. 集中，集中化
-
-### 例句
-
-I am thinking of installing central heating. #我在考虑安装中央供暖系统。
-
-### 真题例句
-
-The group in question are a particular people originated from central Europe.【2008 年完形】#探讨的这个群体是来自中欧的一个独特的民族。
-
-## century
-
-> 真题出现频率：62
-
-> cent+ury（n.）→“一百年”→ n. 世纪
-
-### 意思
-
-n.世纪
-
-### 例句
-
-A new century was dawning. #一个新的世纪开始了。
-
-### 真题例句
-
-For the time, attention, and money of the art-loving public, classical instrumentalists must compete not only with opera houses, dance troupes, theater companies, and museums, but also with the recorded performances of the great classical musicians of the 20th century. 【英语一 2011 年阅读 Text 1】#为了获得艺术爱好群体的时间、关注和金钱，古典音乐演奏家不仅要和歌剧院、舞蹈团、剧院公司和博物馆竞争，而且还需要和那些收录了 20 世纪伟大的古典音乐大师作品的唱片竞争。
-
-## ceremony
-
-> 真题出现频率：6
-
-> cere（简写自 cereal；谷物，粮食）+mony（改写自 many；许多）→“谷
-物、粮食很多，大丰收”；古人要搞→ n. 典礼，仪式
-
-### 意思
-
-n.典礼，仪式
-
-### 派生词
-
-ceremonial a. 典礼的，仪式的
-
-### 例句
-
-10 000 balloons were released at the ceremony. #典礼上放飞了一万个气球。
-
-### 真题例句
-
-At university graduation ceremonies, the ABCs proudly get their awards first.【2004 年阅读 Text 2】#大学毕业典礼上，姓氏以 A、B 和 C 开头的学生会自豪地先领到毕业证。
-
-## certain
+## deal
 
 > 真题出现频率：50
 
-### 意思
-
-a.必然的，确定的；某些，某个
-
-### 派生词
-
-certainly ad. 当然，肯定 certainty n. 必然，肯定 uncertain a. 不确定的，不明确的 uncertainty n. 不确定，不明确
-
-### 例句
-
-Are you absolutely certain about this? #你对这事绝对确信无疑吗？
-
-## certify
-
-> 真题出现频率：2
-
-> cert+ify（使动）→使之确定、确信→ v. 证明，证实；发证书（或执照）
+> deal with 解决，处理 a great deal of 大量的，许多的
 
 ### 意思
 
-v.证明，证实；发证书(或执照)
-
-### 派生词
-
-certificate n. 证（明）书，执照
+v.处理 n.交易（熟词僻义，重点关注）
 
 ### 例句
 
-I can certify to his innocency. #我可以证明他清白。
-
-## chain
-
-> 真题出现频率：11
-
-> 谐音“抻”→“用力抻，断不了”；因为有→ n. 链子，链条，进而引申为→n. 连锁，连锁店
-
-### 意思
-
-n.链子，链条；连锁，连锁店（重点背诵）
-
-### 例句
-
-His open shirt revealed a fat gold chain. #他敞开的衬衣里露出一条粗大的金链子。
+I wanted them to get a fair deal. #我希望他们得到一个公平的交易。
 
 ### 真题例句
 
-The ruling is a victory for big chains with a presence in many states, since they usually collect sales tax on online purchases already.【英语一 2019 年阅读 Text 4】#这项裁决对于在许多州都有实体店的大型连锁店来说是一个胜利，因为它们通常已经开始对网上购物征收销售税了。
+Any fair-minded assessment of the dangers of the deal between Britain’s National Health Service (NHS) and DeepMind must start by acknowledging that both sides mean well. 【英语一 2018 年阅读 Text 3】#所有对英国国民医疗服务体系（NHS）和 DeepMind 公司之间协议危害性的公正评估都必须先承认双方的本意是好的。
 
-### 真题固定搭配
-
-chain reaction 连锁反应 supply chain 供应链 big chain 大型连锁店
-
-## challenge
-
-> 真题出现频率：46
-
-> 改写自 change（变化）→“变化”带来“挑战”（两词同时记忆），也让人
-产生“怀疑”→ v.&n. 挑战；怀疑
-
-### 意思
-
-v.&n.挑战；怀疑
-
-### 例句
-
-The new government's first challenge is the economy. #新政府面临的第一项挑战是经济
-
-### 真题例句
-
-Yet this enormous resource is not contributing enough to today’s global challenges.【英语一 2013 年新题型】#但是，这个巨大的资源并没有为应对今天的全球性挑战做出足够的贡献。
-
-## chamber
-
-> 真题出现频率：3
-
-> chamb（改写自 camp）+er（表示物的后缀）→“房间，室”是生活的“营地”→ n. 房间，室
-
-### 意思
-
-n.房间，室
-
-### 例句
-
-Fetch the broom and sweep the chamber. #拿扫把来打扫房间。
-
-### 真题例句
-
-Indeed, the mere presence of a grape in the other chamber (without an actual monkey to eat it) was enough to induce resentment in a female capuchin. 【2005 年阅读 Text 1】#事实上，仅仅看到另一个房间中有葡萄（并没有猴子吃这颗葡萄），就足以引起一只雌性卷尾猴的怨恨。
-
-## chaos
-
-> 真题出现频率：2
-
-> chao（谐音“吵”）+s（谐音“死”）→“吵死了”，外面太乱→ n. 混乱，
-紊乱
-
-### 意思
-
-n. 混乱，紊乱
-
-### 派生词
-
-chaotic a. [keɪˈɒtɪk] 混乱的，杂乱的
-
-### 例句
-
-The house was in chaos after the party.#聚会后，房子里一片狼藉。
-
-### 真题例句
-
-Yes, more investment is needed, but passengers will not be willing to pay more indefinitely if they must also endure cramped unreliable services, punctuated by regular chaos when timetables are changed, or planned maintenance is managed incompetently.【英语一 2021 年阅读 Text 1】#是的，我们需要更多的投资，但如果乘客必须忍受拥挤且不靠谱的服务，时不时还有定期的混乱，或计划中的维护管理不善，他们将不愿意支付更多的
-费用。
-
-## character
-
-> 真题出现频率：33
-
-> cha（无义）+ract+er（表示人的后缀）→“ 这个人很正直”，这是在说→n. 人物；性格→“事物的性格”→ n. 特点，特征
-
-### 意思
-
-n.人物；性格；特点，特征
-
-### 派生词
-
-characterize v. 描绘……的特性；具有……的特征 characterization n. 特性
-描述
-
-### 例句
-
-He's no longer a depressive character.#他不再是一个抑郁的人物。
-
-### 真题例句
-
-And perhaps faintly, they hint that people should look to intangible qualities like character and intellect rather than dieting their way to size zero or wasp-waist physiques.【英语一 2016年阅读Text1】#或许不太明显，但他们暗示出：人们应该留神关注像性格和才智这样的无形品质，而非通过节食减肥来达到零号尺寸或者蜂腰体型。
-
-### 真题固定搭配
-
-be characterized by... 以……为特点
-
-## characteristic
-
-> 真题出现频率：11
-
-> character+ist（n.）+ic（n.&a.）→ n. 特点，特征 a. 典型的，特有的
-
-### 意思
-
-n.特点，特征a.典型的，特有的
-
-### 派生词
-
-characteristics n. 特性，特征，特色
-
-### 例句
-
-The main characteristic of the strike has been its longevity.#这次罢工的主要特点是持续时间长。
-
-### 真题例句
-
-Such characteristics make them perfect candidates for Dr. Brosnan’s and Dr. de Waal’s study.【2005年阅读 Text1】#他们的这些特点使其成为布鲁斯南博士和德·瓦尔博士的最佳研究对象。
-
-## charge
-
-> 真题出现频率：19
-
-> char（谐音“叉”或“插”）+ge（谐音“哥”）→一个“大哥”被“叉”了；我要控诉你→ v.&n. 控诉→不能白被“叉”，赔偿我“大哥”的肉体和精神损失费→v.&n. 收费→你得照顾我“大哥”一辈子→ v.&n. 负责→“插”上充电器→ v.&n. 充
-电（量）
-
-### 意思
-
-v.&n.控诉；收费；负责；充电（量）
-
-### 派生词
-
-overcharge v. 过高收费
-
-### 例句
-
-She left her assistant in charge. #她委托助手来负责。
-
-### 真题例句
-
-If railroads charged all customers the same average rate, they argue, shippers who have the option of switching to trucks or other forms of transportation would do so, leaving remaining customers to shoulder the cost of keeping up the line.【2003 年阅读 Text 3】#他们认为，如果铁路公司对所有客户平均收费，那些可以选择货运卡车或其他运输方式的客户就会这么做，从而使剩余的客户承担铁路的运营费用。
-
-### 真题固定搭配
-
-in charge of 管理，负责 in the charge of... 由……管理 / 负责
-
-## charity
-
-> 真题出现频率：4
-
-> char（改写自 care）+ity（n.）→“关心他人，关心大众”，就是→ n. 慈善（行为），仁慈，施舍
-
-### 意思
-
-n.慈善(行为)，仁慈，施舍
-
-### 派生词
-
-charitable a. 慈善的，仁慈的，施舍的 charitably ad. 慈善地，仁慈地
-
-### 例句
-
-The charity is non-profit-making. #这个慈善团体不以营利为目的。
-
-### 真题例句
-
-Buying gifts or giving to charity is often more pleasurable than purchasing things for oneself.【英语二 2014 年阅读 Text 1】#给别人买礼物或者捐款给慈善机构往往比给自己买东西更快乐
-
-## cherish
-
-> 真题出现频率：2
-
-> cher（改写自 care）+ish（v.）→“关心、照顾别人的方式”→ v. 珍爱，珍惜，爱护
-
-### 意思
-
-v.珍爱，珍惜，爱护
-
-### 例句
-
-Time is valuable, and we should cherish it. #时间宝贵，我们应该珍惜时间。
-
-## chronic
-
-> 真题出现频率：4
-
-> chron+ic（a.）→ a. 长期的→“长期的病”→ a.（ 疾病）慢性的
-
-### 意思
-
-a.长期的；（疾病）慢性的
-
-### 例句
-
-He was suffering from chronic bronchitis. #他患有慢性支气管炎。
-
-### 真题例句
-
-Not everyone experiences the kinds of severe chronic stresses Alvarez describes.【2008 年 阅 读 Text 1】#并不是每个人都经历过阿尔瓦雷斯所描述的那种严重的长期压力。
-
-## chronicle
-
-> 真题出现频率：2
-
-> chron+ic（a.）+le（n.）→表达时间、年代的东西→ n. 编年史，历史
-
-### 意思
-
-n.编年史，历史
-
-### 例句
-
-Chronicle is an informative and entertaining tour into history, beautifully illustrated and full of unbelievable facts. #《编年史》史料丰富、有趣，图文并茂，充满了令人难以置信的事实。
-
-## circle
-
-> 真题出现频率：4
-
-### 意思
-
-n.圆，圆圈
-
-### 例句
-
-The children stood in a circle. #孩子们站成一圈。
-
-## circuit
-
-> 真题出现频率：9
-
-> circ+u（无义）+ 词根 it（go；想想 exit “出口”）→“走了一个圈”；电流走了
-个圈，形成→ n. 电路，回路→“走了一个圈”；歌星在中国各地走了个圈，不就
-是开巡回演唱会→ n. 巡回
-
-### 意思
-
-n.电路，回路；巡回
-
-### 例句
-
-The switches close the contacts and complete the circuit. #这些开关可接通形成闭合电路。
-
-### 真题例句
-
-The Federal Circuit issued an unusual order. 【英语一 2010 年阅读 Text 2】#联邦巡回法院发布了一项不同寻常的指令。
-
-### 真题固定搭配
-
-federal circuit 联邦巡回法院 integrated circuit 集成电路
-
-## circulation
-
-> 真题出现频率：7
-
-> circ+ul（中缀）+ation →使之成为一个“圆环、圆圈”；周而复始→ n. 循环；
-流通；发行量
-
-### 意思
-
-n.循环；流通；发行量（熟词僻义，重点关注）
-
-### 派生词
-
-circular a. 环形的；循环的
-
-### 例句
-
-The coins were taken out of circulation. #这种硬币已停止流通。
-
-### 真题例句
-
-To read such books today is to marvel at the fact that their learned contents were once deemed suitable for publication in general-circulation dailies.【英语一 2010 年阅读 Text 1】#如今读一读这些书籍会使人们惊奇于这一事实，即这些书中博大精深的内容曾被认为适合发表在面向大众发行的日报上。
-
-## circumscribe
-
-> 真题出现频率：2
-
-> circum（circle；圆，圈）+scribe（scrib）→“地上画了个圆圈”，画地为牢→v. 划定……的范围；限制
-
-### 意思
-
-v.划定……的范围；限制
-
-### 例句
-
-The power of the monarchy was circumscribed by the new law.#君主统治的权力受到了新法律的制约。
-
-## circumstance
+## debate
 
 > 真题出现频率：13
 
-> circum（circle；圆，圈）+st+ance（n.）→“环绕房子一圈而站立的地方”，就是你所处的→ n. 环境
+> de（下）+bat+e（无义）→“打下去”，只不过是用嘴→ v.&n. 辩论，争论
 
 ### 意思
 
-n.环境
+v.&n.辩论，争论
 
 ### 例句
 
-I know I can trust her in any circumstance.#我知道我在任何情况下都能信任她。
+In debate he was a formidable opponent. #在辩论中他是位难应付的对手。
 
 ### 真题例句
 
-You may feel guilt over your past, but you are poisoning the present with the things and circumstances you cannot change.【英语二 2015年新题型】#你可能会对自己的过去感到内疚，但你这是在用无法改变的事实和情况荼毒现在。
-
-## cite
-
-> 真题出现频率：12
-
-> 谐音“采他”→“采用他的说法”，不就是→ v. 引用，采用
-
-### 意思
-
-v.引用，采用
-
-### 例句
-
-The officials didn't cite particular reports. #官员们没有引用特定的报道。
-
-### 真题例句
-
-Wilt Chamberlain is cited as an example to. 【2008 年阅读 Text 3 31 题题干】#维尔特·张伯伦的例子被引用是为了说明    。
+Scholars, policymakers, and critics of all stripes have debated the social implications of these changes, but few have looked at the side effect: family risk has risen as well. 【2007 年阅读 Text 3】#学者、决策制定者和各种评论家都讨论了这些变化的社会意义，但是很少有人看到其副作用：家庭风险也随之增加了。
 
 ### 真题固定搭配
 
-be cited to... 被引用是为了……
+debate about/over... 关于……的争论 / 辩论
 
-## citizen
+## debt
 
-> 真题出现频率：14
+> 真题出现频率：16
 
-> citi（改写自 city）+zen（谐音“人”）→“城市里的人”→ n. 公民，市民
+> 谐音“打他”，因为欠债不还→ n. 欠债，债务
 
 ### 意思
 
-n.公民，市民
-
-### 派生词
-
-citizenship n. 公民身份，公民权利
+n.欠债，债务
 
 ### 例句
 
-She became a US citizen. #她成了美国公民
+The firm ended up deep in debt. #这家公司最后债台高筑。
+
+### 真题例句
+
+Professionals trying to acquire new skills will be able to do so without going into debt.【英语一 2018 年阅读 Text 1】#试图获取新技能的专业人士无须负债便能做到。
+
+### 真题固定搭配
+
+government debt 政府债务 bad debt （银行，企业）坏账 go into debt 欠债
+
+## deceive
+
+> 真题出现频率：5
+
+> de（下）+ceive →“往下拿，往下抓”，使别人放下心理防线，不就是→v. 欺骗，误导
+
+### 意思
+
+v.欺骗，误导
+
+### 派生词
+
+deception n. 欺 骗， 欺 诈； 骗 术 deceptive a. 欺 骗 的， 骗 人 的
+deceptiveness n. 欺骗，虚伪
+
+### 例句
+
+There is no attempt to deceive. #不要尝试欺骗。
+
+### 真题固定搭配
+
+self-deceptive 自欺的 deceive sb. into... 欺骗某人……
+
+## decelerate
+
+> 真题出现频率：2
+
+> de（下，否定）+celer+ate（v.）→“速度下降”→ v. 减速，减慢
+
+### 意思
+
+v.减速，减慢
+
+### 例句
+
+He shifted into low gear. The two vehicles began to decelerate. #他换上低速档，两辆车开始减速了。
+
+## decide
+
+> 真题出现频率：85
+
+> de（下）+cid+e（无义）→“向下切”；人在做重大决定时会有个手向下拍或切的动作→ v. 决定
+
+### 意思
+
+v.决定
+
+### 派生词
+
+decision n. 决定 decisive a. 决定性的，坚定的 decisiveness n. 决定，果断
+
+### 例句
+
+It's up to you to decide. #这事由你来决定吧。
+
+### 真题例句
+
+France, which prides itself as the global innovator of fashion, has decided its fashion industry has lost an absolute right to define physical beauty for women. 【英语一 2016 年阅读 Text 1】#以全球时尚创新者身份为荣的法国已经断定其时尚业已不再拥有定义女性形体美的绝对话语权。
+
+### 真题固定搭配
+
+decision-making #决策  #decision-maker #决策人  #decide to do sth. #决定做某事#
+decide on... #就……做出决定#make decisions about... #做出关于……的决定
+
+## declare
+
+> 真题出现频率：4
+
+> de（下）+clar+e（无义）→“让下面的人很清楚”→ v. 宣布，声明
+
+### 意思
+
+v.宣布，声明
+
+### 派生词
+
+declaration n. 宣言，公告，声明
+
+### 例句
+
+I declare this festival open. #我宣布庆祝活动开始。
+
+### 真题例句
+
+The Taylor decision also declared sex discrimination in jury selection to be unconstitutional.【英语二 2010 年阅读 Text 4】#泰勒裁决还宣布在挑选陪审团成员过程中的性别歧视是违反宪法的。
+
+## decline
+
+> 真题出现频率：37
+
+> de（下）+ cline →“往下倾斜”→ v.&n. 下降，衰落→“使别人热情下降”→
+v.&n. 拒绝
+
+### 意思
+
+v.&n.下降，衰落；拒绝
+
+### 例句
+
+The industry has slid into decline. #这个行业已成衰退之势。
+
+### 真题例句
+
+[D] Decline of job opportunities in U. S. agriculture. 【英语二 2019 年阅读 Text 3 31 题 D 选项】#[D] 美国农业的工作机会的减少。
+
+### 真题固定搭配
+
+on the decline 在下降，在衰退
+
+## decorate
+
+> 真题出现频率：6
+
+> dec（简写自 deck；装饰）+or（表示人或物）+ate（v.）→“装饰人或物的动作”→ v. 装饰，布置
+
+### 意思
+
+v.装饰，布置
+
+### 派生词
+
+decoration n. 装饰，布置
+
+### 例句
+
+Boys and girls in some communities decorate a UN tree. #一些社区里的男孩和女孩装饰一棵联合国树。
+
+### 真题例句
+
+Hilton is building its own hotel there, which you may be sure will be decorated with Hamlet Hamburger Bars, the Lear Lounge, the Banquo Banqueting Room, and so forth, and will be very expensive.【2006 年阅读 Text 2】#希尔顿在那里修建酒店，酒店里一定会配备哈姆雷特汉堡吧、李尔休息室、班柯宴会厅等，而且酒店的消费肯定十分昂贵。
+
+## decrease
+
+> 真题出现频率：7
+
+> increase 的反义词；de（下）+creas+e（无义）→“产生、创造下去了”；自然是变少了→ v.&n. 减小，减少
+
+### 意思
+
+v.&n.减小，减少
+
+### 例句
+
+There has been a decrease in traffic accidents. #交通事故减少了。
+
+### 真题例句
+
+This might sound small, but to undo the effects of such a decrease a candidate would need 30 more GMAT points than would otherwise have been necessary.【英语一 2013 年完形】#这听起来似乎微不足道，但为了抵消这部分降低的分数所带来的影响，申请者的 GMAT 分数要比原本需要考的分数高出 30 分。
+
+### 真题固定搭配
+
+decrease by 减少了（表示幅度） decrease to 减少到（表示结果）
+
+## dedicate
+
+> 真题出现频率：7
+
+> de（下）+dic+ate（v.）→“在党旗下说话的动作”→ v. 宣誓；后引申为→v. 致力于；贡献，献身
+
+### 意思
+
+v.宣誓，致力于；贡献，献身
+
+### 例句
+
+She vowed to herself that she would dedicate her life to scientific studies. #她默默地发誓要献身于科学研究。
+
+### 真题例句
+
+That’s one reason why we have launched Arc, a new publication dedicated to the near future.【英语一 2013 年阅读 Text 3】#这就是我们要出版一份新的致力于研究不远的将来的出版物——《弧形》的原因之一。
+
+### 真题固定搭配
+
+be dedicated to... 致力于…… ；贡献……
+
+## deduce
+
+> 真题出现频率：2
+
+> de（下）+duce →“向下引导”；来自数学，在数学中用公式、等式向下引导→ v. 推导，推断，推论
+
+### 意思
+
+v.推导，推断，推论
+
+### 例句
+
+Usually it is left to employers to deduce the potential from a list of extracurricular adventures on a graduate's resume. #通常情况下，由雇主从毕业生简历上的课外活动清单中来推断他们的潜力。
+
+### 真题固定搭配
+
+deduce A from B 从 B 中推出 A
+
+## deem
+
+> 真题出现频率：5
+
+### 意思
+
+v.认为，相信
+
+### 例句
+
+I deem it advisable to buy property now. #我认为现在购置房地产是明智的
+
+### 真题例句
+
+[C] They are deemed too mild by politicians. 【英语二 2020 年阅读 Text 3 32题 C 选项】#[C] 政治家认为他们太过温和。
+
+## deepen
+
+> 真题出现频率：2
+
+> deep（a. 深的）+en（使动）→“使之深”→ v. 加深，变深
+
+### 意思
+
+v. 加深，变深
+
+### 例句
+
+The water deepened gradually.#水渐渐变深了。
+
+## defeat
+
+> 真题出现频率：3
+
+> de（下）+feat（fec）→“做得低下”；被别人→ v.&n. 击败，战胜
+
+### 意思
+
+v.&n.击败，战胜
+
+### 例句
+
+They narrowly avoided defeat. #他们险些儿被打败。
+
+### 真题例句
+
+Of course, the use of the Internet isn’t the only way to defeat poverty. 【2001 年阅读 Passage 2】#当然，互联网的应用不是战胜贫穷的唯一方法。
+
+## defend
+
+> 真题出现频率：9
+
+> 上词 defense 的动词形式；de（下）+fend → v. 防卫，辩护
+
+### 意思
+
+v.防卫，辩护
+
+### 派生词
+
+defendant n. 被告人 defender n. 防御者，保护人 defendable a. 可防御的
+
+### 例句
+
+Most people with property to lose were resolved to defend it. #大多数有财产的人都坚决地捍卫它。
+
+### 真题例句
+
+That defendants are entitled to trial by their peers. 【英语二 2010 年阅读 Text 4】#被告人有权利接受同龄人的审判。
+
+## defense
+
+> 真题出现频率：9
+
+> de（下）+fense（改写自 fence）→“下面安个栅栏”；干吗用？防贼、防盗、防偷袭嘛→ n. 防卫，防御
+
+### 意思
+
+n.防卫，防御
+
+### 派生词
+
+defensive a. 防御的，防守的 defensible a. 能防御的，能辩护的 indefensible 
+a. 无法防御的，站不住脚的
+
+### 例句
+
+The Redskins' offense is stronger than their defense. #印第安人队的进攻强于防守。
+
+### 真题例句
+
+We become defensive when criticised. 【英语二 2014 年阅读 Text 2】#当受到批评时，我们会自我防御。
+
+## defer
+
+> 真题出现频率：4
+
+> de（下）+fer →“这事往下放放”→ v. 推迟，拖延→“架子往下放放”→ v. 服从，听从
+
+### 意思
+
+v.推迟，拖延；服从，听从
+
+### 派生词
+
+deference n. 服从，听从
+
+### 例句
+
+Customers often defer payment for as long as possible. #顾客们经常尽可能地推迟付款。
+
+### 真题例句
+
+leaving the Postal Service unable to pay its bills except by deferring vital modernization【英语一 2018 年阅读 Text 4】#使得美国邮政服务公司只能通过推迟关键的现代化进程来还账
+
+## deficiency
+
+> 真题出现频率：3
+
+> de（下）+fic+i（无义）+ency（n.）→“做事做得低下”，当然是这个人的→n. 缺点，缺陷；缺乏，不足
+
+### 意思
+
+n.缺点，缺陷；缺乏，不足
+
+### 例句
+
+Vitamin deficiency in the diet can cause illness. #饮食中缺乏维生素可能导致疾病。
+
+### 真题例句
+
+For example, heavier women are less likely to develop calcium deficiency than thin women.【英语二 2014 年完形】#例如，苗条的女生相比肥胖的女生更容易产生钙质缺乏。
+
+## define
+
+> 真题出现频率：48
+
+> de（下）+fin+e（无义）→给某个事物“下限制、界限”→ v. 下定义，解释；限定，界定
+
+### 意思
+
+v.下定义，解释；限定，界定
+
+### 派生词
+
+definition n. 定义 redefine v. 重新定义
+
+### 例句
+
+It depends on how you define the term 'hostile'. #那得看你怎么定义hostile这个词。
+
+### 真题例句
+
+We define such sold media as owned media.【英语一 2011 年阅读 Text 3】#我们将这种售出媒介定义为自有媒介。
+
+### 真题固定搭配
+
+define A as B　把 A 定义为 B by definition 根据 / 依靠定义
+
+## definite
+
+> 真题出现频率：7
+
+> 上词 define 的形容词；defin（简写自 define）+ite（a.）→“有了定义”，理
+解起来就→ a. 明确的，清楚的
+
+### 意思
+
+a.明确的，清楚的
+
+### 派生词
+
+definitely ad. 明确地，肯定地 indefinite a. 不明确的 indefinitely ad. 不明确地；无限期地
+
+### 例句
+
+It's too soon to give a definite answer. #现在给予明确答复还为时尚早。
+
+### 真题例句
+
+the Earth’s atmosphere is definitely warming and that the problem is largely man-made 【2005 年阅读 Text 2】#地球气候的确在变暖，而这一问题在很大程度上是人类造成的
+
+## deforestation
+
+> 真题出现频率：6
+
+> de+forest（森林）+ation（n.）→“森林纷纷倒下”→ n. 滥伐森林
+
+### 意思
+
+n. 滥伐森林
+
+### 例句
+
+Deforestation and land use change are driving forces in the developing world.#森林砍伐和土地用途改变是发展中国家排放的推动力
+
+### 真题例句
+
+[D] lower deforestation rates.【英语一 2021 年阅读 Text 2 26 题 D 选项】#[D] 降低森林采伐率。
+
+## defy
+
+> 真题出现频率：2
+
+> de（下，否定）+fy（简写自 fid）→“对其信任下降，不再相信”，自然→
+v. 违抗，违反，不服从
+
+### 意思
+
+v. 违抗，违反，不服从
+
+### 例句
+
+I wouldn't have dared to defy my teachers.#我可不敢不听老师的话。
+
+## degenerate
+
+> 真题出现频率：2
+
+> de（下）+generate（v. 繁殖，生殖）→“生出来的人不停向下，走下坡路”→ v. 退化；堕落 a. 堕落的
+
+### 意思
+
+v.退化；堕落 a.堕落的
+
+### 例句
+
+Inactivity can make your joints stiff, and the bones may begin to degenerate. #不活动会使关节僵硬，骨骼因此可能会开始退化。
+
+## degrade
+
+> 真题出现频率：2
+
+> de（下）+grad+e（无义）→“往下走”；人往低处走→ v. 降低，降级
+
+### 意思
+
+v.降低，降级
+
+### 派生词
+
+degrading a. 可耻的；有失体面的
+
+### 例句
+
+Certain irrigation practices degrade soil quality and reduce agricultural productivity. #某些灌溉措施会降低土壤质量，降低农业生产力。
+
+## delay
+
+> 真题出现频率：7
+
+> de+lay（放，放置）→“把这个事往下放放”→ v.&n. 延迟，拖延
+
+### 意思
+
+v.&n.延迟，拖延
+
+### 派生词
+
+delayed a. 延时的
+
+### 例句
+
+We would like to apologize for the delay. #我们愿对延迟表示歉意。
+
+### 真题例句
+
+Other models exist that are hybrids of these three, such as delayed open-access.【2008 年阅读 Text 2】#其他现存模式是这三种模式的结合体，比如延迟开放获取模式。
+
+### 真题固定搭配
+
+delay sth. to+ 日期 拖延某事至某个日期
+
+## deliberate
+
+> 真题出现频率：8
+
+> de（下）+liber+ate（a.）→“自由度下降，不能随心所欲”，说话需要→a. 谨慎的，深思熟虑的；还需重点关注僻义“a. 故意的”
+
+### 意思
+
+a.谨慎的，深思熟虑的；故意的（熟词僻义，重点关注）
+
+### 派生词
+
+deliberation n. 考虑，深思熟虑 deliberately ad. 谨慎地；故意地
+
+### 例句
+
+The deliberate cruelty of his words cut her like a knife. #他故意说的残酷无情的话对她像刀割一样。
+
+### 真题例句
+
+And the best way to learn how to encode information meaningfully, Ericsson determined, was a process known as deliberate practice. 【2007 年阅读 Text 1】#埃里克森认为，学习如何有意义地编码信息的最好途径就是进行一个被称为“刻意练习”的过程。
+
+## delight
+
+> 真题出现频率：6
+
+> de（减少）+light →“减少变轻”；减肥时体重减少，变得很轻，什么心情？→ v.&n.（使）高兴，快乐
+
+### 意思
+
+v.&n.（使）高兴，快乐
+
+### 派生词
+
+delighted a. 高兴的，快乐的
+
+### 例句
+
+She gave a chuckle of delight. #她高兴得轻声笑了出来
+
+### 真题例句
+
+The very things that in the moment dampen our moods can later be sources of intense gratification and delight【英语一 . 2011 年阅读 Text 4】#正是此时此刻这些令我们心情沮丧的事情，日后可能会成为幸福和喜悦的源泉。
+
+### 真题固定搭配
+
+be delighted at... 高兴…… be delighted to do sth. 高兴做某事
+
+## deliver
+
+> 真题出现频率：13
+
+> de+live（生命，活物）+r （无义）→“下来一个生命、活物”→ v. 分娩；后引申出→ v. 交付，传递；发表
+
+### 意思
+
+v.分娩；交付，传递；发表
+
+### 派生词
+
+delivery n. 分娩；交付，传递；发表
+
+### 例句
+
+My master ordered me not to deliver the message except in private. #主人命令我不能传送信息，除非在私下里。
+
+### 真题例句
+
+To deliver results to its users quickly, then, Google has to maintain vast data centers around the world, packed with powerful computers.【英语二 2011 年翻译】#为了把搜索结果迅速传递给用户，谷歌不得不在全世界范围内建立大型数据中心，并配备功能强大的计算机。
+
+## demand
+
+> 真题出现频率：42
+
+> de（下）+mand →“给下面发布命令”→ v.&n. 需要，需求，要求
+
+### 意思
+
+v.&n.需要，需求，要求
+
+### 例句
+
+I demand to see the manager. #我坚决要求见经理
+
+### 真题例句
+
+[A] demand new laws on the use of plastics 【英语二 2019 年阅读 Text 4 36题 A 选项】#[A] 关于塑料的使用需要新的法律
+
+## demise
+
+> 真题出现频率：2
+
+> de（下）+mis+e（无义）→“送到下面，地下”→ n. 死亡→“死亡”之
+后，财产要进行“转让，让位”
+
+### 意思
+
+n. 死亡；（不动产的）转让，让位
+
+### 例句
+
+Smoking, rather than genetics, was the cause of his early demise. #导致他英年早逝的原因是吸烟而非遗传。
+
+## democracy
+
+> 真题出现频率：8
+
+> dem+o（无义）+ 词根 crac（统治）+y（n.）→“人民统治，人民当家做主”→ n. 民主，民主制；民主国家
+
+### 意思
+
+n.民主，民主制；民主国家
+
+### 派生词
+
+democratic a. 民主的
+
+### 例句
+
+India has remained true to democracy.#印度一直奉行民主政治。
 
 ### 真题例句
 
 In a direct democracy, citizens take turns governing themselves, rather than electing representatives to govern for them.【英语二 2010 年阅读 Text 4】#在直接民主体制中，公民轮流执政，而不是选举代表替他们执政。
 
-## civil
+### 真题固定搭配
 
-> 真题出现频率：9
+Democratic Party 民主党 democratic society 民主社会 democratic state 民
+主国家
 
-> 本意是“文明的”，来自 civilization（文明）；具有现代文明意识的才能叫“公民”，所以引申为→ a. 公民的，市民的
-
-### 意思
-
-a.文明的；公民的，市民的
-
-### 派生词
-
-civility n. 礼貌，礼仪；客气 civilian n. 平民，百姓
-
-### 例句
-
-They said that compulsory identity cards would infringe civil liberties.#他们说强制办理身份证会侵犯公民的自由。
-
-### 真题例句
-
-Rather than just focusing on GDP, over 40 different sets of criteria from health, education and civil society engagement have been measured to get a more rounded assessment of how countries are performing. 【英语一 2017 年阅读 Text 3】#该报告并非只关注国内生产总值这一项指标，而是根据医疗、教育，以及公民的社会参与度等超过 40 多项不同的标准来进行衡量，从而更全面地评估各国的表现。
-
-## civilization
-
-> 真题出现频率：6
-
-> 上词 civil 的名词；civil+iz（ize）+ation（n.）→ n. 文明，文化
-
-### 意思
-
-（civilisation）n.文明，文化
-
-### 派生词
-
-civilize v. 使文明，开化
-
-### 例句
-
-Civilization is on the brink of apocalypse. #文明已濒临毁灭的边缘
-
-### 真题例句
-
-Yet science has a cultural history, too, with roots going back to the dawn of civilization.【英语一 2017 年阅读 Text 2】#然而，科学也有文化历史，其根源可以追溯至文明的开端。
-
-## claim
-
-> 真题出现频率：36
-
-### 意思
-
-v.&n.要求，声称
-
-### 例句
-
-Critics claim the trucks are unsafe. #批评者声称这些卡车很危险。
-
-### 真题例句
-
-Symbolic of national unity as they claim to be, their very history—and sometimes the way they behave today—embodies outdated and indefensible privileges and inequalities. 【英语一 2015 年阅读 Text 1】#尽管他们宣称自己是国家统一的象征，但是他们特有的历史——和他们现在的某些行为方式——却体现了过时且站不住脚的特权与不平等。
-
-## clarify
+## demography
 
 > 真题出现频率：2
 
-> clar+ify（使动）→“使之清楚、清晰”→ v. 使清楚，澄清
+> dem（人民，民众；Day 08 学过的词根）+o（无义）+graph+y（n.）→描
+绘人民的人口→人口统计学
 
 ### 意思
 
-v.使清楚，澄清
+n. 人口统计学
 
-### 例句
-
-Thank you for writing and allowing me to clarify the present position. #谢谢你来信并允许我澄清目前的状况。
-
-## clarity
-
-> 真题出现频率：3
-
-> 上词 clarify 的名词；clar+ity（n.）→ n. 清楚，清晰
-
-### 意思
-
-n.清楚，清晰
-
-### 例句
-
-It was a model of clarity. #这是表达清晰的范例。
-
-### 真题例句
-
-Rested in the Pacific Ocean, Mauna Kea’s peak rises above the bulk of our planet’s dense atmosphere, where conditions allow telescopes to obtain images of unsurpassed clarity. 【英语一 2017 年阅读 Text 2】#莫纳克亚山坐落于太平洋上，其顶峰高耸至地球浓密的大气层之上，这里的地理条件能够使天文望远镜获取高清晰度的图像。
-
-## clash
-
-> 真题出现频率：2
-
-> 拟声词；两物相撞发出巨大的声音 cla（咔啦）+sh（嘶）→ v.&n. 碰撞，碰撞声
-
-### 意思
-
-v.&n.碰撞，碰撞声
-
-### 例句
-
-It's a pity the two concerts clash; I want to go to both. #可惜两个音乐会时间冲突，我都想去听。
-
-## class
-
-> 真题出现频率：60
-
-### 意思
-
-n.班级；等级，阶级；种类（熟词僻义，重点关注）
-
-### 例句
-
-The food was first-class. #这些食物是一流的。
-
-### 真题固定搭配
-
-middle class 中产阶级
-
-## classical
-
-> 真题出现频率：16
-
-> class（n. 等级）+ic（a.）+al（a.）→“等级很高，很好的事物”，便是→a. 古典的，经典的
-
-### 意思
-
-a.古典的，经典的
-
-### 例句
-
-Swan Lake' is one of the great classical ballets. #《天鹅湖》是一部伟大的古典芭蕾舞剧。
-
-### 真题例句
-
-By the date of his birth Europe was witnessing the passing of the religious drama, and the creation of new forms under the incentive of classical tragedy and comedy. 【英语一 2018 年翻译】#他（莎士比亚）出生之时，欧洲正在目睹宗教戏剧的消逝，在古典悲剧和喜剧的推动下，很多新的戏剧形式应运而生。
-
-## classify
-
-> 真题出现频率：5
-
-> class（n. 种类）+ify（使动）→“使之成为不同种类”→ v. 分类
-
-### 意思
-
-v.分类
-
-### 派生词
-
-reclassify v. 将……重新分类 classification n. 分类，归类
-
-### 例句
-
-Classify them by branch, region, and year. #将它们按部门、地区和年份分类。
-
-### 真题例句
-
-[B] part-timer classification【英语二 2015 年阅读 Text 4 40 题 B 选项】#[B] 兼职者分类
-
-## client
-
-> 真题出现频率：9
-
-### 意思
-
-n.顾客；（律师等的）当事人，委托人
-
-### 派生词
-
-clientele n. 顾客
-
-### 例句
-
-I have a client with me right now. #我现在有个客户。
-
-### 真题例句
-
-But there are few places where clients have more grounds for complaint than America.【英语一 2014 年阅读 Text 2】#但是，几乎没有哪个地方的客户比美国的客户更有理由抱怨了。
-
-## cling
-
-> 真题出现频率：3
-
-> c（辅音字母表示抓）+ling（改写自 link；v. 连接）→“A 与 B 紧紧抓着，彼此相连”→ v. 附着于，粘着→“做事很有粘性”→ v. 坚持
-
-### 意思
-
-v.附着于，粘着；坚持
-
-### 例句
-
-Since you don't like your perception of him, why cling to it? #既然你不喜欢你对他的看法，为什么还坚持这个看法呢？
-
-### 真题例句
-
-[A] top performers used to cling to their posts 【英语一 2011 年阅读 Text 2 29 题 A 选项】#[A] 高级职员们过去一直坚守其职
-
-### 真题固定搭配
-
-cling to 紧握不放，坚持
-
-## clue
-
-> 真题出现频率：6
-
-> 谐音“可露”→“你终于露出”→ n. 线索，提示
-
-### 意思
-
-n.线索，提示
-
-### 例句
-
-The only clue he has is a fossil. #他唯一的线索就是一块化石。
-
-### 真题例句
-
-Most ground surveys involve a lot of walking, looking for surface clues. 【英语一 2014 年新题型】#大部分地面勘测工作需要长途跋涉，寻找地表线索。
-
-## cognitive
-
-> 真题出现频率：7
-
-> cogn+it（无义）+ive（a.）→“知道的，认识的”→ a. 认知的，认识的
-
-### 意思
-
-a.认知的，认识的
-
-### 例句
-
-As children grow older, their cognitive processes become sharper. #随着孩子们长大，他们的认知过程也变得越来越敏锐了。
-
-### 真题例句
-
-This success... led Ericsson to conclude that the act of memorizing is more of a cognitive exercise than an intuitive one.【2007 年阅读 Text 1】#这次实验的成功……使埃里克森得出结论：记忆行为不是一种直觉活动，而是一种认知活动。
-
-## cohere
-
-> 真题出现频率：2
-
-> co（全部，共同，一起）+here（her）→“全部粘在一起”→ v. 粘合，凝聚；团结一致
-
-### 意思
-
-v.粘合，凝聚；团结一致
-
-### 派生词
-
-coherent a. 一致的，连贯的 coherence n. 一致；凝聚
-
-### 例句
-
-The empire could not cohere as a legitimate whole. #这个帝国无法凝聚成一个合法的整体。
-
-### 真题例句
-
-Half a century of town and country planning has enabled it to retain an enviable rural coherence. 【英语一 2016 年阅读 Text 2】#半个世纪的城乡发展计划使它能保持令人羡慕的乡村和谐。
-
-## coincidence
-
-> 真题出现频率：8
-
-> co（共同，全部，一起）+incidence →“共同、同时发生”，实在是太→n. 巧合，一致
-
-### 意思
-
-n.巧合，一致
-
-### 派生词
-
-coincide v. 与……一致，符合 coincident a. 同时发生的，巧合的，一致的
-
-### 例句
-
-What an odd coincidence that he should have known your family. #他已认识你的家人，多么不寻常的巧合。
-
-### 真题例句
-
-Koehn pointed out that this new era of corporate vocabulary is very “team”-oriented—and not by coincidence. 【英语二 2015 年阅读 Text 3】#科恩指出，新时代的职场语言极具“团队”导向性——但这绝非偶然。
-
-### 真题固定搭配
-
-by coincidence 偶然，碰巧
-
-## collaborate
-
-> 真题出现频率：6
-
-> col（共同，全部）+labor+ate（v.）→“共同劳动”，彼此之间需要→ v. 合作，协作→“与坏人合作”，不就是→ v. 勾结
-
-### 意思
-
-v.合作，协作；勾结
-
-### 派生词
-
-collaboration n. 合 作， 协 作； 勾 结 collaborative a. 合 作 的， 协 作 的
-collaboratively ad. 合作地，协作地
-
-### 例句
-
-She agreed to collaborate with him in writing her biography. #她同意与他合作撰写她的传记。
-
-### 真题例句
-
-like difficulty in communicating well or collaboration【2007 年新题型】#比如有效沟通或合作方面出现的困难
-
-### 真题固定搭配
-
-collaborate with... 与……合作 / 协作 / 勾结
-
-## collapse
-
-> 真题出现频率：6
-
-> col+lapse（n. 小错，疏忽）→“所有的小错形成大错”→ v.&n. 倒塌，崩溃
-
-### 意思
-
-v.&n.倒塌，崩溃
-
-### 例句
-
-The bridge is liable to collapse at any moment. #那座桥随时可能坍塌。
-
-### 真题例句
-
-Integrity had collapsed, she argued. 【英语一 2015 年阅读 Text 4】#她认为诚信已然倒塌。
-
-## colleague
-
-> 真题出现频率：16
-
-> col+league（联 盟，同盟）→大家“共同在一个同盟中”，彼此就是 →n. 同事
-
-### 意思
-
-n.同事
-
-### 例句
-
-They rated him highly as a colleague. #作为同事，他们对他评价甚高。
-
-### 真题例句
-
-Your home colleagues—your family—have no clear rewards for their labor.【英语二 2015 年阅读 Text 1】#对于你家里的同事——也就是你的家人——他们的劳动是没有清楚的报酬的。
-
-## collect
-
-> 真题出现频率：40
-
-> col（全部，共同）+lect →“喜欢的全选”→ v. 收集，收藏
-
-### 意思
-
-v.收集，收藏
-
-### 派生词
-
-collection n. 收 集， 收 藏 品 collective a. 集 体 的， 共 同 的 collectively 
-ad. 集体地，共同地 collector n. 收藏家，采集者
-
-### 例句
-
-I collect shells and interesting seaside items. #我收集贝壳以及海边有趣的东西。
-
-### 真题例句
-
-Databases used by some companies don’t rely on data collected systematically. 【2009 年阅读 Text 2】#一些公司使用的数据库并不是依照系统性收集的数据建立起来的。
-
-## college
-
-> 真题出现频率：52
-
-> collegiate a. 大学的，学院的
-
-### 意思
-
-n.大学，学院
-
-### 派生词
-
-collegiate a. 大学的，学院的
-
-### 例句
-
-Rice aspired to go to college. #赖斯渴望上大学
-
-### 真题固定搭配
-
-finish college 完成学业 college graduate 大学毕业生 go to college 读大学
-
-## colony
-
-> 真题出现频率：11
-
-> 谐音“占了你”→ n. 殖民地
-
-### 意思
-
-n.殖民地
-
-### 派生词
-
-colonial a. 殖民的，殖民地的 colonialism n. 殖民主义 colonist n. 殖民者，殖民地居民
-
-### 例句
-
-America used to be a British colony. #美国曾经是英国的殖民地。
-
-### 真题例句
-
-According to the standard history of American philosophy, nowhere else in colonial America was “so much importance attached to intellectual pursuits.”【2009 年阅读 Text 4】#根据美国哲学标准史的记载，在殖民时期的美国，其他任何地方都没有“如此重视对知识的追求”。
-
-## combat
-
-> 真题出现频率：8
-
-> com（共同，全部，一起）+bat →“一起打”→ v.&n. 战斗
-
-### 意思
-
-v.&n.战斗
-
-### 派生词
-
-combative a. 好斗的，斗志昂扬的
-
-### 例句
-
-It was the end of a long combat. #那是一场长时间搏斗的结束。
-
-### 真题例句
-
-[A] combat unnecessary waste 【英语一 2013 年阅读 Text 1 22 题 A 选项】#[A] 与不必要的浪费做斗争
-
-## combine
-
-> 真题出现频率：10
-
-> com（共同，全部，一起）+bine（谐音“绑”）→“全部绑在一起”→ v. 联
-合，结合
-
-### 意思
-
-v.联合，结合
-
-### 例句
-
-The trip will combine business with pleasure. #此次旅行将把出差和娱乐结合起来。
-
-### 真题例句
-
-Enhanced security measures since then, combined with a rise in airline travel due to the improving economy and low oil prices, have resulted in long waits at major airports such as Chicago’s O’Hare International. 【英语一 2017 年阅读 Text 1】#从那时开始，加强的安检措施，再加上由经济增长和低油价引起的航空旅行人数的增加，导致像芝加哥奥黑尔国际机场这样的大型机场出现了排长队的现象。
-
-### 真题固定搭配
-
-be combined with... 与……联合 / 结合
-
-## comfort
-
-> 真题出现频率：4
-
-> 上词 comfortable 的名词和动词→ n. 安慰，舒适 v. 安慰，使舒适
-
-### 意思
-
-n.安慰，舒适 v.安慰，使舒适
-
-### 派生词
-
-discomfort n. 不舒服，不舒适 v. 使……不舒服 / 不安
-
-### 例句
-
-It's a comfort talking to you. #与你谈谈是一种安慰。
-
-### 真题例句
-
-In fact, the more new things we try—the more we step outside our comfort zone—the more inherently creative we become, both in the workplace and in our personal lives. 【2009 年阅读 Text 1】#实际上，无论是在工作场所还是在我们个人的生活中，我们尝试的新鲜事物越多——越远离自己的舒适区域——我们就越具有内在的创造力。
-
-## comfortable
-
-> 真题出现频率：8
-
-> com（共同，全部）+for（为了）+table（桌子）→“为所有人一人准备一个桌子”；不用挤在一起，是不是很→ a. 舒服的，舒适的
-
-### 意思
-
-a.舒服的，舒适的
-
-### 派生词
-
-uncomfortable a. 不舒服的，不舒适的
-
-### 例句
-
-You'll be quite comfortable here. #你在这里会很舒服的。
-
-### 真题例句
-
-One consideration is safety, or at least the perception of it. Would passengers feel comfortable travelling in companion? 【英语二 2010 年新题型】#需要考虑的其中一个问题就是安全问题，起码要察觉到这一问题。乘客们在飞机编队飞行时会觉得舒服吗？
-
-## command
-
-> 真题出现频率：5
-
-> com（加强）+mand → v.&n. 命令，指挥；掌握
-
-### 意思
-
-v.&n.命令，指挥；掌握（熟词僻义，重点关注）
-
-### 例句
-
-Begin when I give the command. #我发出命令时开始。
-
-### 真题例句
-
-Americans no longer expect public figures, whether in speech or in writing, to command the English language with skill and gift.【2005 年阅读 Text 4】#无论是在演讲中还是在写作中，美国人都不再期望公众人物能用技巧和天赋来掌握英语。
-
-## commemorate
-
-> 真题出现频率：2
-
-> com（全部，共同）+mem+or（表示人）+ ate（v.）→“所有人都记住了某个人”→ v. 纪念
-
-### 意思
-
-v.纪念
-
-### 例句
-
-A series of movies will be shown to commemorate the 30th anniversary of his death. #为纪念他逝世30周年，有一系列的电影要上映。
-
-## commend
-
-> 真题出现频率：2
-
-> 改写自上词 comment →“commend”是一种“comment”→ v. 表扬→因为“表扬”，所以→ v.推荐
-
-### 意思
-
-v.表扬；推荐
-
-### 例句
-
-The reports commend her bravery. #报告称赞她的英勇。
-
-## comment
-
-> 真题出现频率：16
-
-> com（加强）+ment →“加强地想”；想好了，想仔细了，才会→ v.&n. 评论
-
-### 意思
-
-v.&n.评论
-
-### 例句
-
-I forbore to comment on this. #我不欲评论它
-
-### 真题例句
-
-If you are addressing secretaries, you may want to comment on their disorganized bosses. 【2002 年阅读 Text 1】#如果你在和一群秘书谈话，你可能想要评论一下他们没有条理的老板。
-
-### 真题固定搭配
-
-comment on 评论
-
-## commerce
-
-> 真题出现频率：6
-
-> com（加强）+mer+ce（n.）→ n. 商业
-
-### 意思
-
-n.商业
-
-### 例句
-
-The music business marries art and commerce. #音乐行当将艺术和商业结合在一起。
-
-### 真题例句
-
-But in some cases, one marketer’s owned media become another marketer’s paid media—for instance, when an e-commerce retailer sells ad space on its Web site. 【英语一 2011 年阅读 Text 3】#但在某些情况下，某一营销者的自有媒介成了另一营销者的付费媒介——例如，当某电子商务零售商出售其网站上的广告位时。
-
-### 真题固定搭配
-
-e-commerce 电子商务
-
-## commercial
-
-> 真题出现频率：17
-
-> 上词 commerce 的形容词；com（加强）+mer+c（无义）+ial（a.&n.）→a. 商业的 n. 广告
-
-### 意思
-
-a.商业的n.广告
-
-### 派生词
-
-commercially ad. 商业上 commercialize v.（尤指不择手段地）利用……牟利，商业化
-
-### 例句
-
-We hope it will be a commercial success. #我们希望它会是一次商业成功。
-
-### 真题例句
-
-While traditional “paid” media—such as television commercials and print advertisements—still play a major role, companies today can exploit many alternative forms of media.【英语一 2011 年阅读 Text 3】#虽然传统的“付费”媒体——比如电视广告和平面广告——仍然起着重要的作用，但如今公司还可以利用许多其他形式的媒体。
-
-## commission
-
-> 真题出现频率：14
-
-> 上词 committee 的同源词；commis（改写自 commit）+sion（n.）→“受人
-委托产生的组织”→ n. 委员会，委员
-
-### 意思
-
-n.委员会，委员
-
-### 派生词
-
-commissioner n. 委员
-
-### 例句
-
-The course is part funded by the European Commission. #这个课程是欧洲委员会部分资助的。
-
-### 真题例句
-
-“There seems to be a predominance of short-term thinking at the expense of long-term investing,” said Commissioner Daniel Gallagher of the US Securities and Exchange Commission in a speech this week.【英语一 2019 年阅读 Text 1】#“以牺牲长期投资为代价的短期思维似乎占据了主导地位。”美国证券交易委员会委员丹尼尔·加拉格尔本周在一次演讲中说道。
-
-## commit
-
-> 真题出现频率：11
-
-> co（谐音“靠”）+mm（谐音“美眉”）+it（它）→“靠 mm”；在公交、
-地铁上，用身体靠美眉，这不就是→ v. 犯罪    com（加强语气）+mit →“帮我把某物送过去”→ v. 委托；承诺
-
-### 意思
-
-v.犯罪；委托；承诺
-
-### 例句
-
-People who commit such crimes aren't normal. #犯这种罪的人心理不正常。
-
-### 真题例句
-
-Theories focusing on the role of society suggest that children commit crimes in response to their failure to rise above their socioeconomic status, or as a rejection of middle-class values. 【2004 年完形】#关注青少年犯罪社会方面原因的理论认为，青少年犯罪是因为他们未能提高自己的社会经济地位或者是为了表达他们对中产阶级价值观的排斥。
-
-### 真题固定搭配
-
-commit suicide 自杀 commit crime 犯罪
-
-## commitment
-
-> 真题出现频率：5
-
-> commit（委托）+ment（n.）→被人“委托”产生的；受人之托便当忠人之事→ n. 责任；承诺
-
-### 意思
-
-n.责任；承诺
-
-### 例句
-
-We made a commitment to keep working together. #我们作了承诺要继续在一起工作。
-
-### 真题例句
-
-While the government’s commitment to long-term funding may have changed, the very pressing need for more affordable housing is real and is not going away. 【英语二 2014 年阅读 Text 4】#尽管政府长期资助的承诺可能已发生改变，但对更廉价的住房的迫切需求却是真实的，并且不会消失。
-
-## committee
-
-> 真题出现频率：5
-
-> commit（委托）+t（无义）+ee（表示动作的承受者）→“受人委托产生的组织”→ n. 委员会
-
-### 意思
-
-n.委员会
-
-### 例句
-
-The committee meets on Fridays. #委员会每周五开会。
-
-### 真题例句
-
-But by the end of 2009 Ms. Simmons was under fire for having sat on Goldman’s compensation committee.【英语二 2011 年阅读 Text 1】#但是在 2009 年年底，西蒙斯女士却因担任高盛公司薪酬委员会委员受到抨击。
-
-## commodity
-
-> 真题出现频率：8
-
-> com（共同，全部）+mod+ity（n.）→“大家共同买的样式”→ n. 商品；日用品
-
-### 意思
-
-n.商品；日用品
-
-### 例句
-
-Crude oil is the world's most important commodity. #原油是世界上最重要的商品。
-
-### 真题例句
-
-[B] commodity prices rise【2002 年阅读 Text 3 52 题 B 选项】#[B] 商品价格上涨
-
-### 真题固定搭配
-
-commodity price 商品价格
-
-## common
-
-> 真题出现频率：57
-
-### 意思
-
-a.常见的，普通的，共同的
-
-### 派生词
-
-commonly ad. 常见地，通常地，普遍地 commonness n. 普通，平凡 uncommon a. 不常见的，非同寻常的
-
-### 例句
-
-Jackson is a common English name. #杰克逊是常见的英语人名。
-
-### 真题固定搭配
-
-common sense 常识
-
-## communicate
-
-> 真题出现频率：30
-
-> commun+ic（a.）+ate（v.）→本来是我的想法，“使之成为共同的想法”，
-要靠→ v. 沟通，交流→“设备之间信息的交流与沟通”→ v. 通讯，通信
-
-### 意思
-
-v.沟通，交流；通讯，通信（熟词僻义，重点关注）
-
-### 派生词
-
-communication n. 沟通，交流；通讯，通信
-
-### 例句
-
-They successfully communicate their knowledge to others. #他们成功地把他们的知识传达给别人。
-
-### 真题例句
-
-Scientists must communicate their message to the public in a compassionate, understandable way. 【2003年阅读 Text 2】#科学家必须以富有同情心和容易理解的方式把自己的意思传达给公众。
-
-### 真题固定搭配
-
-communicate with... 与……沟通 / 交流 / 通话
-
-## community
-
-> 真题出现频率：50
-
-> commun+ity（n.）→“共同生活的地方”→ n. 社区，团体，共同体
-
-### 意思
-
-n.社区，团体，共同体
-
-### 派生词
-
-communal a. 公社的，公民的，公共的
-
-### 例句
-
-The whole community was aroused by the crime. #这个罪行使整个社会行动起来。
-
-### 真题例句
-
-The astronomy community is making compromises to change its use of Mauna Kea. 【英语一 2017 年阅读 Text 2】#天文学界正在做出妥协来改变对莫纳克亚山的利用。
-
-## commute
-
-> 真题出现频率：8
-
-> com（加强）+mut+e（无义）→“上下班的移动”→ v. 上下班往返，通勤 n. 上下班路程
-
-### 意思
-
-v.上下班往返，通勤n.上下班路程
-
-### 派生词
-
-commuter n. 上下班往返的人，通勤者
-
-### 例句
-
-So how long is your commute? #那么你上下班路程要花多长时间？
-
-### 真题例句
-
-It could be your commute to work, a trip into town or the way home. 【英语二2015 年翻译】#它可以是你上下班的路上，也可以是进城途中或者回家的路上。
-
-## compact
-
-> 真题出现频率：2
-
-> com（共同，全部）+pact →“把全部东西挤压在一起”→ v. 压紧 a. 紧凑的；袖珍的
-
-### 意思
-
-v.压紧a.紧凑的；袖珍的
-
-### 例句
-
-The kitchen was compact but well equipped.#这间厨房虽然空间小但设备齐全。
-
-## compare
-
-> 真题出现频率：45
-
-### 意思
-
-v.比较，对比
-
-### 派生词
-
-comparison n. 比较，对比 comparable a. 可比较的；比得上的 comparative a. 比较的；相对的 comparatively ad. 比较地；相对地
-
-### 例句
-
-Compare the two illustrations in Figure 60.#比较一下图60中的两个图示。
-
-### 真题例句
-
-When work started again on Monday, output duly rose compared with the previous Saturday and continued to rise for the next couple of days.【 英语一2010年完形】#当周一重新开始工作时，产出量和上周六相比会适当地上升，并会在接下来的几天内持续增加。
-
-### 真题固定搭配
-
-compare A with B 比较 A 和 B compare A to B 把 A 比作 B draw/make a comparison between A and B 在A 与 B 之间做出比较
-
-## compassion
-
-> 真题出现频率：2
-
-> com（全部，共同）+pass+ion（n.）→“共同的感情”→ n. 同情，怜悯
-
-### 意思
-
-n.同情，怜悯
-
-### 例句
-
-Elderly people need time and compassion from their physicians.#老年人需要医生的时间和同情心
-
-## compel
-
-> 真题出现频率：8
-
-> com（全部，共同）+pel →“所有人都拉”；我不想去，他们都拉我去，我是被→ v. 强迫，迫使
-
-### 意思
-
-v.强迫，迫使
-
-### 派生词
-
-compulsory a. 强制的， 义务的， 必须做的 compulsion n. 强迫， 强制
-compelling a. 引人入胜的；扣人心弦的
-
-### 例句
-
-Nothing can compel me to do such a thing.#没有什么可以强迫我做这件事。
-
-### 真题例句
-
-The idea is intuitively compelling, but it doesn’t explain how ideas actually spread.【英语一 2010年阅读 Text3】#这一想法直觉上听起来很吸引人，但它没有解释清楚此种思想潮流到底是如何传播的。
-
-### 真题固定搭配
-
-compel sb. to do sth. 强迫某人做某事 be compelled by... 被……所强迫 compulsory course 必修课
-
-## compensate
-
-> 真题出现频率：13
-
-> com（加强）+pens（谐音“赔”）+ate（v.）→ v. 赔偿，补偿
-
-### 意思
-
-v.赔偿，补偿
-
-### 派生词
-
-compensation n. 赔偿，补偿；工资，薪酬（熟词僻义，重点背诵）compensatory
-a. 赔偿的，补偿的
-
-### 例句
-
-The damages are designed to compensate victims for their direct losses.#该赔偿金是用来补偿受害人的直接损失的。
-
-### 真题例句
-
-The fund will also be used to compensate landowners who set aside habitat.【 英语二 2016年阅读 Text2】#该基金还将用于补偿那些专门预留出栖息地的土地拥有者。
-
-### 真题固定搭配
-
-compensate for 赔偿，弥补
-
-## compete
-
-> 真题出现频率：60
-
-> com（共同，一起）+pet+e（无义）→“所有人都喜欢或者所有人都想追求这个人或物”，那怎么办？那就争呗，谁强归谁→ v. 竞争，比赛
-
-### 意思
-
-v.竞争，比赛
-
-### 派生词
-
-competition n. 竞争，比赛 competitive a. 竞争的，比赛的 uncompetitive
-a. 无竞争力的 competitiveness n. 竞争，竞争性 competitor n. 竞争者，对手
-
-### 例句
-
-Hardware shops are competing fiercely for business.#各五金店正在为抢生意而激烈竞争。
-
-### 真题例句
-
-[A] are competing for the leading position【 英语二 2011 年阅读 Text 4 37题 A选项】#[A] 正在竞争主导地位
-
-### 真题固定搭配
-
-compete with... 与……竞争/ 抗争 compete for... 为……而竞争
-
-## competent
-
-> 真题出现频率：5
-
-> compet（简写自compete）+ent（a.）→想要“竞争”，自己必须是“competent”→
-a. 有能力的，能胜任的；足够的
-
-### 意思
-
-a.有能力的，能胜任的；足够的
-
-### 派生词
-
-competently ad. 胜任地，适合地 incompetent a. 无能力的，不胜任的
-incompetently ad. 无能力地，不胜任地
-
-### 例句
-
-He's very competent in his work.#他非常胜任自己的工作。
-
-### 真题例句
-
-In fact, it is difficult to see how journalists who do not have a clear grasp of the basic features of the Canadian Constitution can do a competent job on political stories.【 2007年翻译】#事实上，很难想象那些对加拿大宪法的基本特征缺乏清楚理解的新闻记者如何能够胜任政治新闻的报道工作。
-
-### 真题固定搭配
-
-be competent for... 胜任……
-
-## complain
-
-> 真题出现频率：22
-
-### 意思
-
-v.抱怨
-
-### 派生词
-
-complaint n. 抱怨
-
-### 例句
-
-I can't be doing with people who complain all the time. #我无法忍受那些整天发牢骚的人。
-
-## complement
-
-> 真题出现频率：4
-
-> com（全部，共同）+ple+ment（v.&n.）→“ 全部填充”→v.&n.补充，补足
-
-### 意思
-
-v.&n.补充，补足
-
-### 派生词
-
-complementary a. 补充的，互补的
-
-### 例句
-
-The team needs players who complement each other .#球队需要能够相互取长补短的队员。
-
-### 真题例句
-
-Johnson & Johnson, for example, has created BabyCenter, a stand-alone media property that promotes complementary and even competitive products.【 英语一 2011年阅读 Text3】#例如，强生公司创建了一个独立运作的叫作宝宝中心的媒体平台，这个平台用以推广具有互补性甚至竞争性的产品。
-
-## complete
-
-> 真题出现频率：36
-
-> com（全部，共同）+ple+te（无义）→“所有全部填满”，表示工作已经→ v. 完成 a. 完全的；全部的
-
-### 意思
-
-v.完成a.完全的；全部的
-
-### 派生词
-
-completely ad. 完全地； 完整地 incomplete a. 不完全的； 未完成的
-completeness n. 完全；完全性；完整性
-
-### 例句
-
-You will receive payment for each complete day that you work.#你将按你每一整天的工作领取报酬。
-
-### 真题例句
-
-Looking back, he is struck that his parents could provide a comfortable life for their children even though neither had completed college when he was young. 【英语二 2016年阅读 Text4】#回顾过去，小时候即使父母都没上过大学却能给他们的孩子提供舒适的生活，对此他深有感触。
-
-## complex
-
-> 真题出现频率：23
-
-> com（全部，共同）+ple+x（未知数X）→来自数学，“一道题全部充满着X”，这道题实在是→ a. 难的，复杂的
-
-### 意思
-
-a.难的，复杂的
-
-### 派生词
-
-complexity n. 复杂性；复杂的事物
-
-### 例句
-
-It is a complex yet stimulating book.#这是一本复杂却能引发兴趣的书。
-
-### 真题例句
-
-Within the complex social structure of the scientific community, researchers make discoveries.【英语一 2012年阅读 Text3】#在科学团体复杂的社会结构中，研究者做出发现。
-
-## complicated
-
-> 真题出现频率：6
-
-> 上词complex 的近义词→ a. 复杂的
-
-### 意思
-
-a.复杂的
-
-### 例句
-
-The instructions look very complicated.#这说明书看起来很难懂。
-
-### 真题例句
-
-But in the everyday practice of science, discovery frequently follows an ambiguous and complicated route.【英语一 2012年阅读 Text3】#但是，在日常的科学实践中，科学发现的过程通常是含糊而复杂的。
-
-## compliment
-
-> 真题出现频率：5
-
-> com（全部，共同）+pli+ment（v.&n.）→“ 填充内心”；把人的内心填满，其实核心本质还是“填充，填满”→ v.&n. 恭维；称赞
-
-### 意思
-
-v.&n.恭维；称赞
-
-### 派生词
-
-complimentary a.  恭维的，称赞的
-
-### 例句
-
-It's a great compliment to be asked to do the job.#获聘请做这项工作是一项极大的荣誉。
-
-## comply
-
-> 真题出现频率：9
-
-> com（共同，全部）+ply →“任所有人折来折去”；任人摆布→ v. 遵从，顺从
-
-### 意思
-
-v.遵从，顺从
-
-### 派生词
-
-compliance n. 服从，听从
-
-### 例句
-
-They refused to comply with the UN resolution.#他们拒绝遵守联合国的决议。
-
-### 真题例句
-
-The White House argued that Arizona’s laws conflicted with its enforcement priorities, even if state laws complied with federal statutes to the letter.【 英语一 2013年阅读 Text4】#白宫认为，即使亚利桑那州的法律严格地遵守了联邦法律的条款，该州的法律也与联邦法律的优先执行权相矛盾。
-
-### 真题固定搭配
-
-comply with 服从，遵从
-
-## component
-
-> 真题出现频率：5
-
-> compose（组成，构成）的名词→ n. 组成成分
-
-### 意思
-
-n.组成成分
-
-### 例句
-
-Enriched uranium is a key component of a nuclear weapon.#浓缩铀是核武器的一个关键组成部分。
-
-### 真题例句
-
-Sternberg notes that traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge, components also critical to problem solving and life success.【2007年阅读 Text2】#斯滕伯格注意到传统测试能够最好地评估分析能力和语言能力，但无法衡量创造力和实践能力，而这些也是解决问题和获得成功的重要组成因素。
-
-## compose
-
-> 真题出现频率：10
-
-> com（全部，共同）+pos+e（无义） →“把所有东西全部放在一起”→v. 组成，构成；创作（诗歌等），作曲
-
-### 意思
-
-v.组成，构成；创作（诗歌等），作曲
-
-### 派生词
-
-composer n. 作曲者， 作曲家 compound n. 混合物 a. 混合的 v. 混合
-composed a. 镇静的，沉着的 v. 组成（compose 的过去式和过去分词 ）
-
-### 例句
-
-Protein molecules compose all the complex working parts of living cells.#蛋白质分子构成了活细胞所有复杂的工作部件。
-
-### 真题例句
-
-Do not attempt to compose a perfectly correct draft the first time around.【 2008年 新题型】#不要试图第一次就写出完全正确的草稿。
-
-### 真题固定搭配
-
-be composed of... 由……组成
-
-## composition
-
-> 真题出现频率：8
-
-> 上词compose 的名词；compos（简写自compose； 创作， 作曲）+ ition（n.）→“创作，作曲”出来的东西→ n. 作品；作文；乐曲
-
-### 意思
-
-n.作品；作文；乐曲
-
-### 例句
-
-Mozart's compositions are undoubtedly among the world's greatest.#莫扎特的作品无疑位列于世界上最伟大的作品之中。
-
-### 真题例句
-
-To be sure, he performs an impressive variety of interesting compositions.【 英语一 2011年阅读 Text1】#当然，他表演了各种各样令人印象深刻的有趣的乐曲。
-
-## comprehensive
-
-> 真题出现频率：7
-
-> comprehension（n. 理解）的形容词，重点关注“综合的，广泛的，全面的”的含义
-
-### 意思
-
-a.有理解力的，悟性好的；综合的，广泛的，全面的（熟词僻义，重点关注）
-
-### 例句
-
-The Rough Guide to Nepal is a comprehensive guide to the region. #《尼泊尔概览》是介绍该地区的一本全面指南。
-
-### 真题例句
-
-A smartphone may contain an arrestee’s reading history, financial history, medical history and comprehensive records of recent correspondence.【英语一 2015 年阅读 Text 2】#智能手机可能包含被逮捕者的阅读历史、财务状况、病史，以及近期通信的全面记录。
-
-## comprise
-
-> 真题出现频率：2
-
-> com（全部，共同）+prise（改写自prize；奖品）→“所有人都有奖”，奖
-项包含所有人，你有，我有，大家有→ v. 包含，由……组成；构成
-
-### 意思
-
-v.包含，由……组成；构成
-
-### 例句
-
-The task force is comprised of congressional leaders, cabinet heads and administration officials.#该任务队由国会领导人、内阁首脑和行政官员构成。
-
-### 真题固定搭配
-
-comprise of... 由……组成
-
-## compromise
-
-> 真题出现频率：11
-
-> com（共同，全部）+promise →“共同给出承诺”；彼此做出→ v.&n. 妥协，让步
-
-### 意思
-
-v.&n.妥协，让步
-
-### 例句
-
-I refuse to compromise my principles. #我拒绝在原则问题上妥协。
-
-### 真题例句
-
-[A] made no compromise in convicting McDonnell【 英语一 2017 年阅读 Text 4 36 题 A 选项】#[A] 在给麦克唐奈定罪的问题上没有做出让步
-
-### 真题固定搭配
-
-compromise to sb. for sth. 因为某事向某人妥协 make a compromise 做出妥协
-moral compromise 道德妥协
-
-## compute
-
-> 真题出现频率：2
-
-> computer n. 计算机，电脑→ compute v. 计算
-
-### 意思
-
-v.计算
-
-### 派生词
-
-computational a. 计算的
-
-### 例句
-
-Here, it's very easy to compute. #这一部分很容易就可以计算。
-
-## conceal
-
-> 真题出现频率：4
-
-> con+ 词根 ceal（hide； v. 隐藏）→ v. 隐藏，隐瞒           谐音“害羞”
-
-### 意思
-
-v.隐藏，隐瞒
-
-### 例句
-
-You tried very hard to conceal it, did you not? #你很努力地想隐藏它，不是吗？
-
-### 真题例句
-
-When given the option to offer up details about yourself or painstakingly conceal them, you should just be honest. 【英语二 2020 年新题型】#当你可以选择提供自己的详细信息或刻意隐瞒时，你应该诚实。
-
-## concede
-
-> 真题出现频率：2
-
-> con（共同，全部，一起）+cede →“全走了”；遇到极不讲理之人，所以大家都走了，惹不起还躲不起吗？→ v. 退让，让步
-
-### 意思
-
-v.退让，让步
-
-### 派生词
-
-concession n. 让步，迁就
-
-### 例句
-
-The President was obliged to concede power to the army. #总统被迫把权力让给军队。
-
-### 真题固定搭配
-
-concede to 退让，让步
-
-## conceive
-
-> 真题出现频率：5
-
-> concept 和 conception 的动词；con（加强）+ceive →“概念，想法”都是
-如何产生的呢？当然是被人“想”出来的→ vt. 构想，构思→“构想的时间较长”→ vi. 考虑→ con（强调）+ceive →把精子“带入”子宫里→ vt. 怀孕
-
-### 意思
-
-vt.构想，构思；怀孕 vi.考虑
-
-### 例句
-
-I cannot conceive what it must be like. #我想象不出它会是什么样子。
-
-### 真题例句
-
-[D] Our immediate future is hard to conceive. 【英语一 2013 年阅读 Text 3 33题 D 选项】#[D] 很难构想人类眼下的将来。
-
-### 真题固定搭配
-
-conceive of... 考虑……
-
-## concentrate
-
-> 真题出现频率：16
-
-> con（加强）+centr+ate（v.）→ v. 集中；全神贯注
-
-### 意思
-
-v.集中；全神贯注
-
-### 派生词
-
-concentration n. 集中，关注
-
-### 例句
-
-We need to concentrate on our core business. #我们需要集中在核心业务上。
-
-### 真题例句
-
-The most likely reason for departing a board was age, so the researchers concentrated on those “surprise” disappearances by directors under the age of 70. 【英语二 2011 年阅读 Text 1】#离开董事会最可能的原因是年龄，所以研究者们关注的焦点是那些不到 70岁却“意外”离职了的外部董事们。
-
-### 真题固定搭配
-
-concentrate on... 集中 / 专注于……
-
-## concept
-
-> 真题出现频率：36
-
-> 新概念英语 New Concept English → n. 概念，想法
-
-### 意思
-
-n.概念，想法
-
-### 派生词
-
-conception n. 概念，想法 misconception n. 错误认识，误解 conceptual
-a. 概念（上）的，观念（上）的
-
-### 例句
-
-It's a concept that is difficult to render into English. #这个概念难以用英语来表达。
-
-### 真题例句
-
-Indeed, there is something a little absurd in the state getting involved in the planning of such a fundamentally “grassroots” concept as community sports associations. 【英语二 2017 年阅读 Text 1】#事实上，国家参与规划社区体育协会这样一个本质上“草根”的概念有些荒诞。
-
-## concern
-
-> 真题出现频率：54
-
-> con（加强）+cer（改写自 care）+n（无义）→ v.&n. 关心，关注，担心
-
-### 意思
-
-v.&n.关心，关注，担心
-
-### 派生词
-
-concerning prep. 关于
-
-### 例句
-
-Our primary concern must be the children. #我们首先要关心的必须是儿童。
-
-### 真题例句
-
-The policy follows similar efforts from other journals, after widespread concernthat basic mistakes in data analysis are contributing to the irreproducibility of many published research findings. 【英语一 2015 年阅读 Text 3】#这一政策是效仿其他期刊的做法，因为数据分析中的基本错误正在导致许多已经发表的研究成果无法再次使用，这一问题已引起广泛的关注。
-
-### 真题固定搭配
-
-be concerned about 关心，挂念 be concerned with... 关心…… ；与……相关
-
-## conclude
-
-> 真题出现频率：28
-
-> con（全部，共同，一起）+clud+e（无义）→“全都关闭了”→ v. 终止，结束→活动结束时才需要“做总结，结论”→ v. 做总结，结论
-
-### 意思
-
-v.终止，结束；做总结，结论
-
-### 派生词
-
-conclusion n. 终止，结束；总结，结论 conclusive a. 结论性的，确凿的
-inconclusive a. 非结论性的，不确定的
-
-### 例句
-
-What do you conclude from that? #你从这件事中得出了什么结论？
-
-### 真题例句
-
-The company seems to have concluded that its reputation in Vermont is already so damaged that it has nothing left to lose by going to war with the state. 【英 语 一2012 年阅读 Text 2】#该公司似乎已经形成定论，那就是它在佛蒙特州的好名声已经所剩无几，以至于根本不在乎与州政府背水一战。
-
-### 真题固定搭配
-
-conclude that+宾语从句 结论是…… conclude from... 从……中做结论 /总结 draw/come to a conclusion 得出结论 in conclusion 总而言之
-
-## concrete
-
-> 真题出现频率：6
-
-> con（全部，共同，一起）+cret+e（无义）→“所有东西全部产生在一起”；
-“小零件放在一起产生成品”→ a. 具体的，有形的→水泥，沙子，水“全部产生在一起”形成→ n. 混凝土→ v. 使凝固；用混凝土修筑
-
-### 意思
-
-a.具体的，有形的 n.混凝土 v.使凝固；用混凝土修筑
-
-### 例句
-
-We sat on the concrete floor. #我们坐在混凝土地板上。
-
-### 真题例句
-
-The idea that “housing crisis” equals “concreted meadows” is pure lobby talk.【英语一 2016 年阅读 Text 2】#认为“住房危机”等同于“混凝土绿地”的想法纯属游说说辞。
-
-## concur
-
-> 真题出现频率：2
-
-> con（共同，全部）+cur（简写自 occur；发生）→“共同发生”→ v. 同时
-发生；同意
-
-### 意思
-
-v. 同时发生；同意
-
-### 派生词
-
-concurrent a. [kənˈkʌrənt] 同时发生的
-
-### 例句
-
-Local feeling does not necessarily concur with the press.#当地人的感受未必与媒体一致。
-
-## condemn
-
-> 真题出现频率：3
-
-> con+demn（改写自 damn；该死，讨厌）→“你好该死”“你很讨厌”都是对别人→ v. 谴责
-
-### 意思
-
-v.谴责
-
-### 例句
-
-The Church has a duty to condemn violence. #基督教会有义务谴责暴力。
-
-### 真题例句
-
-It’s not a good enough reason to condemn gap years.【英语二 2017 年阅读 Text 3】#它不是一个谴责间隔年的好理由。
-
-## condition
-
-> 真题出现频率：37
-
-> conditional a. 附带条件的，依……而定的 unconditional a. 无条件的，无限制的 conditionally ad. 有条件地 precondition n. 先决条件
-
-### 意思
-
-n.条件，状况v.以……为条件，使适应（熟词僻义，重点关注）
-
-### 派生词
-
-conditional a. 附带条件的，依...而定的 unconditional a. 无条件的，无限制的 conditionally ad. 有条件地 precondition n. 先决条件
-
-### 例句
-
-The car was in first-class condition. #当时车子处于最佳状态。
-
-### 真题例句
-
-[B] Human height is conditioned by the upright posture.【2008 年阅读 Text 3 33题 B 选项】#[B] 人类身高是由直立姿势决定的。
-
-## conduct
-
-> 真题出现频率：18
-
-> con（加强）+duct → v. 引导，传导→“在乐队里引导别人吹拉弹唱的动作”→ v. 指挥→“引导孩子的”→ n. 行为
-
-### 意思
-
-v.引导，传导；指挥n.行为
-
-### 派生词
-
-misconduct n. 行为不端，错误行为，罪行
-
-### 例句
-
-The sport has a strict code of conduct. #体育运动有严格的行为规范。
-
-### 真题例句
-
-It’s time to reinvent the formula for how work is conducted, since we are still relying on a very 20th century notion of work, Hagel says.【英 语 二 2014 年阅读Text 3】#哈格尔说，是时候彻底改进工作方式了，这是因为我们目前仍在依赖 20世纪的工作理念。
-
-## conductor
-
-> 真题出现频率：5
-
-> 上词 conduct 的名词；con（加强）+duct+or（表示人或物）→“引导所有
-的人或物”→ n. 指导者→乐队里面起引导作用的是→ n.（乐队）指挥→公交车上，引导乘客上下车的是→ n. 售票员→引导电流的是→ n. 导体
-
-### 意思
-
-n.指导者；（乐队）指挥；售票员；导体
-
-### 派生词
-
-semiconductor n. 半导体
-
-### 例句
-
-I always dreamed of becoming the conductor of an orchestra. #我一直梦想成为管弦乐队的指挥。
-
-### 真题例句
-
-[B] e-commerce conductors【英语一 2013 年阅读 Text 2 27 题 B 选项】#[B] 电子商务指导者
-
-## confer
-
-> 真题出现频率：3
-
-> con（共同，全部）+fer →“把所有问题全部拿在一起”→ v. 商议，商量→“把所有东西都拿给某人”→ v. 授予
-
-### 意思
-
-v.商议，商量；授予
-
-### 派生词
-
-conference n. 会议，讨论
-
-### 例句
-
-As any geriatric ward shows, that is not the same as to confer enduring mobility, awareness and autonomy. #正如任何老年病房所显示的那样，这与赋予病人持久的行动、意识和自主权是不一样的。
-
-### 真题例句
-
-That compulsion has resulted in robotics—the science of conferring various human capabilities on machines. 【2002 年阅读 Text 2】#这种强制行为导致了机器人科学的诞生——一门将人类的各种能力赋予机器的科学。
-
-### 真题固定搭配
-
-confer with sb. 与某人商议 confer sth. on... 把某物授予 / 给予……
-
-## confess
-
-> 真题出现频率：2
-
-> con（共同，全部）+fess →“全都说了”→在上帝面前把做过的错事全说了→ v. 忏悔→在警察局把做过的坏事全说了→ v. 坦白
-
-### 意思
-
-v.忏悔；坦白
-
-### 例句
-
-We persuaded her to confess her crime. #我们说服她坦白她的罪行。
-
-## confidant
-
-> 真题出现频率：2
-
-> con（加强）+fid+ant（表示人的后缀）→“非常相信的人”→ n. 知己，心腹好友
-
-### 意思
-
-n.知己，心腹好友
-
-### 例句
-
-He was their adviser, confidant and confessor. #他是他们的顾问、知己和倾诉对象。
-
-## confident
-
-> 真题出现频率：20
-
-> con（加强）+fid+ent（a.）→ a. 有信心的，自信的
-
-### 意思
-
-a.有信心的，自信的
-
-### 派生词
-
-confidence n. 信心，自信
-
-### 例句
-
-Marina was a confident, happy child. #玛丽娜是个自信、快乐的孩子。
-
-### 真题例句
-
-But Edward Dolman, Christie’s chief executive, says: “I’m pretty confident we’re at the bottom.”【英语二 2010 年阅读 Text 1】#但佳士得的首席执行官爱德华·多曼说：“我们现在已处于谷底，对此我深信不疑。”
-
-### 真题固定搭配
-
-self-confident 自信的 over-confident 过于自信的 be confident of 相 信
-sb. be confident that... 某人相信……                     have confidence in... 对……有信心
-
-## confidential
-
-> 真题出现频率：2
-
-> con（加强）+fid+ent（a.）+ial（a.）→只有“相信、信任”才会告诉→ a. 秘密的，机密的
-
-### 意思
-
-a.秘密的，机密的
-
-### 例句
-
-The deliberations of the committee are completely confidential. #委员会的审议过程是绝对保密的。
-
-## confine
-
-> 真题出现频率：4
-
-> con（加强）+fin+e（无义）→ v. 限制，局限
-
-### 意思
-
-v.限制，局限
-
-### 例句
-
-He did not confine himself to the one language. #他没把自己局限于这一门语言。
-
-### 真题例句
-
-In March 1998 a friend of Williams’s got him involuntarily confined to a treatment center for addictions.【2006 年 新题型】#1998 年 3 月，威廉姆斯的一个朋友把他强制关进了戒毒治疗中心。
-
-### 真题固定搭配
-
-be confined to 局限于
-
-## confirm
-
-> 真题出现频率：4
-
-> con（加强）+firm →“加强语气地确定”；因为经过了→ v. 确认；批准
-
-### 意思
-
-v.确认；批准
-
-### 派生词
-
-confirmation n. 确认；认可；批准
-
-### 例句
-
-Can you confirm what happened? #你能证实一下发生了什么事吗？
-
-### 真题例句
-
-It is a wise father that knows his own child, but today a man can boost his paternal (fatherly) wisdom—or at least confirm that he’s the kid’s dad. 【2009 年阅读Text 2】#聪明的父亲了解自己的孩子，而如今男人们可以提升其为人父的智慧——或者至少能够确定自己是孩子的亲生父亲。
-
-## conflict
-
-> 真题出现频率：17
-
-> con（共同，全部）+flict →“共同折来折去”→ v.&n. 冲突，抵触
-
-### 意思
-
-v.&n.冲突，抵触
-
-### 派生词
-
-conflicting a. 冲突的，矛盾的
-
-### 例句
-
-She was unafraid of conflict. #她不怕发生冲突。
-
-### 真题例句
-
-In many respects, the U.S. was more socially tolerant entering this recession than at any time in its history, and a variety of national polls on social conflict since then have shown mixed results. 【英语二 2012 年阅读 Text 4】#美国在此次经济萧条时期所表现出的社会容忍度，在很多方面都超过历史上任何一个时期，并且从那时起所做的各种有关社会冲突的全国性调查，其结果都是矛盾复杂的。
-
-### 真题固定搭配
-
-conflict with... 与……有冲突 / 矛盾 in conflict 有矛盾，不一致
-
-## conform
-
-> 真题出现频率：4
-
-> con（共同，全部）+form →“共同的形式”；大家都是这个形式，所以你需要→ vi. 遵守；一致，符合
-
-### 意思
-
-vi.遵守；一致，符合
-
-### 派生词
-
-conformity n. 符合，一致
-
-### 例句
-
-The lamp has been designed to conform to new safety standards. #该灯设计得符合新的安全标准。
-
-### 真题例句
-
-[D] states ought to conform to the federal court in reforming the jury system 【英语二 2010 年阅读 Text 4 39 题 D 选项】#[D] 在陪审制度改革方面，各个州应该和联邦法院保持一致
-
-### 真题固定搭配
-
-conform to 遵守；符合
-
-## confront
-
-> 真题出现频率：8
-
-> con+front（面前，前面）→“在所有人的面前、前面”→ v. 面对；对抗
-
-### 意思
-
-v.面对；对抗
-
-### 派生词
-
-confrontation n. 对抗，对峙 confrontational a. 对抗的，挑起冲突的
-
-### 例句
-
-We must confront future with optimism. #我们必须乐观地面对未来
-
-### 真题例句
-
-But not even a great health-care system can cure death—and our failure to confront that reality now threatens this greatness of ours.【2003 年阅读 Text 4】#但是，即使是一个强大的医疗系统也不能避免病人的死亡——而我们无法面对这个事实，这一点正危及我们医疗体系的伟大之处。
-
-### 真题固定搭配
-
-be confronted with 面对，面临
-
-## confuse
-
-> 真题出现频率：15
-
-> con（全部，共同）+fuse →“全部流在一起”；你背单词时有没有发现背
-着背着，很多长得很像的单词就混在了一起，把你彻底搞糊涂了→ v. 使困惑，使糊涂
-
-### 意思
-
-v.使困惑，使糊涂
-
-### 派生词
-
-confusing a. 令人困惑的 confused a. 糊涂的，迷惑的 confusedly ad. 受困惑地 confusion n. 困惑
-
-### 例句
-
-I always confuse my left with my right. #我总是混淆左右。
-
-### 真题例句
-
-Scientists need to respond forcefully to animal rights advocates, whose arguments are confusing the public. 【2003 年阅读 Text 2】#科学家应该对动物权利鼓吹者做出有力的回应，因为他们的言论正在迷惑公众。
-
-### 真题固定搭配
-
-be confused about... 对……感到困惑
-
-## congress
-
-> 真题出现频率：20
-
-> con（共同，全部）+gress →“所有人全部走在一起”；干什么呢？当然是开会啦！→ n. 会议，国会 v. 开会
-
-### 意思
-
-n.会议，国会 v.开会
-
-### 派生词
-
-congressional a. 立法机构的；国会的
-
-### 例句
-
-Congress scores low in public opinion polls. #国会在民意测验中得分很低。
-
-### 真题例句
-
-That’s because Congress has always envisioned joint federal-state immigration enforcement and explicitly encourages state officers to share information and cooperate with federal colleagues. 【英语一 2013 年阅读 Text 4】#这是因为国会一直设想联邦和州联合执行移民法案，而且明确鼓励州级官员与联邦官员分享信息、共同合作。
-
-## connect
-
-> 真题出现频率：28
-
-> con+nect（改写自 net；网络）→“网络干什么用的？人为什么上网？”→v. 连接；联系
-
-### 意思
-
-v.连接；联系
-
-### 派生词
-
-connection n. 连接；联系 disconnect v. 使分离，使脱离
-
-### 例句
-
-Click 'Continue' to connect to the Internet. #点击 Continue 连接到互联网。
-
-### 真题例句
-
-Television is one of the means by which these feelings are created and conveyed—and perhaps never before has it served so much to connect different peoples and nations as in the recent events in Europe.【2005 年翻译】#电视是产生和传递这些感受的手段之一——在欧洲近些年发生的事件中，它把不同的民族和国家联系在一起的作用之大，之前从未有过。
-
-### 真题固定搭配
-
-connect A to/with B 连接 A 与 B，联系 A 与 B
-
-## conscious
-
-> 真题出现频率：42
-
-> con+ 词根 sci（know；知道）+ous（a.）→“全都知道”；醒来后什么都知
-道→ a. 有意识的，清醒的
-
-### 意思
-
-a.有意识的，清醒的
-
-### 派生词
-
-consciousness n. 意识，知觉 unconscious a. 无意识的 subconscious a. 下意识的，潜意识的 conscience n. 良心，道德心
-
-### 例句
-
-She's very conscious of the problems involved. #她完全意识到了所涉及的问题。
-
-### 真题例句
-
-In David Eagleman’s opinion, our current knowledge of consciousness.【英语一 2019 年阅读 Text 3 32 题题干】#戴维·伊格曼认为，我们目前对意识的了解。
-
-### 真题固定搭配
-
-be conscious of... 知道……，意识到……            self-conscious 害羞的，不自然的
-
-## consensus
-
-> 真题出现频率：3
-
-> con（共同，全部）+sens+us（我们）→“我们有同感”→ n. 一致，一致同意
-
-### 意思
-
-n.一致，一致同意
-
-### 例句
-
-She is skilled at achieving consensus on sensitive issues.#她擅长就敏感问题进行斡旋达成共识。
-
-### 真题例句
-
-The emerging consensus around the bill is a sign that legislators are getting frightened about a politically embarrassing short-term collapse at the USPS.【英语一 2018年阅读 Text4】#在提案方面不断形成共识的一个迹象是立法者们越来越担心美国邮政管理局方面会在短期内失去政治上的支持这一尴尬局面的发生。
-
-## consent
-
-> 真题出现频率：3
-
-> con（共同，全部）+sent →“我们有同感”；此事我和你有共同的感觉→v.&n. 同意，赞成
-
-### 意思
-
-v.&n.同意，赞成
-
-### 例句
-
-At no time did I give my consent to the plan.#我从未同意过这项计划。
-
-### 真题例句
-
-[B] reserved consent【 2003年 阅读Text4 58题B选项】#[B] 保守同意
-
-### 真题固定搭配
-
-consent to 同意，赞成
-
-## conserve
-
-> 真题出现频率：28
-
-> con（共同，全部）+serve（保持；保留）→“把所有的都保留下来”→v. 保护；保存
-
-### 意思
-
-v.保护；保存
-
-### 派生词
-
-conservative a. 保守的 conservation n. 保护；保存
-
-### 例句
-
-Help to conserve energy by insulating your home.#对房屋做隔热处理来帮助节约能源。
-
-### 真题例句
-
-Amid the outcry, many conservative leaders are seeking a return to the prewar emphasis on moral education.【 2000年阅读 Text4】#在强烈的抗议中，很多保守的领导人正在寻求恢复战前强调道德教育的状况。
-
-## consider
-
-> 真题出现频率：75
-
-> con（全部，共同）+sid+er（表示人的后缀）→“所有人坐在一起”→v. 考虑；认为
-
-### 意思
-
-v.考虑；认为
-
-### 派生词
-
-consideration n. 考虑 considering prep. 考虑到， 鉴于 considerate  a. 考虑周到的，体贴的 considerable a. 值得考虑的；相当大的，相当多的
-considerably ad. 相当，非常 reconsider v. 重新考虑，重新商量
-
-### 例句
-
-They sat down to consider the problem.#他们坐下来考虑这一问题。
-
-### 真题例句
-
-When nursery colours were introduced, pink was actually considered the more masculine colour, a pastel version of red, which was associated with strength.【 英语二 2012年阅读Text2】#在幼儿园引入色彩概念后，粉红色实际上被认为是一种更具男性特征的颜色，它比红色更柔和，让人联想到力量。
-
-### 真题固定搭配
-
-consider A as B 把 A 当作 B be considered (as)... 被认为…… be considered
-to be... 被认为…… take sth. into consideration 考虑某事 be considerate of 考虑周到，体谅
-
-## consist
-
-> 真题出现频率：11
-
-> con（全部，所有）+sist →“全部站在一起”；组成班，组成排，组成连→v. 由……组成
-
-### 意思
-
-v.由……组成
-
-### 派生词
-
-consistent a. 一致的；连续的；坚持的 consistently ad. 坚持地；一致地
-inconsistent a. 不一致的；不连续的
-
-### 例句
-
-True education does not consist in simply being taught facts.#真正的教育并不在于简单地讲授事实。
-
-### 真题例句
-
-A typical work, such as Seven Days, consists of a single beautiful black-andwhite photograph taken on an epic walk.【英语二 2014年 新题型】#一幅典型的作品《七天》只包含一张拍摄于一次长途徒步旅行的美丽的黑白照片。
-
-### 真题固定搭配
-
-consist of... 由……组成
-
-## consolidate
-
-> 真题出现频率：4
-
-> con（加强）+solid（结实的；可靠的）+ate（v.）→“使其坚固的动作”→ v. 使加固，使加强；合并
-
-### 意思
-
-v.使加固，使加强；合并
-
-### 派生词
-
-consolidation n. 巩固；联合；合并
-
-### 例句
-
-For most of us, the best plan is to take in new information in the morning and then try to consolidate it into memory during the afternoon.#
-对我们大多数人来说，最好的计划是在早上接收新信息，然后在下午努力把它巩固到自己的记忆中。
-
-### 真题例句
-
-The popularity of these novels consolidated Dickens’ as a nationally and internationally celebrated man of letters.【英语一 2017 年新题型】#这些小说的广为流传巩固了狄更斯作为一名全国乃至国际著名作家的地位。
-
-## conspicuous
-
-> 真题出现频率：2
-
-> con（全部，共同）+spic+u（无义）+ous（a.）→“所有人都能看到的”→ a.显眼的，明显的
-
-### 意思
-
-a.显眼的，明显的
-
-### 例句
-
-Most people don't want to be too conspicuous.#大多数人不愿过于显眼。
-
-## conspire
-
-> 真题出现频率：2
-
-> con（全部，共同）+spir+e（无义）→“共同呼吸”；同呼吸共命运→ v. 共
-谋→如果做的是坏事，那就是→ v. 阴谋
-
-### 意思
-
-v.共谋；阴谋
-
-### 派生词
-
-conspiracy n. 共谋；阴谋
-
-### 例句
-
-They deny conspiring together to smuggle drugs.#他们否认共谋走私毒品。
-
-### 真题固定搭配
-
-conspire to do sth. 密谋做某事
-
-## constant
-
-> 真题出现频率：14
-
-> con（全部，共同）+st+ant（a.）→“全部站在一起，不分离”；我们永远
-在一起→ a. 永恒的，持续的
-
-### 意思
-
-a.永恒的，持续的
-
-### 派生词
-
-constantly ad. 不断地，持续地 constancy n. 不屈不挠；持续性；稳定性
-
-### 例句
-
-Parts of the motor wore out because of constant usage.#发动机的一些部件由于不断使用而磨损了。
-
-### 真题例句
-
-There’s always a constant fear of falling behind everyone else on the socially perpetuated “race to the finish line.”【 英语二 2017年阅读 Text3】#人们往往对社会上一直存在的“赛跑到终点”有着落后于他人的持续恐惧感。
-
-## constitute
-
-> 真题出现频率：25
-
-> con（全部，所有）+stitute →“全部站在一起”；组成班，组成排，组成连→
-v. 组成，构成
-
-### 意思
-
-v.组成，构成
-
-### 派生词
-
-constitution n. 组成，构成；宪法（重点关注） constitutional a. 宪法的，章
-程的 unconstitutional a. 违背宪法的 constitutionality n. 符合宪法 constituent
-a. 组成的，构成的 n. 选民
-
-### 例句
-
-Testing patients without their consent would constitute a professional and legal offence.#未得病人同意即对其进行试验会构成职业和法律犯罪。
-
-### 真题例句
-
-But while young and old mostly agree on what constitutes the finish line of a fulfilling life, they offer strikingly different paths for reaching it.【 英语二 2016年阅读Text4】# 尽管对于是什么构成最终的美满生活这一问题，年轻人与年长者的观点大体一致，但是他们达成这一目标的方式却大相径庭。
-
-### 真题固定搭配
-
-the Constitution 宪法
-
-## constrain
-
-> 真题出现频率：9
-
-> con（全部）+str+ain（v.）→“所有人都拉”；我不想去，他们都拉我去，我是被→ v. 强迫，迫使 →“所有人都拉着我”，放不开手脚→ v. 限制
-
-### 意思
-
-v.强迫，迫使；限制
-
-### 派生词
-
-constraint n. 强制，约束；限制 constrained a. 被强迫的；受限制的
-
-### 例句
-
-Research has been constrained by a lack of funds.#研究工作因经费不足而受限制。
-
-### 真题例句
-
-A lack of formal education, however, doesn’t constrain the ability of the developing world’s workforce to substantially improve productivity for the foreseeable future.【 2009年 阅读Text3】#然而，正规教育的缺乏并不会限制发展中国家的劳动力在可预见到的将来大幅度提高生产率。
-
-## construct
-
-> 真题出现频率：19
-
-> con（加强）+struct → v. 建筑，建造
-
-### 意思
-
-v.建筑，建造
-
-### 派生词
-
-construction n. 建造， 建筑物 constructive a. 建设性的； 有助益的
-reconstruct v. 重建，重造 reconstruction n. 重建，重造，修复
-
-### 例句
-
-Any attempt to construct an ideal society is foredoomed to failure.#任何构建理想社会的努力都注定要失败。
-
-### 真题例句
-
-More recently, while examining housing construction, the researchers discovered that illiterate, non-English-speaking Mexican workers in Houston, Texas, Consistently met best-practice labor productivity standards despite the complexity of the building industry’s work.【2009年 阅读Text3】# 最近，研究人员在调查房屋建筑业时发现，尽管建筑业的工作极其复杂，但在得克萨斯州休斯敦市，那些没有受过教育、不会说英语的墨西哥工人却始终能达到劳动生产率的最高标准。
-
-## consult
-
-> 真题出现频率：6
-
-> con（全部，共同）+sult →“共同说话”，你一句，我一句，彼此在→ v. 咨
-询；商量，商议
-
-### 意思
-
-v.咨询；商量，商议
-
-### 派生词
-
-consultant n. 咨询，顾问 consultancy n. 咨询公司；专家咨询 consultation
-n. 咨询，商讨
-
-### 例句
-
-He needed to consult with an attorney.#他需要和律师咨询。
-
-### 真题例句
-
-The largest firms in America and Britain together spend more than $15 billion a year on CSR, according to an estimate last year by EPG, a consulting firm.【 英语一 2016年阅读 Text3】#根据咨询公司EPG去年的预测，美国和英国那些最大的公司每年在企业社会责任（CSR）上的支出总计超过了150 亿美元。
-
-## consume
-
-> 真题出现频率：86
-
-> con（全部，共同）+sum+e（无义）→“共同拿”，你拿一个，我拿一个→
-v. 消耗，消费
-
-### 意思
-
-v.消耗，消费
-
-### 派生词
-
-consumer n. 消费者 consumption n. 消费，消耗 consumerism n. 消费，消
-费主义
-
-### 例句
-
-Many people are unaware of just how much food and drink they consume.#许多人不知道自己到底消耗掉多少食物和饮料。
-
-### 真题例句
-
-It argues that since prosecutors do not consume a company’s products as part of their investigations, they could be influenced only by the halo effect.【 英语一 2016年阅读Text3】#这项研究表明，由于检察官们并没有将公司的产品用于其调查中，他们有可能只受到了光环效应的影响。
-
-## contact
-
-> 真题出现频率：5
-
-> con（共同，全部）+tact →“共同接触，彼此接触”→ v.&n. 联系，接触
-
-### 意思
-
-v.&n.联系，接触
-
-### 例句
-
-I will contact you by letter.#我会给你写信联系的。
-
-### 真题例句
-
-While it is easy to ignore in our contact with them the effect of our acts upon their disposition, it is not so easy as in dealing with adults.【2009年翻译】#虽然与年轻人接触时我们很容易忽视自己的行为对他们的性情所产生的影响，但是这种情况没有在和成年人打交道时那么容易发生。
-
-### 真题固定搭配
-
-in contact with... 与……接触 have contact with... 和……有联系
-
-## contain
-
-> 真题出现频率：13
-
-> con（共同，全部）+tain →“全部保留在里面”，一个都不能少，所以叫作→
-v. 包含，容纳
-
-### 意思
-
-v.包含，容纳
-
-### 派生词
-
-container n. 容器
-
-### 例句
-
-Most vegetables contain fibre.#大多数蔬菜含有纤维。
-
-### 真题例句
-
-A smartphone may contain an arrestee’s reading history, financial history,medical history and comprehensive records of recent correspondence. 【英语一 2015年 阅读Text2】#智能手机可能包含被逮捕者的阅读历史、财务状况、病史，以及近期通信的全面记录。
-
-## contemplate
-
-> 真题出现频率：4
-
-> com（共同，全部）+templ（简写自 templum）+ate（v.）；templum 表示“用
-于观鸟占卜的一片区域”，单词 temple 就来源于此。因此 contemplate 的本意是
-“划出一片区域，然后仔细观察”。contemplate 既含有“注视”的意思，又含有
-“沉思”的意思，因为占卜时需要在仔细观察的同时思考所见迹象所表示的吉凶
-意味。
-
-### 意思
-
-v. 考虑，沉思；凝视
-
-### 派生词
-
-contemplative a. [kənˈtemplətɪv] 沉思的，冥想的
-
-### 例句
-
-For a time he contemplated a career as an army medical doctor.#有段时间，他考虑去当军医。
-
-### 真题例句
-
-But historically we have spent about 12 percent of our days contemplating the longer term. 【英语二 2013 年阅读 text 3】#但纵观历史，我们花掉了 12% 的时间去思考更长远的事情。
-
-## contemporary
-
-> 真题出现频率：2
-
-> con（全部，共同）+temp+or（表示人）+ary（a.）→“共同时间的人”→
-a. 同时代的，当代的
-
-### 意思
-
-a.同时代的，当代的
-
-### 例句
-
-Contemporary African cinema has much to offer.#当代非洲电影制作艺术有很多贡献。
-
-## contempt
-
-> 真题出现频率：9
-
-> con（全部，共同）+tempt（诱惑）→想想身边某个人，“所有人都诱惑、勾引，无论是上到 99，还是下到刚会走”，你会怎么看 Ta → n. 轻视，蔑视
-
-### 意思
-
-n.轻视，蔑视
-
-### 派生词
-
-contemptuous a. 蔑视的，鄙视的 contemptible a. 受人鄙视的；可鄙的
-
-### 例句
-
-She looked at him with contempt. #她轻蔑地看着他。
-
-### 真题例句
-
-[C] slight contempt【2003 年阅读 Text 4 58 题 C 选项】#[C] 有点蔑视
-
-## contend
-
-> 真题出现频率：5
-
-> con（共同，全部）+tend →“大家有着共同的倾向”；你也想要，我也想要，怎么办？→ v. 竞争，斗争；坚决主张
-
-### 意思
-
-v.竞争，斗争；坚决主张
-
-### 派生词
-
-contention n. 竞争；争论 contentious a. 有争议的，有争论的
-
-### 例句
-
-The competitors had to contend with squally weather conditions.#这些参赛者不得不应付狂风肆虐的天气条件。
-
-### 真题例句
-
-Nancy Dubler, director of Montefiore Medical Center, contends that the principle will shield doctors who “until now have very, very strongly insisted that they could not give patients sufficient medication to control their pain if that might hasten death.”【 2002年 阅读Text4】#蒙特菲奥里医疗中心主任南希·都博勒坚决主张，这项原则将会袒护一些“直到现在还在一直强烈地坚持，如果给病人充分的药品来止痛会加速他们的死亡的话，他们就不会这么做”的医生。
-
-### 真题固定搭配
-
-sb. contend that... 某人主张……（表达观点和看法）
-
-## contest
-
-> 真题出现频率：3
-
-> con（加强）+test →“竞赛、比赛是加强版考试”→ v.&n. 竞赛，比赛
-
-### 意思
-
-v.&n.竞赛，比赛
-
-### 例句
-
-The election contest is heating up.#选举竞争正趋于白热化。
-
-### 真题例句
-
-In 1995 the CIA held a contest to see who could compile the most data about Burundi.【2003年阅读 Text1】#1995 年中央情报局（CIA）举办了一场竞赛，看谁能够收集到最多关于“布隆迪”的信息。
-
-## context
-
-> 真题出现频率：14
-
-> con+text（文章）→ n. 上下文，语境；进一步引申出 → n. 环境，背景
-
-### 意思
-
-n.上下文，语境；环境，背景
-
-### 例句
-
-In the context of this chapter, Dore's comments strike a jarring note. #在本章的语境中，多尔的评论显得刺耳。
-
-### 真题例句
-
-[D] emotions are context-independent 【英语二 2019 年阅读 Text 1 23 题 D 选项】#[D] 情绪是与环境无关的
-
-## continent
-
-> 真题出现频率：5
-
-> 古代人缺乏地理知识，以为所有的大地都是连接在一起的，所以拉丁语
-中将这个大地称为 terra continens，翻译成英语就是 continent land。英语单词
-continent 就来自拉丁语 continens ，是 continere （ hold together ，连接为一体）的
-现在分词，原本是一个形容词，表示“连绵不断的”之意。作名词的 continent 
-其实是 continent land 的缩略形式
-
-### 意思
-
-n. 大陆
-
-### 派生词
-
-continental a. [ˌkɒntɪˈnentl] 大陆的
-
-### 例句
-
-She loved the African continent.#她热爱非洲大陆。
-
-### 真题例句
-
-But the force of geographic conditions peculiar to America, the interplay of the varied national groups upon one another, and the sheer difficulty of maintaining old_x0002_world ways in a raw, new continent caused signifi cant changes. 【英语一 2015 年翻译】#但是美国独有的地理条件、不同民族之间的相互碰撞以及在这片原始的新
-大陆上维持原有生活方式的巨大困难引起了极大的变化。
-
-## contract
-
-> 真题出现频率：5
-
-> con（共同，全部，一起）+tract →“把所有东西拖、拉到一起”；由大变小
-的过程→ v. 缩小，收缩→“把甲乙双方拉到一起”；达成共识→ v. 签合同 n. 合同
-
-### 意思
-
-v.缩小，收缩；签合同n.合同
-
-### 派生词
-
-contraction n. 收缩；缩小；（肌肉的）收缩 contractor n. 承包人，承包商
-
-### 例句
-
-His contract came up for renewal.#他的合同交上来要求延期。
-
-### 真题例句
-
-Those forced to exercise their smiling muscles reacted more enthusiastically to funny cartoons than did those whose mouths were contracted in a frown. 【英语一 2011年完形】#那些被强迫锻炼自己笑肌的人比那些皱眉绷嘴者对搞笑漫画的反应更加强烈。
-
-## contradict
-
-> 真题出现频率：5
-
-> contr（相反）+a（无义）+dict →“反着说”→ v. 反驳，与……说反话→“一个人总和你反着说，说明你们之间有矛盾”→ v. 与……矛盾
-
-### 意思
-
-v.反驳，与……说反话；与……矛盾
-
-### 派生词
-
-contradictory a. 矛盾的，反驳的 contradiction n. 矛盾，抵触
-
-### 例句
-
-Bowen and Greene's results contradict that argument. #鲍恩和格林的结果与该论点相矛盾。
-
-### 真题例句
-
-[D] contradicted both the federal and state policies 【英语一 2013 年阅读 Text 4 36 题 D 选项】#[D] 与联邦政策和州政策相矛盾
-
-## contrary
-
-> 真题出现频率：9
-
-> contr+ary（a.）→ a. 相反的
-
-### 意思
-
-a.相反的
-
-### 派生词
-
-contrarily ad. 相反地
-
-### 例句
-
-It's no trouble at all; on the contrary, it will be a great pleasure to help you. #这根本不麻烦。相反，我很乐意帮助你。
-
-### 真题例句
-
-Contrary to the descriptions on record, no systematic evidence was found that levels of productivity were related to changes in lighting.【英语一 2010 年完形】#与记载中的描述相反，没有系统性的证据能够表明生产效率的水平与灯光变化相关。
-
-### 真题固定搭配
-
-on the contrary 相反地 be contrary to... 与……相反
-
-## contrast
-
-> 真题出现频率：17
-
-> contr+ast（改写自 est；最）→“最相反”，形成鲜明的→ v.&n. 对比，对
-照，与……形成对比
-
-### 意思
-
-v.&n.对比，对照，与……形成对比
-
-### 例句
-
-There is also an artful contrast of shapes. #还有一种不同形状的巧妙对比。
-
-### 真题例句
-
-In contrast to France’s actions, Denmark’s fashion industry agreed last month on rules and sanctions regarding the age, health, and other characteristics of models.【英语一2016年阅读 Text 1】#与法国采取的行动形成对比的是，丹麦的时尚界上个月就同意了有关模特年龄、健康和其他特征的法规和制裁。
-
-### 真题固定搭配
-
-by contrast 对比之下，相比之下 in contrast 相反地 in contrast to... 与……形
-成对比
-
-## contribute
-
-> 真题出现频率：27
-
-> con（全部，共同）+ tribute →“所有人都在给”；地震之后，无数中国人都
-在给，有钱给钱，没钱给物资→ v. 贡献；捐赠
-
-### 意思
-
-v.贡献；捐赠
-
-### 派生词
-
-contribution n. 贡献；捐赠 contributory a. 促成的，促进的，起作用的
-contributor n. 贡献者；捐赠者
-
-### 例句
-
-You need not feel obliged to contribute.#你不必认为你非得捐款。
-
-### 真题例句
-
-That framework has contributed mightily to our broken immigration system.【英语二 2013年阅读 Text2】# 那种政策框架极大地促成了我们漏洞百出的移民制度。
-
-### 真题固定搭配
-
-contribute to 促成，有助于；捐献
-
-## controversy
-
-> 真题出现频率：17
-
-> contr（相反）+o（无义）+vers+y（n.）→话题“相反”，话语权“转来转
-去”；双方在→ n. 争论，辩论
-
-### 意思
-
-n.争论，辩论
-
-### 派生词
-
-controversial a. 有争议的，争论的
-
-### 例句
-
-The issue engendered controversy.#这个问题引起了争论。
-
-### 真题例句
-
-He helped popularize the idea that some diseases not previously thought to have a bacterial cause were actually infections, which aroused much controversy when it was first suggested.【2008年完形】#他曾帮助普及了一个观念：先前被认为不是由细菌引起的一些疾病，实际上是传染病，这一观念初次被提出时引起了很多争议。
-
-## convene
-
-> 真题出现频率：2
-
-> con（共同；全部）+ven+e →“所有人全部走在一起”→ v. 召集，集合，
-开会
-
-### 意思
-
-v.召集，集合，开会
-
-### 例句
-
-A Board of Inquiry was convened immediately after the accident.#事故后调查委员会立即召开了会议。
-
-## convenient
-
-> 真题出现频率：2
-
-> con（全部，共同）+ven+i（谐音“爱”）+ ent（a.）→“所有人都爱来这
-里”买东西；因为→ a. 方便的，便利的
-
-### 意思
-
-a.方便的，便利的
-
-### 派生词
-
-convenience n. 便利，方便
-
-### 例句
-
-If it's convenient I can come tomorrow.#方便的话，我可以明天过来。
-
-### 真题固定搭配
-
-convenient store 便利店
-
-## convention
-
-> 真题出现频率：18
-
-> con（共同，全部）+vent+ion（n.）→“所有人全部走在一起”→ n. 会议→
-过年时，中国人无论在哪里，“都会和家人走在一起”→ n. 惯例，习俗
-
-### 意思
-
-n.会议；惯例，习俗
-
-### 派生词
-
-conventional a. 传统的，依照惯例的 unconventional a. 不因循守旧的；新
-奇的
-
-### 例句
-
-The convention does not apply to us.#该协定对我们不适用。
-
-### 真题例句
-
-But the idea that the journalist must understand the law more profoundly than an ordinary citizen rests on an understanding of the established conventions and special responsibilities of the news media.【2007年翻译】#但新闻记者必须比普通公民更深刻地理解法律，这种观点来源于对已经确立的惯例和新闻媒体的特殊责任的理解。
-
-## converge
-
-> 真题出现频率：2
-
-> con（共同，全部）+verg（转变）+e →“全部转到一起”→ v. 汇集，聚
-集；（路线）相交
-
-### 意思
-
-v.汇集，聚集；（路线）相交
-
-### 例句
-
-Thousands of supporters converged on London for the rally.#成千上万的支持者从四面八方汇聚伦敦举行集会。
-
-## converse
-
-> 真题出现频率：3
-
-> conversation（对话，谈话）的动词→ vi. 交谈，谈话→ con（共同，全部）
-+vers+e（无义）→“全部转变”，由正面转到反面→ a. 相反的，颠倒的
-
-### 意思
-
-v.交谈，谈话a.相反的，颠倒的
-
-### 派生词
-
-conversely ad. 相反地，颠倒地
-
-### 例句
-
-The two deaf actors converse solely in signing.#两位聋哑演员只靠打手势语交谈。
-
-### 真题例句
-
-Conversely, someone with a small frame may have high body fat but a normal BMI.【英语二2014年完形】#相反，某些骨架小的人有可能脂肪比例偏高，但其身体质量指数（BMI）却是正常的。
-
-## convert
-
-> 真题出现频率：3
-
-> con（加强）+vert → v. 转变，转化
-
-### 意思
-
-v.转变，转化
-
-### 例句
-
-The indies convert their digital movies to film.#独立制片公司把他们的数字电影转为胶片电影。
-
-### 真题例句
-
-A recent annual study of countries and their ability to convert growth into wellbeing sheds some light on that question.【英语一 2017年阅读 Text3】#最近，一份关于国家及其将经济增长转化为人们生活幸福感能力的年度报告拨开了这个问题的些许迷雾。
-
-### 真题固定搭配
-
-convert A into B 把A 转变/ 转化为B be converted into... 被转变/ 转化为……
-
-## convey
-
-> 真题出现频率：9
-
-> con（加强）+vey →“货在道路上”→ v. 传达，传递；运送，输送
-
-### 意思
-
-v.传达，传递；运送，输送
-
-### 派生词
-
-conveyor n. 运送者，传送者
-
-### 例句
-
-Euclid was trying to convey his idea of a geometrical point.#欧几里德正试图表达他的一个几何学观点。
-
-### 真题例句
-
-According to Paragraph 4, the message conveyed by celebrity magazines is________.【英语一 2011年阅读Text4 39题题干】#由第四段可知，名人杂志传达出的信息是__________ 。
-
-## convict
-
-> 真题出现频率：3
-
-> con（加强）+vic（简写自vicious）+t（无义）→“加强恶毒，邪恶”，就
-是特别恶毒、邪恶之人→ v. 宣判有罪，证明……有罪→“有罪之人”→ n. 罪犯
-
-### 意思
-
-v.宣判有罪，证明……有罪n.罪犯
-
-### 派生词
-
-conviction n. 定罪，说服
-
-### 例句
-
-In 1977 he was convicted of murder and sentenced to life imprisonment.#在1977年，他因谋杀被判处终生监禁。
-
-### 真题例句
-
-[A] made no compromise in convicting McDonnell 【英语一 2017年阅读 Text4 36题A选项】# [A] 在给麦克唐奈定罪的问题上没有做出让步
-
-## convince
-
-> 真题出现频率：11
-
-> con+ 词根 vin（改写自 win；赢）+ce（v.）→“赢”；才能→ v. 使相信，使信服
-
-### 意思
-
-v.使相信，使信服
-
-### 派生词
-
-convincing a. 令人信服的，有说服力的
-
-### 例句
-
-It's hopeless trying to convince her. #想说服她简直是徒劳。
-
-### 真题例句
-
-If you’re not convinced of the inherent value in taking a year off to explore interests, then consider its financial impact on future academic choices.【英语二 2017 年阅读Text 3】#如果你不相信休一年假期去探索兴趣的内在价值，那么你考虑一下它在未来学业选择上带来的财务影响。
-
-### 真题固定搭配
-
-be convinced that... 相信…… be convinced of... 确信……
-
-## coordinate
-
-> 真题出现频率：5
-
-> co（共同，全部）+ord+in（里）+ate（v.）→“所有人在里面的顺序”，谁
-在第一排，谁在最后一排，需要有人→ v. 协调
-
-### 意思
-
-v.协调
-
-### 派生词
-
-coordinated a. 协调的 coordination n. 协调 coordinator n. 协调者，协调人
-
-### 例句
-
-She'll show you how to coordinate pattern and colours. #她会向你展示如何搭配款式和颜色。
-
-### 真题例句
-
-Supporters of the new supersystems argue that these mergers will allow for substantial cost reductions and better coordinated service.【2003 年阅读 Text 3】#新的铁路超级系统的支持者声称，这些合并将有利于大幅降低费用并带来更好的协调服务。
-
-## core
-
-> 真题出现频率：9
-
-> core（改写自 cord）→ n. 中心，核心，果核 a. 最重要的，主要的   处理器是计算机最核心的部件，英特尔的处理器名字就叫 core（酷睿）
-
-### 意思
-
-n.中心，核心，果核a.最重要的，主要的
-
-### 例句
-
-We need to concentrate on our core business. #我们需要集中在核心业务上。
-
-### 真题例句
-
-Guilt is a core human emotion—an inevitability for people of every age.【英语二2019年阅读 Text 1】#内疚感是人类的核心情感——是任何年龄层的人都无法避免的事情。
-
-## corporation
-
-> 真题出现频率：36
-
-> corpor（改写自 compan=company）+ation（n.）→其实就是 company 的变体→ n. 公司
-
-### 意思
-
-n.公司
-
-### 派生词
-
-corporate a. 公司的，法人的 incorporate v. 进入，合并
-
-### 例句
-
-You don't have to sell out and work for some corporation. #你没有必要出卖自己为某公司工作。
-
-### 真题例句
-
-After all, four decades of evidence has now shown that corporations in Europe as well as the US are evading the meritocratic hiring and promotion of women to top positions. 【英语二 2013 年阅读 Text 4】#毕竟，四十年的证据现在已经表明：无论是欧洲还是美国的企业都在规避精英选才并且不愿意将女性提升到高层管理职位。
-
-## correct
-
-> 真题出现频率：10
-
-> cor（加强）+rect → a. 正确的 v. 纠正
-
-### 意思
-
-a.正确的v.纠正
-
-### 派生词
-
-correction n. 纠正，改正 incorrect a. 错误的，不正确的 incorrectly ad. 不
-正确地，错误地
-
-### 例句
-
-I think you've made the correct decision.#我认为你的决定是正确的。
-
-### 真题例句
-
-Dr. Myers and Dr. Worm argue that their work gives a correct baseline, which future management efforts must take into account.【2006年阅读Text3】#迈尔斯博士和沃尔姆博士认为，他们的研究结果给出了一个未来管理工作必须考虑的正确基准。
-
-## correlate
-
-> 真题出现频率：7
-
-> cor（共 同，全部）+relate →“彼此有关系”→ v. 使相互关联，和……相关a. 相关的
-
-### 意思
-
-v.使相互关联，和……相关a.相关的
-
-### 派生词
-
-correlation n. 相互关系，相关性
-
-### 例句
-
-The figures do not seem to correlate.#这些数字似乎毫不相干。
-
-### 真题例句
-
-[B] IQ scores and SAT results are highly correlated【2007年阅读 Text2 29题 B选项】#[B] 智商分数与学术能力评估测试（SAT）结果密切相关
-
-### 真题固定搭配
-
-be correlated with... 与……有关
-
-## correspond
-
-> 真题出现频率：7
-
-> cor（共同，全部）+respond →“ 互相回复、回答”→ v. 通信；后引申为→
-v. 符合，一致
-
-### 意思
-
-v.通信；符合，一致
-
-### 派生词
-
-correspondence n. 通信；符合，一致 corresponding a. 通信的；相当的，
-符合的
-
-### 例句
-
-Your account and hers do not correspond.#你说的情况与她说的不相符。
-
-### 真题例句
-
-In the end, credibility “happens” to a discovery claim—a process that corresponds to what philosopher Annette Baier has described as the commons of the mind.【 英语一 2012年阅读 Text 3】#最终，一项发现声明被认为可信——这个过程同哲学家安妮特·拜尔描述的“思想一致性”相符合。
-
-### 真题固定搭配
-
-correspond to 相当于，相符合
-
-## corrupt
-
-> 真题出现频率：9
-
-> cor（共同，全部）+rupt →“全部被打破”；一个国家、组织、企业全部被
-打破，皆因内部→ v. 腐败，堕落 a. 腐败的，堕落的
-
-### 意思
-
-v.腐败，堕落a.腐败的，堕落的
-
-### 派生词
-
-corruption n. 腐败，堕落 corruptive a. 腐败的，堕落的 corrupted a. 毁坏的
-
-### 例句
-
-The whole system is inefficient and corrupt.#整个体系都效率低下并且腐败堕落。
-
-### 真题例句
-
-There is no doubt of the alternative—the corrupted landscapes of southern Portugal, Spain or Ireland.【 英语一 2016年阅读 Text2】#毫无疑问还有另外一种可能——葡萄牙南部、西班牙和爱尔兰被破坏的自然风光。
-
-## counsel
-
-> 真题出现频率：15
-
-> 改写自consult（咨询）→你向我“consult”，我才能给你“counsel”→v.&n. 劝告，忠告，建议→“给出劝告、忠告和建议的人”→ n. 法律顾问
-
-### 意思
-
-v.&n.劝告，忠告，建议n.法律顾问
-
 ### 派生词
 
-counselor n. 律师，法律顾问 council n. 议会，理事会，委员会（负责“counsel”的一伙人组成了council） councilor n. 顾问
+demographic a. [ˌdeməˈɡræfɪk] 人口（学）的；人口统计（学）demographics 
+n. [ˌdeməˈɡræfɪks] 人口特征，人口统计数据
 
 ### 例句
-
-Counsel for the defence submitted that the evidence was inadmissible.#被告律师认为这一证据不可采纳。
-
-### 真题例句
 
-According to the career counselors and experts who study them, Generation Zs are clear-eyed, economic pragmatists.【英语二 2020年阅读 Text4】#据职业顾问和研究他们的专家所说，Z一代是目光清晰的经济实用主义者。
+For most of human history economic power has been determined by demography. #人类历史上，通常来讲，经济实力是由人口数量决定的。
 
-## count
+## demonstrate
 
 > 真题出现频率：12
 
+> dem+on（上，上面）+str（简写自 street；大街，街道）+ate（v.）→“人
+们在大街上的动作”→ v. 示威，游行→“示威是为了证明自己的要求是对
+的”→ v. 证明，证实；显示
+
 ### 意思
 
-v.数；计算
+v.示威，游行；证明，证实；显示
+
+### 派生词
+
+demonstration n. 示威，游行；证明；显示
 
 ### 例句
 
-She can count up to 10 in Italian. #她可以用意大利语数到10。
+These results demonstrate convincingly that our campaign is working. #这些结果有力地证明，我们的运动正在发挥作用。
 
-### 真题固定搭配
+### 真题例句
 
-count on 依靠，依赖 count for 有价值，有重要性 count A as B 把 A 当作 B
+But at least they have demonstrated that when companies get into trouble with the law, evidence of good character can win them a less costly punishment.【英语一2016 年阅读 Text 3】#但最起码他们已经证明了，当公司陷入法律纠纷时，品行良好的证据可使企业得到一个相对较轻的处罚。
 
-## counteract
+## density
 
 > 真题出现频率：3
 
-> counter+act（v. 行动，作用）→“起相反的作用”，不就是→ v. 抵消，中和
+> dens（简写自 dense；a. 密集的，浓密的）+ity（n.）→ n. 密度，浓度
 
 ### 意思
 
-v.抵消，中和
-
-### 派生词
-
-counteraction n. 抵消，中和
+n.密度，浓度
 
 ### 例句
 
-These exercises aim to counteract the effects of stress and tension. #这些训练旨在抵消压力与紧张的影响。
+The region has a very high population density. #这一地区人口密度很高
 
 ### 真题例句
 
-“This indicates there is a real personal responsibility in counteracting this problem,”says Roxanne Stone, editor in chief at Barna Group.【英语一 2018 年阅读 Text 2】#巴拿集团的主编罗克珊 · 斯通说：“这表明，在抵制这个问题的过程中存在着真正的个人责任。
+[D] reduce the density of some of its forests 【英语二 2019 年阅读 Text 2 28 题 D 选项】#[D] 减少一些森林的密度
 
-## counterpart
-
-> 真题出现频率：9
-
-> counter+part（部分）→与主物“相对、相对应的那一部分”→ n. 相对物，对应的人或物；副本
-
-### 意思
-
-n.相对物，对应的人或物；副本
-
-### 例句
-
-The sundial's counterpart, the water clock, was designed to measure temporal hours at night. #日晷的对应物是水钟，用来测量夜间的时间。
-
-### 真题例句
-
-In a Swiss study, researchers sprayed oxytocin into the noses of half the subjects; those subjects were ready to lend significantly higher amounts of money to strangers than were their counterparts who inhaled something else. 【英语一 2018 年完形】#在一项瑞士的研究中，研究人员将催产素喷入一半被研究对象的鼻子中，对比那些吸入其他东西的被研究者，他们愿意借给陌生人更多的钱。
-
-## cover
-
-> 真题出现频率：23
-
-### 意思
-
-v.覆盖；采访，报道；掩护 n.封面，封皮
-
-### 派生词
-
-coverage n. 覆盖；采访，报道；范围
-
-### 例句
-
-If it turns cold, cover the plants. #如果天气变冷，就把植物盖起来。
-
-### 真题例句
-
-These are people who may previously have felt the need to get a full-time job that provided insurance in order to cover themselves and their families. 【英语二 2015年阅读 Text 4】#这些人此前可能认为若要养活自己和家人，就必须找一份提供保险的全职工作。
-
-## crash
-
-> 真题出现频率：4
-
-> 改写自上词 clash（用 r 替换辅音字母 l）→ v. 撞击，坠毁 n. 猛撞；进而引申为→ v.&n. 崩溃
-
-### 意思
-
-v.撞击，坠毁；崩溃n.猛撞，崩溃
-
-### 例句
-
-That plane crash was a terrible business. #那次飞机坠毁是十分可怕的事。
-
-### 真题例句
-
-Yes, there has been a budding economic recovery since the 2008 global crash. 【英语一 2017 年阅读 Text 3】#是的，2008 年全球经济危机后，这些国家已经迈入经济复苏阶段。
-
-## create
-
-> 真题出现频率：48
-
-### 意思
-
-v.产生，创造
-
-### 例句
-
-We set business free to create more jobs. #我们让企业自由以创造更多的就业机会。
-
-### 真题例句
-
-This has created “a paradox” in that recruiting first-generation students, but then watching many of them fail, means that higher education has “continued to reproduce and widen, rather than close” an achievement gap based on social class, according to 
-the depressing beginning of a paper forthcoming in the journal Psychological Science. 【英语二 2015 年阅读 Text 2】#一篇即将发表在《心理科学》杂志上的开头令人沮丧的论文提到：这就产生了一个“悖论”，即招收第一代大学生，随后却又对他们放任自流，这意味着高等教育在“继续复制和扩大，而非缩小”这种基于社会阶层的成就差距。
-
-## creation
-
-> 真题出现频率：10
-
-> create 的名词；creat+ion（n.）→ n. 创造
-
-### 意思
-
-n.创造
-
-### 派生词
-
-recreation n. 重建，重现；消遣，娱乐（熟词僻义，重点关注）
-
-### 例句
-
-Education itself is a kind of creation. #教育本身就是一种创造。
-
-### 真题例句
-
-My definition revolves around the concept of “stickiness”—creations and experiences to which others adhere. 【英语一 2012 年新题型】#我给出的定义以“黏性”这个概念为核心，既要体现创新性，也要包含他人追随的一些体验活动。
-
-## creative
-
-> 真题出现频率：22
-
-> 上词 create 的形容词；creat+ive（a.）→ a. 有创造性的，有创造力的
-
-### 意思
-
-a.有创造性的，有创造力的
-
-### 派生词
-
-creativity n. 创造性，创造力
-
-### 例句
-
-You can sense the creative buzz in the city. #在城市里可以感觉到创造的热情
-
-### 真题例句
-
-To paraphrase the great social scientist Joseph Schumpeter: there is no radical innovation without creative destruction. 【英语一 2013 年新题型】#用伟大的社会科学家约瑟夫·熊彼特的话说就是：没有创造性的破坏，就没有根本性的创新。
-
-## credit
-
-> 真题出现频率：6
-
-> cred+it（n.）→ n. 信用→说一个人讲“信用”，是（对）他的→ n. 赞扬，荣誉，进而引申出“学分”的含义
-
-### 意思
-
-n.信用；赞扬，荣誉；学分（熟词僻义，重点关注）
-
-### 例句
-
-Does the hotel take credit cards? #这家旅馆接受信用卡付款吗？
-
-### 真题例句
-
-Once a discovery claim becomes public, the discoverer receives intellectual credit.【英语一 2012 年阅读 Text 3】#一旦科学发现的声明被公开，知识上的荣誉将归功于发现者。
-
-### 真题固定搭配
-
-credit card 信用卡
-
-## crime
-
-> 真题出现频率：10
-
-> crim+e（无义）→ n. 罪，犯罪
-
-### 意思
-
-n.罪，犯罪
-
-### 例句
-
-We will unite in fighting crime. #我们将联手打击犯罪。
-
-### 真题例句
-
-Its lawmakers gave preliminary approval last week to a law that would make it a crime to employ ultra-thin models on runways. 【英语一 2016 年阅读 Text 1】#其立法机关上周初步通过了一项法规，这项法规规定雇用过瘦的模特将会被定为犯罪。
-
-### 真题固定搭配
-
-commit crime 犯罪
-
-## criminal
-
-> 真题出现频率：6
-
-> crim+in（里）+al（n.&a.）→“此人陷入罪名”→ n. 罪犯，犯人 a. 犯罪的
-
-### 意思
-
-n.罪犯，犯人 a.犯罪的
-
-### 例句
-
-Even in prison, he continued to engage in criminal activities. #他甚至在监狱里还继续从事犯罪活动。
-
-### 真题例句
-
-Children engage in criminal behavior because they were not sufficiently penalized for previous misdeeds.【2004 年完形】#青少年之所以会从事犯罪活动是因为他们以往的不端行为没有受到足够的惩罚。
-
-## crisis
-
-> 真题出现频率：21
-
-> cri（改写自 cry；哭）+sis（谐音“死”）→“哭死了”；因为遇到了→n. 危机，危难时刻
-
-### 意思
-
-n.危机，危难时刻
-
-### 例句
-
-A crisis brings out the best in her. #危机促使她表现出她最好的一面。
-
-### 真题例句
-
-The widespread availability of such recordings has thus brought about a crisis in the institution of the traditional classical concert.【英语一 2011 年阅读 Text 1】#这种唱片的广泛流传也给传统古典音乐会机构带来了危机。
-
-## crisp
+## dental
 
 > 真题出现频率：2
 
-> 谐音“可脆”→ a. 脆的 v.（使）变脆
+> dent+al（a.）→ a. 牙齿的；牙科的
 
 ### 意思
 
-a.脆的v.（使）变脆
+a.牙齿的；牙科的
 
 ### 例句
 
-Bake the potatoes for 15 minutes, till they're nice and crisp. #把土豆烤15分钟，直到变得香脆可口
+You will automatically get free dental treatment if you are under 18. #18岁以下的人一律免费得到牙科治疗。
 
-## criteria
-
-> 真题出现频率：5
-
-> crit+er（表示人或物）+ia（n.）→“批评、评论人或物的东西”→ n.（批评、判断等的）标准，准则（criterion 的名词复数）
-
-### 意思
-
-n.（批评、判断等的）标准，准则（criterion的名词复数）
-
-### 例句
-
-It is hard to make out what criteria are used. #难以辨清使用了什么标准。
-
-### 真题例句
-
-It’s an interactive feature that lets visitors key in job criteria such as location, title,and salary.【2004 年阅读 Text 1】#这是一种互动的搜索工具，访客可以录入自己的求职标准，比如工作地点、职务和薪水。
-
-## critic
+## deny
 
 > 真题出现频率：18
 
-> crit+ic（n.）→“批评、评论的人”→ n. 批评家，评论家
+> 谐音“抵赖”→ v. 否认，否定
 
 ### 意思
 
-n.批评家，评论家
+v.否认，否定
 
 ### 例句
 
-Turner is a writer and critic. #特纳是一位作家和评论家
+The White House was swift to deny the rumours. #白宫立刻对这些传言予以否认。
 
 ### 真题例句
 
-Critics make three main arguments against gene patents: a gene is a product of nature, so it may not be patented; gene patents suppress innovation rather than reward it; and patents’ monopolies restrict access to genetic tests such as Myriad’s.【英语二2012 年阅读 Text 3】#对于基因专利，评论家罗列了三个主要的反对理由：基因是自然产物，所以不应获得专利权；基因专利抑制创新而非鼓励创新；专利垄断限制像米利亚
-德这样的公司进行基因测试。
+[D] it intends to deny the possibility of devaluation【英语二 2011 年阅读 Text 4 36 题 D 选项】#[D] 它打算否认货币贬值的可能性
 
-## critical
+## depart
 
-> 真题出现频率：21
+> 真题出现频率：7
 
-> crit+ic（a.）+al（a.）→ a. 批评的→因为此事重要，做不好就得受批评，
-引申出→ a. 关键的，重要的
+> 核心意思来自part → v. 离开，出发→人永远“离开”→ v. 去世→人“离开”这个企业→ v. 离职
 
 ### 意思
 
-a.批评的；关键的，重要的
+v.离开，出发；去世；离职
 
 ### 派生词
 
-critically ad. 批判性地，严重地
+departure n. 离去，离开
 
 ### 例句
 
-A few twentieths of a gram can be critical. #二十分之几克可能是关键的。
+In the morning Mr. McDonald departed for Sydney.#麦克唐纳先生早上起程去了悉尼。
 
 ### 真题例句
 
-...when it began to seem inherently attractive to girls, part of what defined them as female, at least for the first few critical years. 【英语二 2012 年阅读 Text 2】#……它开始对女性产生一种看似与生俱来的吸引力，这让它成了定义女性特质的一个因素，至少在最初的关键几年里是这样的。
+When McGee announced his departure, his manner can best be described as
+being_______ . 【 英语一 2011年阅读 Text2 26题题干】#当麦基宣布离职时，对其举动的最佳描述是______ 。
 
-## criticize
+### 真题固定搭配
+
+depart from... 从……离开，背离…… departure to 前往……
+
+## department
+
+> 真题出现频率：24
+
+> de（向下，离开）+part+ment（n.）→“部分” →大学里最小的一部分→n. 系→公司里分成各个部分→ n. 部门
+
+### 意思
+
+n.系；部门
+
+### 例句
+
+She resigned as head of department.#她辞去了部门主管的职务。
+
+### 真题例句
+
+Priestly explains how the deep blue color of the assistant’s sweater descended over the years from fashion shows to department stores and to the bargain bin in which the poor girl doubtless found her garment.【 英语一 2013年阅读 Text1】#普利斯特里向助理解释了她身上的深蓝色毛衣在近年来如何从时装秀降格进入百货商店，并最终沦落到廉价商品区，而这位可怜的姑娘无疑就是从那里淘到了这件衣服。
+
+### 真题固定搭配
+
+department store 百货公司
+
+## depend
+
+> 真题出现频率：28
+
+> de（下）+pend →“挂在下面” → v. 依靠，依赖
+
+### 意思
+
+v.依靠，依赖
+
+### 派生词
+
+dependent a. 依靠的，依赖的 n. 随从，侍从 dependence n. 依靠，依赖
+
+### 例句
+
+Wage rates depend on levels of productivity. #工资水平取决于生产量的多寡。
+
+### 真题例句
+
+This means that a DNA database may have a lot of data from some regions and not others, so a person’s test results may differ depending on the company that processes the results.【2009年阅读 Text2】#这意味着某个DNA 数据库可能只拥有来自某些地区的大量数据，但没有其他地区的数据，所以，处理那些数据结果的公司不同，一个人的检测结果也会不同。
+
+### 真题固定搭配
+
+depend on/upon 依靠，依赖；取决于 be dependent on 依靠，依赖；取决于
+
+## depict
+
+> 真题出现频率：5
+
+> de（下）+pict（简写自picture；图画，图片）→“把它画了下来”→ v. 描
+绘；描写；描述
+
+### 意思
+
+v.描绘；描写；描述
+
+### 派生词
+
+depiction n. 描写；描述
+
+### 例句
+
+The novel depicts French society in the 1930s.#这部小说描述了20世纪30年代的法国社会。
+
+### 真题例句
+
+similar to those recently depicted on popular sci-fi TV series such as “Westworld”and “Humans”【英语一 2019年阅读Text3】#就像最近热门科幻电视剧《西部世界》和《人类》中描绘的那样
+
+## deplete
+
+> 真题出现频率：2
+
+> de（下）+ple+te（无义）→“向下填充”，“填充，填满”的反向，越填充越
+向下→ v. 减少，消耗
+
+### 意思
+
+v.减少，消耗
+
+### 例句
+
+Food supplies were severely depleted.#食物供应已严重不足。
+
+## deploy
+
+> 真题出现频率：4
+
+> de+ploy（改写自 play；起作用）→“在下面起作用”→ v. 使展开，施展，有效地利用
+
+### 意思
+
+v.使展开，施展，有效地利用
+
+### 例句
+
+Deploy and run the application. #部署并运行应用程序。
+
+### 真题例句
+
+On June 7 Google pledged not to “design or deploy AI” that would cause “overall harm.”【英语一2019年阅读 Text 3】#6月7日，谷歌承诺不会“设计或部署会造成全面伤害的人工智能”。
+
+## depress
+
+> 真题出现频率：11
+
+> de（下）+press →“压下去”→ v. 压下，压低→把人往下压→ v. 使沮丧
+
+### 意思
+
+v.压下，压低；使沮丧
+
+### 派生词
+
+depression n. 萧条，经济衰退；郁，抑郁症 depressed a. 情绪低落的，沮丧的；萧条的 depressing a. 令人沮丧的，令人抑郁的
+
+### 例句
+
+The recession has depressed the housing market.#经济衰退导致住房市场不景气。
+
+### 真题例句
+
+[D] depressed college students【 英语二 2015年阅读 Text2 26题 D选项】#[D] 使大学生们沮丧
+
+### 真题固定搭配
+
+the great depression 经济大萧条
+
+## deprive
+
+> 真题出现频率：6
+
+> de（否定）+priv（简写自 private；私人的）+e（无义）→“私人权利不断
+被否定”→ v. 剥夺，使丧失
+
+### 意思
+
+v.剥夺，使丧失
+
+### 派生词
+
+deprivation n. 剥夺，丧失
+
+### 例句
+
+Don't try and deprive me of the pleasure of giving you a treat! #别想剥夺我款待你的乐趣！
+
+### 真题例句
+
+They fear that it hurts their economies, depriving them of much-needed skilled workers.【英语二 2012 年翻译】#他们担心这种现象会伤害本国经济，使他们丧失急需的熟练劳动工。
+
+### 真题固定搭配
+
+deprive sb. of sth. 剥夺某人某物 be deprived of 被剥夺
+
+## derive
+
+> 真题出现频率：4
+
+> de（下）+riv+e（无义）→“河流往下流”；源头在哪里？→ v. 源于，起源
+
+### 意思
+
+v.源于，起源
+
+### 例句
+
+Most patients derive enjoyment from leafing through old picture albums.#大部分病人能从翻阅旧相册中获得乐趣。
+
+### 真题例句
+
+Elegance, he believed, did not derive from abundance. 【英语二 2011年阅读 Text3】#他相信，优雅并非源于繁多。
+
+### 真题固定搭配
+
+derive from 源于，起源于
+
+## descend
+
+> 真题出现频率：2
+
+> de（下）+scend →“送下来”；高度就会→ v. 下来，下降→父辈的特征“往下送”→ v. 遗传
+
+### 意思
+
+v.下来，下降；遗传
+
+### 例句
+
+At this point the path descends steeply.#小路从这里陡然而下。
+
+## descendant
+
+> 真题出现频率：3
+
+> 上词descend 的名词；descend+ant（表示人的后缀） →“遗传下去的
+人”→ n. 子孙，后代
+
+### 意思
+
+n.子孙，后代
+
+### 例句
+
+They are descendants of the original English and Scottish settlers.#他们是最初的英格兰和苏格兰移民的后裔。
+
+### 真题例句
+
+But however amazed our descendants may be at how far from Utopia we were, they will look just like us.【2000年阅读 Passage2】#然而，无论我们的子孙后代对我们与乌托邦的距离之遥感到多么吃惊，他们的长相还是会和我们一样。
+
+## describe
+
+> 真题出现频率：36
+
+> de（下）+scribe（scrib）→“写下来”→ v. 描写，描述
+
+### 意思
+
+v.描写，描述
+
+### 派生词
+
+description n. 描写，描述
+
+### 例句
+
+A lexicographer's job is to describe the language.#词典编纂者的工作就是对语言加以描述。
+
+### 真题例句
+
+Gilbert’s own interest in new music has been widely noted: Alex Ross, a classicalmusic critic, has described him as a man who is capable of turning the Philharmonic into “a markedly different, more vibrant organization.”【 英语一 2011年阅读 Text1】#吉尔伯特对新兴音乐的兴趣众所周知，古典音乐评论家亚历克斯·罗斯曾经把他描述成一个能够把纽约爱乐乐团变成“一个完全不同且更加充满生机的组织”的人。
+
+### 真题固定搭配
+
+describe A as B 把A 描述为B be described as... 被描述为…… describe A
+with B 用B 描述A
+
+## desert
+
+> 真题出现频率：2
+
+> de（下）+sert →“放在下面”；人们不要了、讨厌的东西，扔在下面→
+v. 抛弃，遗弃→“被遗弃的土地”→ n. 沙漠
+
+### 意思
+
+n.沙漠v.抛弃，遗弃
+
+### 派生词
+
+serv（服务）+ice（n.）→ n. 服务
+
+### 例句
+
+No one agrees on what counts as a desert.#没有人对于什么可以看作是荒漠有共识。
+
+## deserve
+
+> 真题出现频率：7
+
+> de（下）+serve（保持；保留）→“留下来”；别客气，留下吧，因为你→
+v. 值得，应得
+
+### 意思
+
+v.值得，应得
+
+### 派生词
+
+deserving a. 值得的，应得的
+
+### 例句
+
+These people deserve to make more than the minimum wage.#这些人应该得到高于最低工资的报酬。
+
+### 真题例句
+
+[B] Professional Statisticians Deserve More Respect 【英语一 2015年阅读Text3 35题 B选项】#[B] 专业的统计学家应受到更多尊重。
+
+## design
 
 > 真题出现频率：32
 
-> crit+ic（a.）+ize（使动）→ v. 批评；评论
+> de（下）+sign →“在下面签字”；古代的文人、诗人会在其作品下面签字、署名以表示是自己创作的，引申到科学、仪器、发明中，在下面签字，表示由自己→ v.&n. 设计
 
 ### 意思
 
-v.批评；评论
+v.&n.设计
 
 ### 派生词
 
-criticism n. 批评；评论 critique n. 评论，批评
+designer n. 设计师，设计者
 
 ### 例句
 
-One should never criticize if one is not sure of one's facts. #一个人如果对自己掌握的事实没有把握，就绝不该随便批评。
+It was a simple but pleasing design.#这是一项简单但令人满意的设计。
 
 ### 真题例句
 
-It is fair to criticize and question the mechanism.【英语一 2014 年阅读 Text 3】#对这一机制进行批评和质疑都是合理的。
+And if you need to predict human height in the near future to design a piece of equipment, Gordon says that by and large, “you could use today’s data and feel fairly confident.”【 2008年阅读 Text3】#如果你需要预测不远的将来的人类身高以便设计一套装备的话，戈登说，基本上“你可以使用当前的数据并且不用担心会有改动”。
 
 ### 真题固定搭配
 
-criticize sb. for sth. 因为某事批评某人
+be designed to do sth. 被设计来做某事
 
-## crucial
+## desire
+
+> 真题出现频率：26
+
+### 意思
+
+v.&n. 渴望，愿望
+
+### 派生词
+
+desirable a. 值得做的，期望得到的，可取的 undesirable a. 不想要的；不得人心的
+
+### 例句
+
+We all desire health and happiness. #我们都渴望健康和幸福
+
+## despair
+
+> 真题出现频率：3
+
+> de（否定；相反）+spair（改写自sper）→“没有希望”→ v.&n. 绝望
+
+### 意思
+
+v.&n.绝望
+
+### 例句
+
+She uttered a cry of despair.#她发出了绝望的叫声。
+
+### 真题例句
+
+Looking around, I despaired at the singular lack of imagination about girls’ lives and interests.【 英语二 2012年阅读Text2】#环顾四周后，我绝望地发现人们关于女孩的生活和兴趣极度缺乏想象力。
+
+### 真题固定搭配
+
+in despair 绝望
+
+## desperate
 
 > 真题出现频率：12
 
-> 上词 critical 的同源词；cruc（改写自 crit）+ial（a.）→ a. 关键的，重要的
+> de（下）+sper+ate（a.）→“希望向下”→ a. 失望的，绝望的→当人陷入绝望之地时就会→ a. 不顾一切的，铤而走险的；极端的，极度的
 
 ### 意思
 
-a.关键的，重要的
-
-### 例句
-
-This last point is crucial. #刚讲的这一点是关键的。
-
-### 真题例句
-
-But acknowledging fire’s inevitable presence in human life is an attitude crucialto developing the laws, policies, and practices that make it as safe as possible, she says.【英语二 2017 年阅读 Text 4】#她说，但是承认火在人类生活中的必然存在性是制定安全法律、政策和法规的关键性态度。
-
-## cultivate
-
-> 真题出现频率：6
-
-> cult+iv（无义）+ate（v.）→ v. 耕种；培养
-
-### 意思
-
-v.耕种；培养
+a.失望的，绝望的；不顾一切的，铤而走险的；极端的，极度的
 
 ### 派生词
 
-cultivation n. 耕种；培养
+desperation n. 绝望
 
 ### 例句
 
-How do we cultivate positive emotions? #我们该如何培养积极的情感呢？
+The prisoners grew increasingly desperate.#犯人因绝望而越来越胆大妄为。
 
 ### 真题例句
 
-[A] should be further cultivated【英语二 2010 年阅读 Text 3 31 题 A 选项】#[A] 应该被进一步培养
-
-## culture
-
-> 真题出现频率：111
-
-### 意思
-
-n.文化
-
-### 派生词
-
-cultural a. 文化的
-
-### 例句
-
-We are living in a consumer culture. #我们生活在一种消费文化之中。
-
-## curb
-
-> 真题出现频率：8
-
-> 谐音“可悲”→人生总被“控制，约束”，太可悲了
-
-### 意思
-
-v.&n. 控制，约束
-
-### 例句
-
-He needs to learn to curb his temper.#他得学着控制自己的脾气。
-
-### 真题例句
-
-[D] curb our ambition to reshape history.【英语一 2013 年阅读 Text 3 34 题 D选项】#[D] 约束我们重塑历史的雄心。
-
-## cure
-
-> 真题出现频率：19
-
-### 意思
-
-v.&n.治疗，治愈
-
-### 例句
-
-The search for a cure goes on. #人们还在继续探寻治疗方法
-
-## curious
-
-> 真题出现频率：16
-
-> cur（改写自 care）+ious（a.）→“对一件事 / 一个人过于关心”就是好奇→a. 好奇的
-
-### 意思
-
-a.好奇的
-
-### 派生词
-
-curiosity n. 好奇，好奇心
-
-### 例句
-
-Steve was intensely curious about the world I came from. #史蒂夫对我是从哪里来的有强烈的好奇心。
-
-### 真题例句
-
-In Britain this has had a curious result. 【英语一 2016 年阅读 Text 2】#在英国，这件事有一个令人好奇的结果。
+[C] a desperate appeal from some biologists【 英语二 2016年阅读 Text2 26题C选项】# [C] 一些生物学家的强烈呼吁
 
 ### 真题固定搭配
 
-be curious about... 对……好奇
+desperate for 急需
 
-## currency
-
-> 真题出现频率：4
-
-> curr（改写自 cur）+ency（n.）→ n. 流通，流通性→“什么东西最具有流通性”，当然是→ n. 货币
-
-### 意思
-
-n.流通，流通性；货币
-
-### 例句
-
-British currency went metric in 1971. #英国的货币于1971年实行公制。
-
-### 真题例句
-
-As well as those chronic problems, the EU faces an acute crisis in its economic core, the 16 countries that use the single currency.【英语二 2011 年阅读 Text 4】#除了那些长期问题，欧盟的核心经济体，即使用统一货币的 16 个国家，还面临着一个严重的危机。
-
-## current
-
-> 真题出现频率：27
-
-> curr（改写自 cur）+ent（n.&a.）→ n. （水，气，电）流；趋势 a. 流通的→
-“流在当下”→ a. 现在的，当前的
-
-### 意思
-
-n.（水，气，电）流；趋势 a.流通的；现在的，当前的
-
-### 派生词
-
-currently ad. 现在，当前
-
-### 例句
-
-What is the current thinking on this question? #目前对这个问题的看法是什么？
-
-### 真题例句
-
-The current downturn in the art market is the worst since the Japanese stopped buying Impressionists at the end of 1989.【英语二 2010 年阅读 Text 1】#当前艺术品市场的衰落是自 1989 年底日本停止购买印象派作品以来最糟糕的一次。
-
-## curriculum
-
-> 真题出现频率：7
-
-> 谐音“课轮课”→“一轮又一轮的课”→ n. 课程，（学校等的）全部课程
-
-### 意思
-
-(pl.curricula) n.课程，(学校等的)全部课程
-
-### 例句
-
-We have to build computers into the school curriculum. #我们必须计算机知识纳入学校的课程。
-
-### 真题例句
-
-Many countries are introducing English into the primary-school curriculum. 【英语一 2017 年翻译】#很多国家正将英语引入小学课程中。
-
-## cyber
-
-> 真题出现频率：5
-
-> 来自希腊语 kybernetes（引导者，管理者）；在 1948 年被美国数学家借指
-计算机
-
-### 意思
-
-a. 计算机（网络）的
-
-### 派生词
-
-cyberspace n. [ˈsaɪbəspeɪs] 网络空间 cyber-crime [ˈsaɪbə kraɪm] 电脑犯罪
-
-### 例句
-
-China is still concerned about cyber security. #中国仍在担心网络安全。
-
-### 真题例句
-
-Young people who are digital natives are indeed becoming more skillful at separating fact from fiction in cyberspace.【英语一 2018 年阅读 Text 2】#数码时代的年轻人的确更擅长在网络空间中辨别信息真伪。
-
-## cycle
+## destiny
 
 > 真题出现频率：2
 
-> 改写自 circle（n. 圈，圆圈）→ n. 圈，循环
+> destine（注定，命定；谐音“得死定”）的名词；destin（简写自 destine）+y
+（n.）→“注定、命定的事”→ n. 命运，天数
 
 ### 意思
 
-n.圈，循环
+n.命运，天数
 
 ### 例句
 
-This cycle repeats itself ad infinitum. #这个周期一直循环往复。
+We are masters of our own destiny. #我们是自己命运的主人。
+
+## destruct
+
+> 真题出现频率：4
+
+> de（下，否定）+struct →上词construct 的反义词，“向下修建”，越建越低，越建越矮，不是建筑，而是破坏→ v. 破坏
+
+### 意思
+
+v.破坏
+
+### 派生词
+
+destruction n. 破坏，毁坏 destructive a. 破坏的，毁坏的
+
+### 例句
+
+This tape will self-destruct in 30 seconds.#这盘磁带将在30秒后自毁。
+
+### 真题例句
+
+To paraphrase the great social scientist Joseph Schumpeter: there is no radical innovation without creative destruction.【英语一 2013年 新题型】# 用伟大的社会科学家约瑟夫· 熊彼特的话说就是：没有创造性的破坏，就没有根本性的创新。
+
+## detach
+
+> 真题出现频率：2
+
+> 上词attach 的反义词；de（否定）+ tach →“不去接触，不去挨着”→ v. 分开，分离；拆开
+
+### 意思
+
+v.分开，分离；拆开
+
+### 例句
+
+The skis should detach from the boot if you fall.#要是你跌倒了，滑雪板就该脱离靴子。
+
+## detail
+
+> 真题出现频率：18
+
+> de+tail（尾巴）→“向下直到尾部”；从头到尾什么都管→ n. 细节→“每个细节都不放过”→ v. 详述
+
+### 意思
+
+n.细节v.详述
+
+### 派生词
+
+detailed a. 详细的，细节的
+
+### 例句
+
+The proposals were short on detail. #这些提议缺少细节。
+
+### 真题例句
+
+Join the Club is filled with too much irrelevant detail.【英语一 2012 年阅读Text 1】#《加入俱乐部》中充斥着太多的无关信息。
+
+### 真题固定搭配
+
+in detail 详细地
+
+## detect
+
+> 真题出现频率：8
+
+> de（下）+tect →“看看盖子下面是什么”→ v. 侦察，探测；察觉，发觉
+
+### 意思
+
+v.侦察，探测；察觉，发觉
+
+### 派生词
+
+detective n. 侦探 detector n. 探查器，侦查器
+
+### 例句
+
+Arnold could detect a certain sadness in the old man's face.#阿诺德能察觉到老人脸上的某种悲伤。
+
+### 真题例句
+
+And he entered the casino and used his Fun Card without being detected.【2006年新题型】#他进入赌场并使用了游乐卡，而赌场并未察觉。
+
+## deteriorate
+
+> 真题出现频率：2
+
+> de+ter（谐音“他”）+i（无义）+or（表示人的后缀）+ate（v.）→“ 他这
+个人不停向下”，有点自甘堕落的感觉→ v. 恶化，变坏
+
+### 意思
+
+v.恶化，变坏
+
+### 派生词
+
+deteriorating a. 恶化的
+
+### 例句
+
+There are fears that the situation might deteriorate into full-scale war. #人们担心局势会恶化为全面战争。
+
+## determine
+
+> 真题出现频率：25
+
+> de+ 词根 term（end；结束）+in（v.）+e（无义）→事态“一直往下到了结
+束之时”，必须要做出→ v. 决定，决心；判定，确定，断定
+
+### 意思
+
+v.决定，决心；判定，确定，断定（重点背诵）
+
+### 派生词
+
+determination n. 决定，决心 determined a. 决定的，坚决的，果断的
+determinism n. 决定论 predetermine v. 预先决定
+
+### 例句
+
+The Baltic people have a right to determine their own future. #波罗的海人民有权决定他们自己的未来。
+
+### 真题例句
+
+Firms are now studying how genes interact, looking for correlations that might be used to determine the causes of disease or predict a drug’s efficacy.【英语二 2012 年阅读 Text 3】#公司正在研究基因是如何相互作用的，并寻找某些可能用于确定病因或预测药效的相关性。
+
+### 真题固定搭配
+
+determine to do... 决定 / 决心做…… be determined to do... 决定 / 决心做……
+be determined by... 由……决定
+
+## device
+
+> 真题出现频率：10
+
+> “design”出来的就是“device”→ n.设备；方法
+
+### 意思
+
+n.设备；方法
+
+### 派生词
+
+devise v. 设计，发明
+
+### 例句
+
+The device was protected by patent.#这一装置受专利保护。
+
+## devote
+
+> 真题出现频率：5
+
+> de（下）+vote →“把选票向下投入箱子”，从此就要为自己的选择→ v. 奉
+献，致力
+
+### 意思
+
+v.奉献，致力
+
+### 派生词
+
+devoted a. 致力的；忠诚的；挚爱的
+
+### 例句
+
+The original intention was to devote three months to the project.#最初的计划是在这个项目上投入三个月的时间。
+
+### 真题例句
+
+But if your work is your “passion,” you’ll be more likely to devote yourself to it.【英语二 2015年阅读Text3】# 但是，如果工作是你的“激情”，你就更可能为它献身。
+
+### 真题固定搭配
+
+devote oneself to 献身于，致力于 devote... to... 把……贡献于/ 用于……
+
+## diagnose
+
+> 真题出现频率：4
+
+> dia（across）+gno+se（无义）→“穿越”表面，“知道”本质→ v. 诊断，
+判断
+
+### 意思
+
+v.诊断，判断
+
+### 派生词
+
+diagnosis n. 诊断，判断
+
+### 例句
+
+The test is used to diagnose a variety of diseases. #此项化验可用于诊断多种疾病。
+
+### 真题例句
+
+Now a pink slip, a bad diagnosis, or a disappearing spouse can reduce a family from solidly middle class to newly poor in a few months.【2007 年阅读 Text 3】#现在，一份解雇通知书、一个糟糕的诊断，或者配偶的消失，都可能在几个月内把一个稳定的中产阶级家庭变成一个新的贫困家庭。
+
+## dialect
+
+> 真题出现频率：2
+
+> di（散）+a（无义）+lect →“说话方式四散开来”；形成各地的→ n. 方言
+
+### 意思
+
+n.方言
+
+### 例句
+
+It was difficult to understand the local dialect. #这种方言很难懂。
+
+## dictate
+
+> 真题出现频率：4
+
+> dict+ate（v.）→前面是说，后面是动词后缀，先“说”后“做”→“我说你写”→ v. 听写→“我说你做”→ v. 命令→“我说你听”→ v. 口述
+
+### 意思
+
+v.听写；命令；口述
+
+### 例句
+
+I've got a long report I must dictate. #我拿到了一份我必须要口述的很长的报告。
+
+### 真题例句
+
+As we grow up, we learn to control our emotions so they are manageable and don’t dictate our behaviours, which is in many ways a good thing.【英语二 2016 年新题型】#随着我们的成长，我们会学着控制情绪，从而使其变得可控且不再支配我们的行为，这从很多方面来说都是一件好事。
+
+## differ
+
+> 真题出现频率：111
+
+> different（不同的）的动词→ v. 与……不同，与……意见不同
+
+### 意思
+
+v.与……不同，与……意见不同
+
+### 派生词
+
+different a. 不同的，差异的 difference n. 不同，差异
+
+### 例句
+
+French and English differ in this respect. #在这方面法语和英语不同。
+
+### 真题例句
+
+Ways of reading on a train or in bed are likely to differ considerably from reading in a seminar room. 【英语一 2015 年新题型】#在火车上或在床上阅读的方式可能与在会议室里阅读的方式大不相同。
+
+### 真题固定搭配
+
+differ from... 与……不同 differ with... 与……意见不同
+
+## differentiate
+
+> 真题出现频率：4
+
+> different（a. 不同的）+i（无义）+ate（v.）→“由于存在不同而产生的动作”；因为两个事物极度“不同”，所以才能→ v. 区分，区别
+
+### 意思
+
+v.区分，区别
+
+### 派生词
+
+differentiation n. 区分，区别
+
+### 例句
+
+I can't differentiate one variety from another. #我无法将这几个品种区别开来。
+
+### 真题例句
+
+Our ability to mute our hard-wired reactions by pausing is what differentiates us from animals. 【英语二 2013 年阅读 Text 3】#我们人类通过暂停的方式弱化自身固有反应的这种能力使我们有别于动物。
+
+### 真题固定搭配
+
+differentiate A from B　区别 A 与 B differentiate between A and B　区别 A 与 B
+
+## diffuse
+
+> 真题出现频率：8
+
+> dif（散）+fuse →“四散流开”→ v. 传播，发散
+
+### 意思
+
+v.传播，发散
+
+### 派生词
+
+diffusion n. 传播，发散
+
+### 例句
+
+The printing press helped diffuse scientific knowledge. #印刷品有助于传播科学知识。
+
+### 真题例句
+
+Alvarez’s experience demonstrates the importance of finding ways to diffuse stress before it threatens your health and your ability to function. 【2008 年阅读 Text 1】#阿尔瓦雷斯的经验表明，在压力威胁你的健康和正常生理功能之前，找到方式去缓解它们是非常重要的。
+
+## digital
+
+> 真题出现频率：30
+
+> digit（n. 数字，手指）+al（a.）→ a. 数字的，数位的；手指的 n. 数字
+
+### 意思
+
+a.数字的，数位的；手指的 n.数字
+
+### 派生词
+
+digitalized a. 数字化的
+
+### 例句
+
+How long have you had digital? #你们有数字电视多长时间了？
+
+### 真题例句
+
+Today， we live in a world where GPS systems, digital maps, and other navigation apps are all available on our smart phones. 【英语一 2019 年完形】#今天我们生活在一个 GPS 系统、数字地图和其他导航应用程序均可在智能手机上使用的世界。
+
+### 真题固定搭配
+
+digital economy 数字经济 digital giant 数字巨头公司 digital product 数码产品
+digital technology 数字技术
+
+## dilemma
+
+> 真题出现频率：5
+
+> di+lemma（谐音“来嘛”）→“和前女友分了，对方打电话说来嘛”；去还是不去呢？→ n. 困境，进退两难
+
+### 意思
+
+n.困境，进退两难
+
+### 例句
+
+He was faced with the dilemma of whether or not to return to his country. #他面临着是否回国的艰难选择。
+
+### 真题例句
+
+[D] The Gap Year: A Dilemma【英语二 2017 年阅读 Text 3 35 题 D 选项】#[D] 间隔年：两难之选
+
+### 真题固定搭配
+
+be in a dilemma 陷于进退两难的境地
+
+## diligent
+
+> 真题出现频率：2
+
+> 谐音“弟累真的”→“弟弟真的很累”；因为太→ a. 勤奋的，用功的
+
+### 意思
+
+a.勤奋的，用功的
+
+### 派生词
+
+diligence n. 勤奋，勤勉
+
+### 例句
+
+He is both wise and diligent, so he makes good in everything. #他既聪明又勤勉，所以每件事都做很出色
+
+## dimension
+
+> 真题出现频率：8
+
+> di（散）+mens（测量）+ion（n.）→“四散地测量”；向两个方向分散测量→ n. 尺寸，面积→“四散地测量”；向几个方向分散测量→ n. 维度
+
+### 意思
+
+n.尺寸，面积；维度
+
+### 派生词
+
+dimensional a. 空间的，尺寸的
+
+### 例句
+
+There was undeniably a strong theoretical dimension to his thinking.#不可否认，他的想法很有理论深度。
+
+### 真题例句
+
+Such dimensions of reading suggest—as others introduced later in the book will also do—that we bring an implicit (often unacknowledged) agenda to any act of reading.【 英语一 2015年新题型】#这些阅读维度表明——书中稍后介绍的其他阅读维度也表明了这个事实——任何阅读行为都会伴随隐形动机（经常是不被承认的）。
+
+## diminish
+
+> 真题出现频率：7
+
+> di（散）+min+ish（v.）→“分散、变小的动作”→ v. 减小，缩小
+
+### 意思
+
+v.减小，缩小
+
+### 派生词
+
+diminishing a. 逐渐缩小的 v. 减小，缩小（diminish的现在分词）
+
+### 例句
+
+In zones of increased turbulence, the planes' wakes will decay more quickly and the effect will diminish. #在湍流增强的区域，飞机的尾流会消失得更快，它的效果也会减弱。
+
+### 真题例句
+
+[B] diminishes the role of reviewers【英语一 2015 年阅读 Text 3 34 题 B 选项】#[B] 降低了审稿人员的作用
+
+## direct
+
+> 真题出现频率：62
+
+> di（无义）+rect →“给别人正确的方向” → v. 指导，指引→“说话、做事很
+直” → a. 直接的
+
+### 意思
+
+v.指导，指引a.直接的
+
+### 派生词
+
+direction n. 方向；指导 director n. 主管，主任；导演；负责人 directly
+ad. 直接地；立即 indirect a. 间接的 indirectly ad. 间接地 directive a. 指示的，
+指导的 redirect v. 改变方向，重新使用 redirection n. 重定向
+
+### 例句
+
+They are in direct contact with the hijackers.#他们与劫机者直接联系。
+
+### 真题例句
+
+Rather than dismissing ourselves as unchangeable creatures of habit, we can instead direct our own change by consciously developing new habits. 【2009年阅读 Text1】#我们不必把自己看作一成不变的习惯性生物，相反，我们可以通过有意识地培养新习惯来主动指导自身的变化。
+
+## disable
+
+> 真题出现频率：2
+
+> dis+able →“能力被否定”→ v. 使无能；使残疾；使无效，使不能运转
+
+### 意思
+
+v.使无能；使残疾；使无效，使不能运转
+
+### 派生词
+
+disabled a. 有残疾的，有缺陷的
+
+### 例句
+
+There is a lack of adequate provision for disabled students.#为残疾学生提供的服务不够。
+
+## disappoint
+
+> 真题出现频率：10
+
+> dis+appoint （任命 / 指派）→“没有被任命和指派”→ v. 使失望；（希望等）破灭
+
+### 意思
+
+v.使失望；（希望等）破灭
+
+### 派生词
+
+disappointed a. 失望的 disappointment n. 失望
+
+### 例句
+
+His latest novel does not disappoint. #他最近发表的这部小说没有使人失望。
+
+### 真题例句
+
+The “threatened” tag disappointed some environmentalists in that it.【英语二 2016 年阅读 Text 2 27 题题干】#“受威胁”标签令一些环保主义者感到失望是因为它          。
+
+## disaster
+
+> 真题出现频率：4
+
+> dis（散）+aster（astr；星星，星辰）→“星星四散”，预示着人间出现→n. 灾难，灾祸
+
+### 意思
+
+n.灾难，灾祸
+
+### 派生词
+
+disastrous a. 灾难性的，损失惨重的
+
+### 例句
+
+Losing your job doesn't have to be such a disaster. #丢了工作不一定就是大难临头。
+
+### 真题例句
+
+But it’s not as if earlier times didn’t know perpetual war, disaster and the massacre of innocents.【2006年阅读Text 4】#但历史早期也并不是没有持久的战争、灾难和对无辜者的屠杀。
+
+## discard
+
+> 真题出现频率：5
+
+> dis+card（卡片）→“不要这张卡片”→ v. 丢弃，抛弃
+
+### 意思
+
+v.丢弃，抛弃
+
+### 例句
+
+Such die-hards will be discard by history. #这种顽固分子会被历史所抛弃。
+
+### 真题例句
+
+[A] customary of the educated to discard ambition in words【2000 年阅读Passage 5 68 题 A 选项】#[A] 受过教育的人习惯于口头上摒弃雄心壮志
+
+## discern
+
+> 真题出现频率：3
+
+> dis（散）+cer+n（无义）→“关心使之区分开”→ v. 辨别，识别
+
+### 意思
+
+v. 辨别，识别
+
+### 派生词
+
+discernable a. [dɪˈsɜːnəbl] 可辨别的，可识别的
+
+### 例句
+
+You need a long series of data to be able to discern such a trend.#你需要一长串的数据才能看出这一趋势。
+
+### 真题例句
+
+More difficult, in the moment, is discerning precisely how these lean times are affecting society’s character.【英语二 2012 年阅读 Text 4】#在目前，更困难的是准确地辨别这些精益时代是如何影响社会性格的。
+
+## discipline
+
+> 真题出现频率：12
+
+> di（二，双）+scip（改写自 cip）+line（线）→任何组织中“两条都要紧抓的线”→ n. 纪律，训练
+
+### 意思
+
+n. 纪律，训练；学科
+
+### 派生词
+
+disciplinary a. 纪律的，训练的
+
+### 例句
+
+He was weaned on a diet of rigid discipline and duty.#他自幼受到严格纪律和职责的约束。
+
+## disclose
+
+> 真题出现频率：3
+
+> dis（否定）+close（关）→“不关闭”→ v. 泄露，暴露，显露
+
+### 意思
+
+v.泄露，暴露，显露
+
+### 派生词
+
+disclosure n. 披露，暴露，泄露
+
+### 例句
+
+I am afraid we are not at liberty to disclose that information. #恐怕我们无权透露那信息。
+
+### 真题例句
+
+Meanwhile, the theft of information about some 40 million credit-card accounts in America, disclosed on June 17th, overshadowed a hugely important decision. 【2007年阅读 Text 4】#与此同时，美国 6 月 17 日披露的一起涉及约 4000 万信用卡账户的信息失窃事件给一个重要决定蒙上了阴影。
+
+## discount
+
+> 真题出现频率：2
+
+> dis（否定）+count →老板，这 10 块钱“别算了”，要求老板→ n. 折扣v. 打折
+
+### 意思
+
+n.折扣 v.打折
+
+### 例句
+
+They are often available at a discount. #它们经常可以以折扣价买到。
+
+### 真题固定搭配
+
+at a discount of... 以……的折扣
+
+## discourage
+
+> 真题出现频率：3
+
+> dis+courage（勇气）→“否定别人的勇气，使之没有勇气”，不就是→ v. 使气馁，阻止
+
+### 意思
+
+v.使气馁，阻止
+
+### 例句
+
+His parents tried to discourage him from being an actor. #他的父母试图阻止他去当演员。
+
+### 真题例句
+
+[D] discourage car manufacturing 【英语二 2020 年 阅读 Text 3 33 题 D 选项】#[D] 阻止汽车制造业
+
+### 真题固定搭配
+
+discourage sb. from doing sth. 劝某人不要做某事
+
+## discourse
+
+> 真题出现频率：2
+
+> dis（否定）+course（n. 课程）→“今天不上课，只是听讲座”→ v.&n. 演
+说，讲座，论述
+
+### 意思
+
+v.&n. 演说，讲座，论述
+
+### 例句
+
+He was hoping for some lively political discourse at the meeting.#他希望在会上听到些生动的政治演讲。
+
+## discover
+
+> 真题出现频率：42
+
+> dis（否定）+cover →“没有盖”→ v. 发现，发觉
+
+### 意思
+
+v.发现，发觉
+
+### 派生词
+
+discovery n. 发现，发觉 discoverer n. 发现者 rediscover v. 再次（重新）
+发现
+
+### 例句
+
+Only later did she discover a talent for writing. #她后来才发现自己的写作天分
+
+### 真题例句
+
+A string of accidents, including the partial collapse of a cooling tower in 2007 and the discovery of an underground pipe system leakage, raised serious questions about both Vermont Yankee’s safety and Entergy’s management—especially after the company made misleading statements about the pipe. 【英语一 2012 年阅读 Text 2】#一系列事故的发生，包括 2007 年一座冷凝塔部分倒塌及一个地下管道系统泄漏的发现，都引起了人们对佛蒙特州扬基核电站的安全性及安特吉公司的管理水平的严重怀疑——尤其是在该公司对管道泄漏事件做出误导性的声明之后。
+
+## discrete
+
+> 真题出现频率：2
+
+> dis（散）+cret+e（无义）→“分散地产生，创造”→ a. 离散的，不连续的
+
+### 意思
+
+a. 离散的，不连续的
+
+### 例句
+
+The organisms can be divided into discrete categories. #有机体可分为许多互不相联的种类。
+
+## discrimination
+
+> 真题出现频率：12
+
+> dis（散）+crim+ in（无义）+ation（n.）→与“犯罪、有罪之人”保持“分散，离开”的动作，是不是一种→ n. 歧视，区别对待
+
+### 意思
+
+n.歧视，区别对待
+
+### 例句
+
+She is exempt from sex discrimination laws. #她不用遵守性别歧视法规。
+
+### 真题例句
+
+Railroads justify rate discrimination against captive shippers on the grounds that in the long run it reduces everyone’s cost.【2003 年阅读 Text 3】#铁路公司认为对托运商实行价格歧视是合理的，理由是从长远来看，这样做减少了所有人的成本。
+
+### 真题固定搭配
+
+discrimination against... 歧视 / 区别对待……
+
+## disgrace
+
+> 真题出现频率：4
+
+> dis+grace（n. 优雅，魅力）→“否定我的优雅与魅力”，让我没面子！→v.&n. 丢脸，（使）耻辱
+
+### 意思
+
+v.&n.丢脸，（使）耻辱
+
+### 例句
+
+Republican leaders called him a disgrace to the party. #共和党领导人们称他为该党的耻辱。
+
+### 真题例句
+
+Today we have a tendency to label obesity as a disgrace. 【英语二 2014 年完形】#今天我们倾向于认为肥胖是一种耻辱。
+
+## disguise
+
+> 真题出现频率：2
+
+> dis+gui（谐音“鬼”）+se （谐音“色”）→“不是人，是色鬼”→ v.&n. 伪装，掩饰
+
+### 意思
+
+v.&n.伪装，掩饰
+
+### 派生词
+
+disguised a. 伪装的
+
+### 例句
+
+He tried to disguise his accent. #他竭力掩饰自己的口音。
+
+## dismiss
+
+> 真题出现频率：8
+
+> dis（否定）+miss（思念）→公司、企业“不再思念你了”→ v. 解雇；解散→法官“不再思念你了”→ v. 不受理
+
+### 意思
+
+v.解雇；解散；不受理
+
+### 例句
+
+He was so irresponsible that I decided to dismiss him. #他如此不负责任，我决定解雇他。
+
+### 真题例句
+
+Which is why decisions split along ideological lines are so easily dismissed as unjust. 【英语一 2012 年完形】#这也是为什么那些在意识形态上存在分歧的判决会很容易因为不公平而被驳回。
+
+## disorder
+
+> 真题出现频率：6
+
+> dis（否定）+order（顺序，秩序）→这个地方“没有秩序”→ n. 混乱
+
+### 意思
+
+n.混乱
+
+### 例句
+
+Anyone can develop an eating disorder, but young women are most vulnerable. #任何人都可能得饮食紊乱症，但是年轻女性是最易得该症的。
+
+### 真题例句
+
+And a significant number of the homeless have serious mental disorders.【 2006年完形】#并且很多无家可归的人有着严重的精神错乱。
+
+## dispirit
+
+> 真题出现频率：2
+
+> di（散）+spirit →“精神、灵魂已经散了”，干什么都觉得没劲→ v. 使沮丧，使气馁
+
+### 意思
+
+v.使沮丧，使气馁
+
+### 例句
+
+The army was dispirited by the uncomfortable winter conditions.#军队因为冬季环境不适而士气不振，
+
+### 真题固定搭配
+
+dispirit sb. from doing sth. 使某人不做某事
+
+## dispose
+
+> 真题出现频率：7
+
+> dis（散）+pos+e（无义）→“四散摆放”，等待→ v. 处理，处置；布置，安排
+
+### 意思
+
+v.处理，处置；布置，安排
+
+### 派生词
+
+disposal n. 处理，处置；布置，安排 disposition n. 性情，性格； 意向，倾向； 安排，配置 disposable a. 可处理的，一次性的
+
+### 例句
+
+Obviously we ask all our customers to dispose of litter responsibly.#显然，我们要求所有的顾客负责任地处理垃圾。
+
+### 真题例句
+
+Those labels encourage style-conscious consumers to see clothes as disposable.【英语一 2013年阅读 Text1】#那些品牌鼓励注重穿衣品位的消费者把服装视为一次性用品。
+
+## dispute
+
+> 真题出现频率：7
+
+> dis（散）+put+e（无义）→“想法分散了，不往一个方向想了”；出现了→
+v.&n. 争论，争吵；抵抗
+
+### 意思
+
+v.&n.争论，争吵；抵抗
+
+### 派生词
+
+disputable a. 可争辩的，有争议的
+
+### 例句
+
+The town is in uproar over the dispute.#该城对此争端一片哗然。
+
+### 真题例句
+
+Another factor may be that more people are trying to overpack their carry-on bags to avoid checked-baggage fees, though the airlines strongly dispute this.【 英语一 2017年阅读 Text1】#另一个因素可能是，尽管机场强烈反对，依然有越来越多的人试着塞满自己的随身行李，以免交行李托运费。
+
+### 真题固定搭配
+
+in dispute 争论中
+
+## disrupt
+
+> 真题出现频率：4
+
+> dis（散）+rupt →“四散打破”→ v. 分裂，瓦解
+
+### 意思
+
+v.分裂，瓦解
+
+### 派生词
+
+disruption n. 分裂，瓦解 disruptive a. 分裂的，破坏的
+
+### 例句
+
+A stroke can disrupt the supply of oxygen to the brain.#中风可导致大脑供氧中断。
+
+### 真题例句
+
+New, disruptive technology sometimes demands novel applications of the Constitution’s protections.【英语一 2015年阅读 Text2】#全新的、具有颠覆性的科技有时要求以新的方式去运用宪法的保护。
+
+## dissolve
+
+> 真题出现频率：2
+
+> dis（散）+solv+e（无义）→“分散地解决或溶解”→ v. 分解；（使）溶
+解，（使）融化
+
+### 意思
+
+v.分解；（使）溶解，（使）融化
+
+### 例句
+
+The substance does not dissolve in water whether heated or not.#无论加热与否，这种物质都不溶于水。
+
+## distant
+
+> 真题出现频率：7
+
+> di（散）+st+ant（a.）→“分散站立，分散站开”→ a. 遥远的→“关系的
+遥远”→ a. 冷漠的
+
+### 意思
+
+a.遥远的；冷漠的
+
+### 派生词
+
+distance n. 距离
+
+### 例句
+
+He's a distant cousin of mine.#他是我远房的一个表亲。
+
+### 真题例句
+
+Some papers even had the nerve to refuse delivery to distant suburbs. 【英语二 2011年阅读 Text2】#一些报纸甚至敢拒绝向偏远郊区的用户投递。
+
+## distaste
+
+> 真题出现频率：4
+
+> dis+taste（尝）→“不愿意尝”；觉得恶心→ v.&n. 厌恶，讨厌
+
+### 意思
+
+v.&n.厌恶，讨厌
+
+### 派生词
+
+distasteful a. 令人反感的，讨厌的
+
+### 例句
+
+In our interviews, many students viewed politics with suspicion and distaste. #在我们的采访中，许多学生对政治持怀疑和厌恶的态度。
+
+### 真题例句
+
+[B] the anti-happy art is distasteful but refreshing【2006 年阅读 Text 4 39 题 B选项】#[B] 反快乐艺术令人厌恶却使人头脑清醒
+
+## distinct
+
+> 真题出现频率：10
+
+> di（散）+stinct（谐音“死盯着他”）→同志们，“散开，给我死死盯着嫌
+犯”，自然看得→ a. 明显的，清楚的
+
+### 意思
+
+a.明显的，清楚的
+
+### 派生词
+
+distinctly ad. 明显地， 确实地 distinctive a. 有特色的， 与众不同的 distinctively ad. 有特色地，特殊地 distinctiveness n. 特殊性，特色
+
+### 例句
+
+There was a distinct smell of gas.#有一股明显的煤气味。
+
+### 真题例句
+
+The emphasis on data gathered first-hand, combined with a cross-cultural perspective brought to the analysis of cultures past and present, makes this study a unique and distinctly important social science.【 2003年翻译】# 对收集到的第一手资料的重视，与用来分析过去和现在的文化的跨文化视角相结合，使这一研究成为一门独特且相当重要的社会科学。
+
+## distinction
+
+> 真题出现频率：6
+
+> 上词distinct的名词；distinct+ion（n.）→“ 什么东西很明显？”→n. 区别，差别→有别于一般的区别就是→ n. 荣誉，卓越
+
+### 意思
+
+n.区别，差别；荣誉，卓越
+
+### 例句
+
+We need to draw a distinction between the two events.#我们得把两起事件区别开来。
+
+### 真题例句
+
+But this distinction misses the point that it is processing and aggregation, not the mere possession of bits, that gives the data value.【英语一 2018年阅读 Text3】#但是这种区分忽视了一点：是处理和集成这些数据，而不是单单地占有它们，赋予了这些数据价值。
+
+## distinguish
+
+> 真题出现频率：3
+
+> 上词distinction 的动词→ v. 区别，辨别
+
+### 意思
+
+v.区别，辨别
+
+### 例句
+
+Could he distinguish right from wrong? #他能辨别是非吗？
+
+### 真题例句
+
+We are thus led to distinguish, within the broad educational process which we have been so far considering, a more formal kind of education—that of direct tuition or schooling.【2009年翻译】# 这就引导我们在一直思考的广义的教育过程中区分出一种更为正规的教育形式，即直接指导或学校教育。
+
+### 真题固定搭配
+
+distinguish between A and B 区别A 与B
+
+## distinguished
+
+> 真题出现频率：2
+
+> 上词distinguish 的形容词→能与他人产生巨大的“区别、差别”→ a. 著名的；卓越的
+
+### 意思
+
+a.著名的；卓越的
+
+### 例句
+
+His suit was immaculately cut and he looked very distinguished.#他的西服剪裁完美，人显得十分高贵。
+
+## distort
+
+> 真题出现频率：4
+
+> dis（散）+tort →“把事实四散地扭，转”→ v. 歪曲（真理、事实等），扭
+曲；引申为→ v. 使变形
+
+### 意思
+
+v.歪曲（真理、事实等），扭曲；使变形
+
+### 例句
+
+The loudspeaker seemed to distort his voice.#他的声音从喇叭里传出来好像失真了。
+
+### 真题例句
+
+Emphasize one and the others become distorted.【英语二 2021年完形】#强调一个，另一个会变得扭曲。
+
+## distract
+
+> 真题出现频率：8
+
+> 上词 attract 的反义词；dis（散）+tract →“ 把注意力拉得分散了，拉到别处了”→ v. 使分心，分神；打扰
+
+### 意思
+
+v.使分心，分神；打扰
+
+### 派生词
+
+distraction n. 注意力分散 distracted a. 注意力分散的，不集中的 undistracted
+a. 注意力集中的，不分散的
+
+### 例句
+
+It was another attempt to distract attention from the truth.#这又是企图分散人们对事实真相的注意力。
+
+### 真题例句
+
+[B] distracts children’s attention【 英语二 2017年阅读Text2 27题B选项】# [B] 分散了孩子们的注意力
+
+## distribute
+
+> 真题出现频率：16
+
+> dis（散）+ tribute →“四散地给”，你一个，他一个→ v. 分发，散发
+
+### 意思
+
+v.分发，散发
+
+### 派生词
+
+distribution n. 分发，分配 redistribution n. 重新分配
+
+### 例句
+
+Aid workers helped distribute corn, milk and other staples.#救助人员协助分发谷物、牛奶及其他必需的食物。
+
+### 真题例句
+
+As Nature has pointed out before, there are some legitimate concerns about how science prizes—both new and old—are distributed.【 英语一 2014年阅读 Text3】#正如《自然》杂志之前指出的，关于科学奖项（不管是新设立的还是以前就有的）该如何分发的问题，存在一些合理的担忧。
+
+## disturb
+
+> 真题出现频率：4
+
+> dis（散）+turb →“四散地搅动”；不安定因素→ v. 扰乱，妨碍，使不安
+
+### 意思
+
+v.扰乱，妨碍，使不安
+
+### 派生词
+
+disturbance n. 扰乱，妨碍，骚乱
+
+### 例句
+
+I didn't like to disturb you.#我本不愿打搅你。
+
+### 真题例句
+
+[B] disturbed the power balance between different states. 【英语一 2013年阅读 Text4 36题B选项】#[译] [B] 打破了各州间的权力平衡
+
+## diverse
+
+> 真题出现频率：7
+
+> 上词divert 的形容词→“四散地转变”；转变来转变去→ a. 多种多样的，不同的
+
+### 意思
+
+a.多种多样的，不同的
+
+### 派生词
+
+diversity n. 多样化，多样性 diversify v. 增加...的品种；从事多种经营
+
+### 例句
+
+Cuba is a composite of diverse traditions and people.#古巴是一个不同传统和民族的融合体。
+
+### 真题例句
+
+Thus, in his view, diverse aspects of culture all changed as societies evolved.【2009年新题型】#因此，在他看来，文化的不同方面都随着社会的进化而改变。
+
+## divert
+
+> 真题出现频率：2
+
+> di（散）+vert →“四散地转”→ v. 使转向，转移（注意力）
+
+### 意思
+
+v.使转向，转移(注意力)
+
+### 例句
+
+He instructed the switchboard staff to divert all Laura's calls to him.#他通知接线员把劳拉打来的所有电话都转给他。
+
+## divide
+
+> 真题出现频率：21
+
+### 意思
+
+v.分，分份；除
+
+### 派生词
+
+divided a. 分裂的，有分歧的 v. divide 的过去式和过去分词 undivided a. 未
+分开的，完整的
+
+### 例句
+
+How should we divide the shares? #我们该如何划分股份？
+
+### 真题例句
+
+[A] division of labor at home is seldom clear-cut 【英语二 2015 年阅读 Text 1 25 题 A 选项】#[A] 家里的劳动分工很少有明确的
+
+### 真题固定搭配
+
+divide... into... 把……分成……
+
+## division
+
+> 真题出现频率：4
+
+> divis+ion（n.）→ n. 分开→“公司里被分开的部分”→ n. 部门
+
+### 意思
+
+n.分开；部门
+
+### 例句
+
+In future, staff recruitment will fall within the remit of the division manager. #以后招募新员工将属于部门经理的职责。
+
+## divorce
+
+> 真题出现频率：14
+
+> di+vorce（改写自 voice；声音）→“两个人声音分开”；你不想听到我，我也不想听到你→ v.&n. 离婚，分离
+
+### 意思
+
+v.&n.离婚，分离
+
+### 例句
+
+Divorce is bad for children. #离婚对孩子不好。
+
+### 真题例句
+
+Divorce is legal and relatively easy to obtain, but not common.【英语一 2016 年完形】#离婚是合法的，且容易获得批准，但并不常见。
+
+### 真题固定搭配
+
+get divorced 离婚 divorce rate 离婚率
+
+## domain
+
+> 真题出现频率：2
+
+> dom+ain（n.）→“统治的地方”；这是我的地盘→ n. 领域，范围
+
+### 意思
+
+n.领域，范围
+
+### 例句
+
+Physics used to be very much a male domain. #物理学曾在很大程度上是男人的领域。
+
+## dome
+
+> 真题出现频率：2
+
+> dom+e（简写自 eye；眼）→“房子长眼”的地方；对于人来说，眼睛长在靠头顶的位置；“房子长眼”自然也在靠顶部的地方→ n. 圆屋顶，屋顶
+
+### 意思
+
+n.圆屋顶，屋顶
+
+### 例句
+
+The dome is 42.3 metres in diameter. #这个穹顶直径为42.3米。
+
+## domestic
+
+> 真题出现频率：11
+
+> dom+est（无义）+ic（a.）→“家的”→ a. 家里的，家庭的→“所有人民的家”→ a. 本国的，国家的
+
+### 意思
+
+a.家里的，家庭的；本国的，国家的
+
+### 派生词
+
+domestically ad. 在国内，国内地
+
+### 例句
+
+Domestic prices have been aligned with those in world markets. #国内价格已调整到与世界市场一致。
+
+### 真题例句
+
+First two hours, now three hours—this is how far in advance authorities are recommending people show up to catch a domestic flight.【英语一 2017 年阅读 Text 1】#一开始是两个小时，现在是三个小时——这是官方建议人们要赶上国内航班需要提前出现在机场的时间。
+
+## dominate
+
+> 真题出现频率：16
+
+> dom+in（无义）+ate（v.）→ v. 统治，支配
+
+### 意思
+
+v.统治，支配
+
+### 派生词
+
+dominant a. 统治的，支配的 dominance n. 统治，支配
+
+### 例句
+
+The big companies dominate the lower price points. #大公司在低端价格领域占主导地位。
+
+### 真题例句
+
+It is stuck because the euro zone’s dominant powers, France and Germany, agree on the need for greater harmonisation within the euro zone, but disagree about what to harmonise.【英语二 2011 年阅读 Text 4】#作为欧元区主导力量的法国和德国虽然都同意有必要在欧元区进行更多协调，但在协调内容上存在异议，因此讨论陷入了僵局。
+
+## donate
+
+> 真题出现频率：3
+
+> 谐音“都给他”→ v. 捐赠，赠予
+
+### 意思
+
+v.捐赠，赠予
+
+### 派生词
+
+donation n. 捐赠，赠予
+
+### 例句
+
+We are happy to donate to bona fide charitable causes. #我们很乐意向真正的慈善事业捐赠。
+
+### 真题例句
+
+Second, customers may be willing to buy a company’s products as an indirect way to donate to the good causes it helps.【英语一 2016 年阅读 Text 3】#其二，消费者可能会愿意购买某一公司的产品，并将这种行为看作对企业所资助的慈善事业的间接帮助。
+
+### 真题固定搭配
+
+donate to 捐赠
+
+## doom
+
+> 真题出现频率：5
+
+> 上词 boom 的反义词；字形上 b 和 d 方向相反，但后面的 oom 完全一样→
+n. 厄运，劫数
+
+### 意思
+
+n.厄运，劫数
+
+### 例句
+
+Does this spell the doom of the physical book? #这是否意味着实体书的末日？
+
+### 真题例句
+
+But policymakers who refocus efforts on improving well-being rather than simply worrying about GDP figures could avoid the forecasted doom and may even see progress. 【英语一 2017 年阅读 Text 3】#但是，如果政策制定者重新将关注点放在改善民生上，而不是只担心国内生产总值，或许可以避免这一可预见的厄运，甚至带来经济进步。
+
+## doubt
+
+> 真题出现频率：24
+
+> 谐音“道他”→“难道是他？”→ v.&n. 怀疑
+
+### 意思
+
+v.&n.怀疑
+
+### 派生词
+
+doubtful a. 怀疑的；难以预测的 doubtless ad. 大概；几乎肯定地 undoubtedly
+ad. 毫无疑问地；确定地 doubter n. 怀疑者，持怀疑态度的人
+
+### 例句
+
+There is good reason to doubt this.#有正当理由怀疑这件事。
+
+### 真题例句
+
+[A] is subject to groundless doubts【 2009年阅读 Text1 31题 A选项】# [A] 遭受了无根据的怀疑
+
+### 真题固定搭配
+
+no doubt/without doubt 毫无疑问；确定地
+
+## dramatic
+
+> 真题出现频率：12
+
+> drama 的形容词；drama（戏剧）+t（无义）+ic（a.）→ a. 戏剧的，戏剧性的；引人注目的
+
+### 意思
+
+a.戏剧的，戏剧性的；引人注目的
+
+### 派生词
+
+dramatically ad. 戏剧地，引人注目地；急剧地
+
+### 例句
+
+The nation is gripped by the dramatic story. #整个国家都被这个戏剧性的故事所吸引
+
+### 真题例句
+
+Curbs on business-method claims would be a dramatic about-face, because it was the Federal Circuit itself that introduced such patents with its 1998 decision in the so-called State Street Bank case, approving a patent on a way of pooling mutual-fund assets.【英语一 2010 年阅读 Text 2】#对商业方法专利申请的限制将是（联邦巡回法院）态度的彻底转变，因为正是联邦巡回法院自身在 1998 年所谓“道富银行案”的裁决中引入了这类专利，当时法院批准对某类共同投资资产的管理方法授予专利。
+
+## drastic
+
+> 真题出现频率：3
+
+> drast（谐音“抓死 Ta”）+ic（a.）→“抓死 Ta”；够→ a. 激烈的，猛烈的；严厉的
+
+### 意思
+
+a.激烈的，猛烈的；严厉的
+
+### 派生词
+
+drastically ad. 急剧地；彻底地；激烈地
+
+### 例句
+
+Against a backdrop of drastic changes in economy and population structure, younger Americans are drawing a new 21st-century road map to success, a latest poll has found.#一项最新民调发现，面对经济和人口结构的急剧变化，年轻人的美国人正在寻找新的21世纪的成功之路。
+
+### 真题例句
+
+[A] its drastically decreased population【英语二 2016 年阅读 Text 2 26 题 A选项】#[A] 其急剧下降的人口数量
+
+## dread
+
+> 真题出现频率：2
+
+> r（辅音字母表示“人”）+dead（死的）→“人死了，死人了”，当然→ v.&n. 恐
+惧，担心
+
+### 意思
+
+v.&n.恐惧，担心
+
+### 派生词
+
+dreadful a. 可怕的，令人畏惧的
+
+### 例句
+
+The prospect of growing old fills me with dread. #想到人会一天天老下去便使我充满恐惧。
+
+## drive
+
+> 真题出现频率：41
+
+### 意思
+
+v.开车；驱动；迫使（熟词僻义，重点关注）
+
+### 例句
+
+People believe that the tea leaves picked on the day of Guyu can make eyes clear and drive away bad luck. #人们相信在谷雨那天采摘的茶叶可以明目，驱走厄运。
+
+### 真题例句
+
+It would be a shame to raise prices too much because it would drive away the young people who are Stratford’s most attractive clientele. 【2006 年阅读 Text 2】#大幅提高票价将会是件很羞愧的事情，因为这样会失去斯特拉特福最具吸引力的一群年轻顾客。
+
+### 真题固定搭配
+
+drive away 驶离，取走
+
+## drop
+
+> 真题出现频率：12
+
+### 意思
+
+v.落下；减低，减少（熟词僻义，重点背诵）
+
+### 派生词
+
+backdrop n. 背景
+
+### 例句
+
+Temperatures can drop to freezing at night. #晚上气温能陡降到零度以下。
+
+### 真题固定搭配
+
+drop out （of）离开，退出 drop （back） to 下降到，跌落至 drop by 下降了
+
+## drought
+
+> 真题出现频率：3
+
+> dry（a. 干旱的）的名词→ n. 干旱；旱灾
+
+### 意思
+
+n.干旱；旱灾
+
+### 例句
+
+During the drought the river dried up. #旱灾期间，河流都干涸了。
+
+### 真题例句
+
+[B] cultivate more drought-resistant trees【英语二 2019 年阅读 Text 2 28 题 B选项】#[B] 培育更多抗旱的树
+
+## drug
+
+> 真题出现频率：31
+
+> 谐音“抓哥”→“警察来抓大哥”；因为和“药与毒”相关→ n. 药物；毒品
+
+### 意思
+
+n.药物；毒品
+
+### 派生词
+
+drugstore n. 药店
+
+### 例句
+
+The new drug was ineffective. #新药不起作用。
+
+### 真题例句
+
+Firms are now studying how genes interact, looking for correlations that might be used to determine the causes of disease or predict a drug’ s efficacy.【英语二 2012年阅读 Text 3】#公司现在正在研究基因是如何相互作用的，并寻找某些可能用于确定病因或预测药效的相关性。
+
+## dual
+
+> 真题出现频率：2
+
+> du（=bi=2）+al（a.）→ a. 两部分的；双的
+
+### 意思
+
+a. 两部分的；双的
+
+### 例句
+
+His dual role as composer and conductor.#他兼任作曲家和指挥的双重角色
+
+## dubious
+
+> 真题出现频率：2
+
+> dub（简写自doubt；怀疑）+ious（a.）→ a. 怀疑的，可疑的
+
+### 意思
+
+a.怀疑的，可疑的
+
+### 例句
+
+They indulged in some highly dubious business practices to obtain their current position in the market.#他们采取了一些极为可疑的商业手段以取得目前在市场上的地位。来源：《牛津词典》
+
+### 真题固定搭配
+
+be dubious of... 怀疑……
+
+## duplicate
+
+> 真题出现频率：3
+
+> du（=bi=2）+pli+c（无义）+ate（v.）→“填成两份”→ v. 复制，复印 n. 复制品
+
+### 意思
+
+v.复制，复印n.复制品
+
+### 派生词
+
+duplication n. 复制，重复
+
+### 例句
+
+There's no point in duplicating work already done.#重复别人已经做过的工作毫无意义。
+
+### 真题例句
+
+Little reward accompanies duplication and confirmation of what is already known and believed.【英语一 2012年阅读 Text3】#重复和证实人们已经知道或相信的知识几乎得不到回报。
+
+## durable
+
+> 真题出现频率：3
+
+> dur+able（a.）→“能够持续的”→ a. 持久的，耐久的
+
+### 意思
+
+a.持久的，耐久的
+
+### 例句
+
+Moreover, these perceptual changes can be profound and durable. #此外，这些感知变化可能是深刻和持久的。
+
+### 真题例句
+
+[C] durable and frequent【2008 年阅读 Text 1 23 题 C 选项】#[C] 持久且频繁的
+
+## duration
+
+> 真题出现频率：2
+
+> dur+ation（n.）→ n. 持久，持续时间
+
+### 意思
+
+n.持久，持续时间
+
+### 例句
+
+The duration of previous geologic periods was difficult to determine. #以前很难确定地质期的持续时间。
+
+## dwelling
+
+> 真题出现频率：3
+
+> dwell（居住）+ing（n.）→“居住的地方”→ n. 住宅，住所
+
+### 意思
+
+n.住宅，住所
+
+### 派生词
+
+dweller n. 居民，居住者
+
+### 例句
+
+After dwelling in Rio for ten years, she moved to Lisbon. #她在里约居住了10年之后迁居到里斯本去了。
+
+### 真题例句
+
+In one case, many researchers working around the ancient Maya city of Copán, Honduras, have located hundreds of small rural villages and individual dwellings by using aerialphotographs and by making surveys on foot.【英语一 2014 年新题型】#在一个考古实例中，许多研究人员在洪都拉斯的玛雅古城科潘进行勘察，通过航空摄影和步行勘测两种方式定位出了数百个小村庄和民宅的位置。
